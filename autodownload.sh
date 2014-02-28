@@ -7,13 +7,18 @@
 
 # In the next line, you should set the range of DotA match IDs you want.  
 # Currently, this is set up to scan the first 400 matches.  
-for (( i=$1; i<=$2; ++i)) ; do
+
+first=`cat lastcount`
+let first=$first+1
+
+for i in `seq $first $1`  ; 
+do
   echo $i
   #sleep 1 # Just to throttle a little bit, totally optional.  Remove this line if you want.
   wget http://www.dota2lounge.com/match?m=$i -O match.htm
 
   # To get the winning team
-  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | grep win | awk '{print substr($0, 0, length($0)-6)}' | tr -d "_" > winning-team
+  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | grep win | awk -F'_' '{print $1}' > winning-team
 
   # To get the losing team
   cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | grep -v win | tr -d "_" > losing-team
@@ -47,22 +52,26 @@ then
  echo ping > winning-team
  echo ping > losing-team
  echo 0 > winning-team-idx
-
   paste idx winning-team losing-team first-team second-team winning-team-idx favor-left favor-right odds bo| awk '(NF>=0) {print}' >> data-fail-new
-
 else
-
 
   paste idx winning-team losing-team first-team second-team winning-team-idx favor-left favor-right odds bo| awk '(NF==15) {print}' >> data-good-new
   paste idx winning-team losing-team first-team second-team winning-team-idx favor-left favor-right odds bo| awk '(NF==17) {print}' >> data-good-new
   paste idx winning-team losing-team first-team second-team winning-team-idx favor-left favor-right odds bo| awk '(NF!=15 && NF!=17) {print}' >> data-fail-new
+  paste winning-team>>updatedteam
+  paste losing-team>>updatedteam
 fi
-
-
-
-
   rm match.htm
 done
+
+  cat updatedteam | sort | uniq | sort > updatedlist 
+  while read line
+  do
+      rm $line*
+  done < updatedlist
+  python fan.py
+  rm updated*
+  echo $1>lastcount
 
   cp data-good-new data-good-bak
   cp data-fail-new data-fail-bak
