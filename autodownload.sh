@@ -21,13 +21,13 @@ do
   cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | grep win | awk -F'_' '{print $1}' > winning-team
 
   # To get the losing team
-  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | grep -v win | tr -d "_" > losing-team
+  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | head -n 2 | grep -v win | tr -d "_" > losing-team
 
   # To get the first team on the list
   cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <(" "_  " | awk '{print $1}' | tr -d "_" | head -n 1 > first-team
 
   # To get the second team on the list
-  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <(" "_  " | awk '{print $1}' | tr -d "_" | tail -n 1 > second-team
+  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <(" "_  " | awk '{print $1}' | head -n 2 | tr -d "_" | tail -n 1 > second-team
 
   # To get the index of the winning team
   cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print NR, $1}' | grep "(win)" | awk '{print $1}' > winning-team-idx
@@ -36,7 +36,7 @@ do
   cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr -d " " | tr "<>" "  " | awk '{print $5}' | tr -d "%" | head -n 1 > favor-left
 
   # To get the %favor for the right team
-  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr -d " " | tr "<>" "  " | awk '{print $5}' | tr -d "%" | tail -n 1 > favor-right
+  cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr -d " " | tr "<>" "  " | awk '{print $5}' | head -n 2 | tr -d "%" | tail -n 1 > favor-right
 
   # To get the odds (for 4) in Rares, Uncommons and Commons for left team and right team.  e.g.:
   # LeftRares LeftUncommons leftCommons RightRares RightUncommons RightCommons
