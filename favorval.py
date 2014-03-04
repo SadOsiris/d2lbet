@@ -29,12 +29,13 @@ def team_ana(str_list):
         if(var[2]!=strt[0] and var[1]!=strt[0]):
             buf+=1
             continue
-        #if(int(var[6]<70||int(var[6]>30)):
-        #    buf+=1
-        #    continue
-        if var[9]!="1\n":
+        if(int(var[6])<70 and int(var[6])>30):
             buf+=1
             continue
+        #if var[9]!="1\n":
+        #    buf+=1
+        #    continue
+
         #print var[0],var[1],var[2],var[3],var[4],var[5],var[6],var[7],var[8],var[9]
         odds=var[8].split()
         if(len(odds)<7):
@@ -122,7 +123,7 @@ while (team_idx<len(team_list)):
 
 
 # Save the figure in a separate file
-    plt.savefig(team_name[0]+'bo1.png')
+    plt.savefig(team_name[0]+'a70.png')
 
 # Draw the plot to the screen
 #    plt.show()
