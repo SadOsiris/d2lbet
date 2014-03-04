@@ -15,6 +15,8 @@ def team_ana(str_list):
     nc=0.0
     idx=0
     buf=0
+    team_f=open(strt[0],'a')
+    team_f.write(str(0)+" "+str(0)+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
     with open("data-good-new") as f:
         content = f.readlines()
     while (buf<len(content)):
@@ -24,6 +26,9 @@ def team_ana(str_list):
         #t.strip() for t in data_string.splitlines():
         #var=t
         var=t.split('\t')
+        if(var[2]!=strt[0] and var[1]!=strt[0]):
+            buf+=1
+            continue
         if var[9]!="1\n":
             buf+=1
             continue
@@ -86,13 +91,10 @@ def team_ana(str_list):
             #nr+=int(var[13-idx])
             #nu+=int(var[12-idx])
             #nc+=int(var[11-idx])
-        elif(var[2]!=strt[0] and var[1]!=strt[0]):
-            idx=2
-        if (idx!=2):
             #print var[0],br,bu,bc,nr,nu,nc
-            team_f=open(strt[0],'a')
-            team_f.write(str(buf)+" "+var[0]+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
         buf+=1
+        team_f=open(strt[0],'a')
+        team_f.write(str(buf)+" "+var[0]+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
 
 with open("teamlist") as f:
     team_list = f.readlines()
