@@ -67,8 +67,7 @@ done
   cat updatedteam | sort | uniq | sort > updatedlist 
   while read line
   do
-      rm $line
-      rm $line.png
+      rm $line*
   done < updatedlist
   python fan.py
   rm updated*
