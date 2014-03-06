@@ -16,7 +16,7 @@ def team_ana():
     buf=0
     team_f=open("ideal.txt",'a')
     team_f.write(str(0)+" "+str(0)+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
-    with open("data-test") as f:
+    with open("data-good-new") as f:
         content = f.readlines()
     while (buf<len(content)):
         t=content[buf]
