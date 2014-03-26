@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import re
 
 def team_ana():
-    bet=[60,63,67,68,69,70,79,80,81,82,83,84]
-    underdog=[54,59,62,64,71,72,73,74,75]
+    bet=[52,55,60,63,67,68,70,79,80,81,82,83,84]
+    underdog=[54,59,62,72,73,75]
     br=0.0
     bu=0.0
     bc=0.0
