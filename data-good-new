@@ -1488,26 +1488,15 @@
 1707	mouz	FSid3	FSid3	mouz	2	23	77	13.5 13.8 12.8 1.2 1.1 1.2 	1
 1708	HR	YMC	HR	YMC	1	76	24	1.1 1.3 1.6 9.6 11.8 14.3 	3
 1709	iG	TongFu	iG	TongFu	1	71	29	1.4 1.6 2 8 9.5 10.8 	3
-1709	iG	TongFu	iG	TongFu	1	71	29	1.4 1.6 2 8 9.5 10.8 	3
 1710	Speed	VG	Speed	VG	1	39	61	6.1 6.2 5.9 2.7 2.5 2.6 	3
-1710	Speed	VG	Speed	VG	1	39	61	6.5 6.5 5.9 2.7 2.4 2.4 	3
 1711	Next.kz	QPandas	Next.kz	QPandas	1	80	20	0.8 1 1.2 12.8 15 18.8 	1
-1711	Next.kz	QPandas	Next.kz	QPandas	1	82	18	0.7 0.9 1 15.9 18.1 20.6 	1
 1712	VP	Aspera	Aspera	VP	2	30	70	9.3 9.3 8.6 1.8 1.7 1.7 	1
-1712	VP	Aspera	Aspera	VP	2	31	69	8.1 9.7 9.5 1.7 1.6 1.9 	1
 1713	Alliance	Sigma.int	Sigma.int	Alliance	2	29	71	9.5 9.8 9.3 1.7 1.6 1.6 	1
-1713	Sigma.int	Alliance	Sigma.int	Alliance	2	30	70	8.8 10.9 9 1.7 1.4 1.8 	1
 1714	rox.KIS	QPandas	QPandas	rox.KIS	2	18	82	21.4 17.1 14.9 1 0.9 0.7 	1
-1714	rox.KIS	QPandas	QPandas	rox.KIS	2	21	79	16.5 16.9 13 1.2 0.9 0.9 	1
 1715	Poseidon	mouz	Poseidon	mouz	1	42	58	5.7 5.4 5.3 2.9 2.9 2.8 	1
-1715	Poseidon	mouz	Poseidon	mouz	1	48	52	4.5 4.6 4 4 3.4 3.5 	1
 1716	rox.KIS	Poseidon	rox.KIS	Poseidon	1	60	40	2.4 2.7 2.8 5.6 5.8 6.5 	1
-1716	rox.KIS	Poseidon	rox.KIS	Poseidon	1	60	40	2.6 2.6 2.9 5.4 6.1 6.1 	1
 1717	VP	mouz	mouz	VP	2	48	52	4.3 4.5 4.5 3.5 3.5 3.7 	1
-1717	VP	mouz	mouz	VP	2	49	51	3.7 4.4 4.7 3.4 3.6 4.3 	1
-1718	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	61	39	2.5 2.3 2.7 5.8 6.9 6.4 	3
 1718	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	62	38	2.3 2.4 2.7 5.8 6.6 6.9 	3
-1719	HR	CSW	CSW	HR	2	30	70	8.9 10.1 9.6 1.6 1.5 1.8 	5
 1719	HR	CSW	CSW	HR	2	30	70	8.9 10.1 9.6 1.6 1.5 1.8 	5
 1720	Mski	Genysis	Mski	Genysis	1	80	20	0.9 1 1.1 13.5 15.7 17.2 	1
 1721	Lowyat	Inv.kwnku	Lowyat	Inv.kwnku	1	77	23	1.1 1 1.5 10.5 14.8 13.9 	1
@@ -1580,16 +1569,16 @@
 1793	Fnatic.eu	VP	Fnatic.eu	VP	1	75	25	1.3 1.3 1.5 10.8 11.9 12.4 	1
 1794	Mski	FD	Mski	FD	1	43	57	5.1 5.6 5.3 3 2.8 3.1 	3
 1795	Empire	Revenge	Revenge	Empire	2	30	70	9.5 8.8 8.8 1.8 1.8 1.6 	3
-1796	Titan	Mski	Titan	Mski	1	61	39	2.5 2.7 2.6 6.1 5.8 6.4 	5
-1797	TR	Empire	TR	Empire	1	30	70	9.4 9.8 9.5 1.6 1.6 1.7 	1
-1798	OsG	QPandas	OsG	QPandas	1	61	39	2.3 2.7 2.8 5.7 5.8 6.8 	1
-1799	VP	rox.KIS	VP	rox.KIS	1	36	64	8.7 6.7 5.8 2.7 2.3 1.8 	1
-1800	Empire	mouz	mouz	Empire	2	30	70	9.7 9.9 8.7 1.8 1.6 1.6 	1
-1801	Na'Vi	Sigma.int	Na'Vi	Sigma.int	1	71	29	1.7 1.4 1.6 10.1 11 9.2 	1
-1802	PR	Na'Vi	Na'Vi	PR	2	78	22	1.2 1 1.1 14.8 15.9 13.1 	1
-1803	Sigma.int	VP	Sigma.int	VP	1	75	25	1.2 1.4 1.5 10.2 11.5 13.4 	1
+1796	Titan	Mski	Titan	Mski	1	60	40	2.5 2.8 2.9 5.5 5.6 6.4 	5
+1797	TR	Empire	TR	Empire	1	28	72	10 10.6 10.3 1.5 1.5 1.6 	1
+1798	OsG	QPandas	OsG	QPandas	1	61	39	2.5 2.5 2.7 5.9 6.4 6.4 	1
+1799	VP	rox.KIS	VP	rox.KIS	1	34	66	8.9 7 5.9 2.7 2.2 1.8 	1
+1800	Empire	mouz	mouz	Empire	2	34	66	8.2 7.9 6.9 2.3 2 1.9 	1
+1801	Na'Vi	Sigma.int	Na'Vi	Sigma.int	1	70	30	1.8 1.6 1.7 9.2 9.9 8.9 	1
+1802	PR	Na'Vi	Na'Vi	PR	2	78	22	1.1 1.1 1.2 13.2 14.5 13.7 	1
+1803	Sigma.int	VP	Sigma.int	VP	1	64	36	2 2.4 2.6 6 6.5 7.9 	1
 1804	DK	TongFu.W	DK	TongFu.W	1	88	12	0.4 0.6 0.7 21.5 26.8 36.7 	3
-1805	VG	FD	VG	FD	1	84	16	0.6 0.7 0.9 18 20.9 24.6 	3
+1805	VG	FD	VG	FD	1	84	16	0.6 0.8 0.9 16.7 19.8 24.2 	3
 1806	DT	NE	NE	DT	2	30	70	9.3 9.8 8.7 1.8 1.6 1.7 	3
 1807	LGD.cn	MVP.P	LGD.cn	MVP.P	1	86	14	0.5 0.6 0.8 20.3 24.8 29.8 	3
 1808	iG	Startale	iG	Startale	1	87	13	0.4 0.6 0.8 20.2 24.9 36.2 	3
@@ -1852,7 +1841,7 @@
 2100	PR	hehe	PR	hehe	1	75	25	1.2 1.4 1.5 1.2 10.2 11.3 12.8 12.3 	3
 2101	ZR	Cleave	ZR	Cleave	1	57	43	2.8 3.1 3.6 2.1 4.4 5.1 5.6 7.2 	1
 2102	MYM	Ascend	Ascend	MYM	2	30	70	9.6 9 8.4 10.5 1.9 1.7 1.6 1.4 	1
-2103	JnRun	DDD	DDD		2	54		3.3 3.3 3.2 4.1 4.9 4.8 4.7 3.6 	1
+2103	JnRun	DDD	DDD	JnRun	2	54	46	3.3 3.3 3.2 4.1 4.9 4.8 4.7 3.6 	1
 2104	Arrow	Orange	Arrow	Orange	1	33	67	7.8 9 8.9 7.9 1.8 1.7 2 1.9 	3
 2105	Mongolz	POTHG	Mongolz	POTHG	1	55	45	2.9 3.5 3.6 2.5 4.3 4.5 5.3 5.9 	3
 2106	Panthers	BCP	Panthers	BCP	1	59	41	2.9 2.5 2.7 3.1 5.8 6.3 5.4 4.7 	3
@@ -1913,7 +1902,7 @@
 2180	Puck	PR	Puck	PR	1	36	64	7.5 6.9 6.1 8.4 2.6 2.3 2.1 1.8 	1
 2181	MiT	Relax	Relax	MiT	2	75	25	1.2 1.3 1.4 1 11.2 12.3 12.6 15.2 	1
 2182	MM	Alphas	MM	Alphas	1	62	38	2.1 2.7 2.9 1.6 5.4 5.9 7.4 9 	3
-2183	4N	Rest	Rest		2	55		3.2 3.2 3.4 3.4 4.7 4.9 4.9 4.3 	3
+2183	4N	Rest	Rest	4N	2	55	45	3.2 3.2 3.4 3.4 4.7 4.9 4.9 4.3 	3
 2184	Swage	About	Swage	About	1	47	53	4.7 4.6 3.7 5.1 4.3 3.4 3.3 2.9 	5
 2185	Scythe	Spirit	Scythe	Spirit	1	79	21	0.8 1.3 1.7 0.5 9.1 12 19.2 30.5 	3
 2186	RRQ	Execration	RRQ	Execration	1	39	61	6.9 5.7 5 7.8 3.2 2.8 2.3 1.9 	3
@@ -1925,6 +1914,7 @@
 2192	PR	VP	VP	PR	2	62	38	2.3 2.5 3 2.1 5.2 6.2 6.9 7 	1
 2193	Na'Vi	Cloud9	Cloud9	Na'Vi	2	32	68	8.1 9.1 9.1 6.3 1.7 1.7 1.9 2.3 	3
 2194	Zephyr	MVP.P	Zephyr	MVP.P	1	61	39	2.5 2.7 2.8 2.3 5.6 5.9 6.4 6.4 	3
+2195	Empire	rox.KIS	Empire	rox.KIS	1	73	27	1.3 1.6 1.7 0.9 9 10 12 16.7 	3
 2196	Dog	PR	PR	Dog	2	51	49	4.2 3.3 3 5.4 5.3 4.8 3.7 2.8 	3
 2197	Empire	Next.kz	Next.kz	Empire	2	19	81	18.9 16.1 12.2 27.4 1.3 1 0.8 0.5 	2
 2200	Alliance	Liquid	Alliance	Liquid	1	74	26	1.4 1.3 1.2 1.5 12.5 12.4 11 9.6 	3
@@ -1970,11 +1960,16 @@
 2254	Fnatic.eu	Liquid	Liquid	Fnatic.eu	2	43	57	5.4 5.2 5 4.5 3.2 3 2.9 3.3 	3
 2255	rox.KIS	Relax	Relax	rox.KIS	2	39	61	6.3 6.4 6.6 5.9 2.4 2.4 2.5 2.5 	3
 2258	Arrow	Scythe	Scythe	Arrow	2	65	35	1.9 2.3 2.8 1.7 5.7 6.8 8.3 8.5 	3
-2259	VG	NewBee	VG	NewBee	1	63	37	2.2 2.7 2.8 1.8 5.6 5.9 7.2 8 	3
+2259	VG	Newbee	VG	Newbee	1	63	37	2.2 2.7 2.8 1.8 5.6 5.9 7.2 8 	3
 2260	FL	Hearts	FL	Hearts	1	74	26	1.2 1.5 1.7 1 9.2 10.3 12.7 14.2 	3
-2261	CIS	NewBee	NewBee	CIS	2	80	20	0.8 1.1 1.5 0.6 10.2 13.8 19.2 23.4 	3
+2261	CIS	Newbee	Newbee	CIS	2	80	20	0.8 1.1 1.5 0.6 10.2 13.8 19.2 23.4 	3
 2262	Mski	Spirit	Mski	Spirit	1	66	34	2 2 2.2 1.7 7.1 7.7 7.8 8.6 	1
 2263	Cloud9	Liquid	Liquid	Cloud9	2	38	62	7.2 6.1 5.4 7.8 2.9 2.6 2.2 1.9 	5
+2264	RRQ	Zephyr	Zephyr	RRQ	2	70	30	1.7 1.5 1.6 1.4 9.6 10.4 9.2 10.3 	1
+2265	FD	Execration	Execration	FD	2	46	54	4.8 4.6 4.7 4.8 3.3 3.5 3.3 3.1 	1
+2266	EG	WWD	EG	WWD	1	78	22	0.9 1.2 1.4 0.6 10.9 13.4 16.7 22.4 	2
+2267	PR	Relax	Relax	PR	2	25	75	12.3 11.3 10.3 14.2 1.5 1.4 1.3 1 	5
+2268	PR	rox.KIS	PR	rox.KIS	1	60	40	2.7 2.4 2.5 2.6 6.3 6.5 5.9 5.6 	5
 2269	Na'Vi	PR	Na'Vi	PR	1	69	31	1.7 1.8 1.9 1.7 8.1 8.9 9.4 8.9 	3
 2270	RRQ	Mski	Mski	RRQ	2	65	35	2.1 2.2 2.3 2 7 7.3 7.4 7.6 	1
 2271	Titan	FD	Titan	FD	1	68	32	1.9 1.8 1.9 1.8 8.2 8.5 8.2 8 	1
@@ -2057,8 +2052,8 @@
 2359	Cloud9	EG	EG	Cloud9	2	45	55	4.5 5.5 5.4 3.4 2.9 2.9 3.5 4.3 	3
 2360	iG	DT.NGC	DT.NGC	iG	2	32	68	8.5 8.6 8.3 7.4 1.9 1.8 1.9 2 	1
 2361	VG	CIS	VG	CIS	1	81	19	0.9 0.9 1 0.8 15.9 18.1 17.4 18 	1
-2362	NewBee	TongFu.W	NewBee	TongFu.W	1	75	25	1.1 1.6 1.9 0.7 8.5 9.8 14.2 21.3 	1
-2363	NewBee	LGD.cn	LGD.cn	NewBee	2	66	34	2.1 1.9 2 2.1 7.8 8.1 7.5 6.9 	1
+2362	Newbee	TongFu.W	Newbee	TongFu.W	1	75	25	1.1 1.6 1.9 0.7 8.5 9.8 14.2 21.3 	1
+2363	Newbee	LGD.cn	LGD.cn	Newbee	2	66	34	2.1 1.9 2 2.1 7.8 8.1 7.5 6.9 	1
 2364	Na'Vi	Relax	Relax	Na'Vi	2	22	78	13.6 14.2 13.8 14.1 1.1 1.1 1.1 1 	1
 2365	Na'Vi	Alliance	Alliance	Na'Vi	2	47	53	4.3 4.5 4.5 3.7 3.5 3.5 3.6 4 	3
 2366	Alliance	rox.KIS	rox.KIS	Alliance	2	18	82	19.2 17.4 15.5 19.5 1 0.9 0.8 0.7 	3
@@ -2077,11 +2072,12 @@
 2381	LGD.cn	VG	VG	LGD.cn	2	64	36	2.1 2.4 2.6 1.9 6.1 6.6 7.6 7.9 	3
 2382	Empire	Sigma.int	Empire	Sigma.int	1	79	21	0.9 1.1 1.3 0.8 11.7 13.6 16.5 18.8 	1
 2383	Empire	Na'Vi	Na'Vi	Empire	2	59	41	2.8 2.7 2.7 3.3 5.8 5.8 5.6 4.5 	1
+2384	Na'Vi	rox.KIS	rox.KIS	Na'Vi	2	28	72	10.4 10.2 10.6 9.9 1.5 1.5 1.5 1.5 	1
 2385	Titan	MiTH	MiTH	Titan	2	23	77	14.6 12.5 12.2 15.2 1.3 1.2 1.1 1 	2
 2386	LGD.cn	TongFu.W	TongFu.W	LGD.cn	2	26	74	13.8 9.9 8.5 16.7 1.9 1.6 1.1 0.9 	1
 2387	DT.NGC	CIS	CIS	DT.NGC	2	50	50	3.9 4.1 4 4.7 4 3.9 4 3.2 	1
 2388	DK	VG	VG	DK	2	32	68	8.4 9.2 8.9 8 1.8 1.7 1.9 1.8 	1
-2389	iG	NewBee	NewBee	iG	2	41	59	5.5 5.7 6.1 4.8 2.6 2.7 2.8 3.1 	1
+2389	iG	Newbee	Newbee	iG	2	41	59	5.5 5.7 6.1 4.8 2.6 2.7 2.8 3.1 	1
 2390	MVP.P	5inQ	MVP.P	5inQ	1	75	25	1.2 1.4 1.5 0.9 10.5 10.8 12.5 16.1 	1
 2391	VP	Next.kz	VP	Next.kz	1	70	30	1.6 1.6 1.8 1.5 8.9 9.5 9.7 9.9 	1
 2392	TR	Next.kz	TR	Next.kz	1	43	57	5.4 5.2 5 5.3 3.1 3 2.9 2.8 	1
@@ -2096,7 +2092,7 @@
 2401	Dog	Dignotoss	Dignotoss	Dog	2	27	73	12.1 9.6 9 15.1 1.7 1.6 1.3 1 	1
 2402	EG	eHug	EG	eHug	1	83	17	0.7 0.9 1.1 0.5 14.7 17.7 23 26.6 	1
 2403	iG	LGD.cn	LGD.cn	iG	2	38	62	6.5 6.6 6.3 5.8 2.5 2.4 2.4 2.6 	1
-2404	NewBee	CIS	CIS	NewBee	2	29	71	10.9 9 7.9 14.4 2 1.7 1.4 1 	1
+2404	Newbee	CIS	CIS	Newbee	2	29	71	10.9 9 7.9 14.4 2 1.7 1.4 1 	1
 2405	VG	DT.NGC	DT.NGC	VG	2	20	80	17.8 15.8 13.7 19.6 1.1 1 0.9 0.7 	1
 2406	Na'Vi	Alliance	Alliance	Na'Vi	2	47	53	4.4 4.6 4.5 3.7 3.5 3.5 3.6 4 	1
 2407	Empire	Cloud9	Cloud9	Empire	2	33	67	8.1 8.2 7.9 8.5 2 1.9 1.9 1.7 	1
@@ -2112,7 +2108,7 @@
 2418	Sigma.int	Fnatic.eu	Fnatic.eu	Sigma.int	2	63	37	2.1 2.5 2.8 2 5.7 6.3 7.6 7.5 	3
 2420	Alliance	Next.kz	Alliance	Next.kz	1	86	14	0.5 0.7 0.8 0.4 19 22.6 28 31.4 	1
 2422	Liquid	Dignotoss	Liquid	Dignotoss	1	78	22	1.1 1.2 1.2 0.8 12.9 13.5 14.8 17.6 	1
-2423	VG	NewBee	VG	NewBee	1	58	42	2.8 2.8 2.8 3.2 5.6 5.6 5.5 4.6 	1
+2423	VG	Newbee	VG	Newbee	1	58	42	2.8 2.8 2.8 3.2 5.6 5.6 5.5 4.6 	1
 2424	DT.NGC	DK	DT.NGC	DK	1	18	82	20.3 18.4 15.5 22 1 0.8 0.8 0.7 	1
 2425	iG	CIS	iG	CIS	1	78	22	1 1.2 1.4 0.8 11.4 13.4 15.7 19 	1
 2426	Fnatic.eu	VP	VP	Fnatic.eu	2	43	57	5.4 5.4 5.1 4.3 3.1 2.9 2.9 3.4 	1
@@ -2123,7 +2119,7 @@
 2431	Cloud9	Ahead	Cloud9	Ahead	1	81	19	0.7 1 1.3 0.5 11.8 16 20.8 26.7 	1
 2433	LGD.cn	CIS	CIS	LGD.cn	2	21	79	17.1 15.3 12.2 19.9 1.3 1 0.9 0.7 	1
 2434	LGD.cn	DT.NGC	LGD.cn	DT.NGC	1	69	31	1.6 1.9 2.1 1.5 7.4 8.3 9.7 10.1 	1
-2435	NewBee	DK	NewBee	DK	1	31	69	9.3 9.1 8.3 9.6 1.9 1.7 1.7 1.5 	1
+2435	Newbee	DK	Newbee	DK	1	31	69	9.3 9.1 8.3 9.6 1.9 1.7 1.7 1.5 	1
 2436	VG	TongFu.W	VG	TongFu.W	1	77	23	1 1.3 1.6 0.8 10.1 12.3 15.5 18.6 	1
 2437	Fnatic.eu	Cleave	Cleave	Fnatic.eu	2	19	81	20.3 16.4 14.2 24.3 1.1 0.9 0.8 0.6 	1
 2438	PR	Ahead	PR	Ahead	1	76	24	1.1 1.2 1.5 1 10.7 13 14 15.3 	1
@@ -2144,7 +2140,7 @@
 2457	Relax	Insane	Insane	Relax	2	27	73	12.2 10.7 9.5 14.6 1.7 1.5 1.3 1 	1
 2458	Titan	Orange	Orange	Titan	2	36	64	8 6.5 5.9 8.9 2.7 2.4 2 1.7 	2
 2459	iG	LGD.cn	iG	LGD.cn	1	73	27	1.3 1.6 1.8 1.1 8.9 10 11.6 13.7 	3
-2460	DK	NewBee	NewBee	DK	2	33	67	8.5 7.7 6.8 8.2 2.3 2 1.8 1.8 	3
+2460	DK	Newbee	Newbee	DK	2	33	67	8.5 7.7 6.8 8.2 2.3 2 1.8 1.8 	3
 2461	Cloud9	MYM	MYM	Cloud9	2	30	70	9.5 9.2 8.4 9.8 1.9 1.7 1.6 1.5 	1
 2462	EG	Dog	EG	Dog	1	72	28	1.4 1.6 1.9 1.2 8.2 9.9 11 11.8 	1
 2463	Cloud9	Alliance	Alliance	Cloud9	2	72	28	1.6 1.5 1.5 1.8 10.7 10.7 9.6 8.2 	1
@@ -2154,13 +2150,13 @@
 2470	rox.KIS	TR	TR	rox.KIS	2	20	80	17.3 15.7 13.7 22.2 1.1 1 0.9 0.6 	1
 2471	Fnatic.eu	Relax	Fnatic.eu	Relax	1	76	24	1.2 1.2 1.4 1.3 11.6 12.6 12.6 11.4 	1
 2472	Alliance	VP	VP	Alliance	2	18	82	19.9 17.6 15.7 22.4 1 0.9 0.8 0.6 	1
-2474	NewBee	LGD.cn	LGD.cn	NewBee	2	36	64	7.7 6.6 5.9 9.3 2.7 2.4 2 1.6 	3
+2474	Newbee	LGD.cn	LGD.cn	Newbee	2	36	64	7.7 6.6 5.9 9.3 2.7 2.4 2 1.6 	3
 2475	DK	iG	iG	DK	2	41	59	5.9 5.5 5.3 5.9 3 2.8 2.7 2.5 	3
 2476	Zephyr	MVP.P	Zephyr	MVP.P	1	69	31	1.8 1.7 1.8 1.6 8.9 9.1 8.8 9.4 	3
 2477	rox.KIS	MYM	rox.KIS	MYM	1	73	27	1.6 1.4 1.3 1.8 12.1 11.5 10 8.3 	1
 2478	Dog	Liquid	Liquid	Dog	2	57	43	3.2 2.7 2.6 3.7 6.1 5.9 5 4 	1
 2479	Sigma.int	MYM	MYM	Sigma.int	2	22	78	14.2 14.7 13.8 13.3 1.1 1.1 1.1 1.1 	1
-2482	iG	NewBee	NewBee	iG	2	29	71	9.4 9.8 10.2 9 1.5 1.6 1.7 1.6 	3
+2482	iG	Newbee	Newbee	iG	2	29	71	9.4 9.8 10.2 9 1.5 1.6 1.7 1.6 	3
 2485	rox.KIS	Liquid	Liquid	rox.KIS	2	34	66	7.7 7.9 7.2 7.2 2.2 2 2.1 2 	3
 2486	Empire	PR	Empire	PR	1	82	18	0.7 0.9 1 0.6 16.2 18.1 20.5 22.9 	1
 2487	Sigma.int	PR	PR	Sigma.int	2	28	72	10 10.6 10.2 9.6 1.5 1.5 1.6 1.5 	1
@@ -2169,7 +2165,7 @@
 2490	Alliance	MYM	MYM	Alliance	2	15	85	25 22.8 19.5 25.5 0.8 0.7 0.6 0.6 	1
 2491	Relax	Alliance	Alliance	Relax	2	87	13	0.5 0.6 0.7 0.5 23.1 23.8 28.4 29 	1
 2492	Ahead	Cleave	Ahead	Cleave	1	37	63	6.2 7.6 7.8 5.3 2 2.1 2.5 2.8 	1
-2493	iG	NewBee	NewBee	iG	2	32	68	8.1 8.5 9.1 6.4 1.7 1.9 1.9 2.3 	3
+2493	iG	Newbee	Newbee	iG	2	32	68	8.1 8.5 9.1 6.4 1.7 1.9 1.9 2.3 	3
 2494	Cloud9	Next.kz	Cloud9	Next.kz	1	80	20	0.9 1 1.2 0.7 13.2 15.8 17.8 19.8 	1
 2495	VP	TR	VP	TR	1	68	32	1.7 1.9 2 1.6 7.8 8.4 9.1 9.2 	1
 2496	Relax	TR	Relax	TR	1	78	22	1 1.1 1.3 0.8 12 14.3 15.4 17.9 	1
@@ -2191,3 +2187,5 @@
 2514	PR	Sigma.int	PR	Sigma.int	1	24	76	13.5 11.7 10.9 13.5 1.4 1.3 1.2 1.1 	2
 2515	bvd.dotA	eN.Legs	bvd.dotA	eN.Legs	1	72	28	1.4 1.6 1.9 1.3 8.4 9.7 11.2 10.9 	3
 2516	EG	Liquid	EG	Liquid	1	64	36	2.1 2.3 2.7 2 5.9 6.7 7.7 7.5 	1
+2517	iG	VG	VG	iG	2	34	66	7.7 7.8 7.8 6.7 2 2 2 2.2 	3
+2518	Fnatic.eu	Insane	Insane	Fnatic.eu	2	18	82	21 16.9 14.6 23.3 1.1 0.9 0.7 0.6 	1
