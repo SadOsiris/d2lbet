@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import re
 
 bo2count=0
-bo2win=0
+bo1win=0
 def team_ana(str_list):
     strt=str_list.split('\n')
     print strt[0]
@@ -17,10 +17,10 @@ def team_ana(str_list):
     nc=0.0
     idx=0
     buf=0
-    with open("bo2-new") as f:
+    with open("data-good-new") as f:
         content = f.readlines()
     while (buf<len(content)):
-        global bo2win
+        global bo1win
         idx=1
         t=content[buf]
         #var=re.sub('s+','\t',t).split('\t')
@@ -32,6 +32,8 @@ def team_ana(str_list):
             buf+=1
             #if(var[4]==strt[0] or var[3]==strt[0]):
             continue
+        if(var[9]==1):
+            print var[1]
         odds=var[8].split()
         if(len(odds)<7):
             lr=float(odds[0])
@@ -91,22 +93,23 @@ def team_ana(str_list):
             #nu+=int(var[12-idx])
             #nc+=int(var[11-idx])
             #print var[0],br,bu,bc,nr,nu,nc
-        team_f=open("bo2_"+strt[0],'a')
+        team_f=open("bo1_"+strt[0],'a')
         team_f.write(str(buf)+" "+var[0]+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
         buf+=1
-        bo2win+=1
+        bo1win+=1
 
-with open("bo2list") as f:
+with open("complete_teamlist") as f:
     team_list = f.readlines()
 team_idx=0
 print team_list
 while (team_idx<len(team_list)):
-    global bo2win
-    bo2win=0
+    global bo1win
+    bo1win=0
     team_ana(team_list[team_idx])
     team_name=team_list[team_idx].split('\n')
-    if bo2win>0:
-        team_draw=np.genfromtxt('./bo2_'+team_name[0],delimiter=' ',names=['foo','bar','br','bu','bc','nr','nu','nc'])
+    if bo1win>0:
+        team_draw=np.genfromtxt('./bo1_'+team_name[0],delimiter=' ',names=['foo','bar','br','bu','bc','nr','nu','nc'])
+
 #    print(team_draw['bu'])
 # Create the plot
         plt.plot(team_draw['br'],label='br',color='r')
@@ -122,7 +125,7 @@ while (team_idx<len(team_list)):
 
 
 # Save the figure in a separate file
-        plt.savefig('bo2_'+team_name[0]+'.png')
+        plt.savefig('bo1_'+team_name[0]+'.png')
 
 # Draw the plot to the screen
 #    plt.show()

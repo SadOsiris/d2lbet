@@ -91,7 +91,7 @@ def team_ana(str_list):
         team_f.write(str(buf)+" "+var[0]+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
         buf+=1
 
-with open("updatedlist") as f:
+with open("complete_teamlist") as f:
     team_list = f.readlines()
 team_idx=0
 print team_list
