@@ -1,0 +1,2048 @@
+14	Alliance	EG	Alliance	EG	1	47	53	4.7 4.7 4.1 3.9 3.3 3.3 	0
+15	Fnatic	VP	Fnatic	VP	1	57	43	3.5 3.5 2.5 6.4 4.5 4.4 	0
+16	Empire	Alliance	Alliance	Empire	2	55	45	3.4 3.2 3.2 5 4.9 4.6 	0
+17	Turtle	Shz	Turtle	Shz	1	60	40	2.6 2.5 2.8 5.7 6.2 6.1 	0
+18	Na'Vi	Liquid	Na'Vi	Liquid	1	77	23	0.8 1.1 1.5 10.6 14.1 18.2 	0
+19	Empire	Dignitas	Empire	Dignitas	1	69	31	1.5 1.9 1.9 8.1 8.4 10.4 	0
+22	Dignitas	VP	VP	Dignitas	2	47	53	4.5 4.7 4.3 3.6 3.4 3.5 	0
+23	mouz	neX-I	neX-I	mouz	2	20	80	18.7 16.6 13.4 1.2 0.9 0.8 	0
+26	Empire	Na'Vi	Na'Vi	Empire	2	69	31	1.5 1.9 2 7.8 8.5 10.4 	0
+28	Quantic	3DMAX	Quantic	3DMAX	1	37	63	6.6 7.1 6.6 2.4 2.2 2.4 	0
+29	GU.pe	Turtle	GU.pe	Turtle	1	28	72	12.1 9.9 9.5 1.7 1.6 1.3 	0
+31	Liquid	4FC	Liquid	4FC	1	67	33	1.7 1.9 2.1 7.4 8.2 9.3 	0
+32	Alliance	3DMAX	3DMAX	Alliance	2	21	79	20.9 14.5 12.9 1.2 1.1 0.7 	0
+33	Dignitas	EG	Dignitas	EG	1	49	51	4.2 3.7 4.4 3.5 4.3 3.8 	0
+34	EG	Alliance	EG	Alliance	1	36	64	8.2 6.9 6.5 2.4 2.3 1.9 	0
+36	Next.kz	HWA	HWA	Next.kz	2	50	50	3.7 4.2 4.1 3.9 3.8 4.3 	0
+37	mouz	Dignitas	Dignitas	mouz	2	52	48	3.4 3.9 3.7 4.3 4 4.7 	0
+39	VP	Liquid	VP	Liquid	1	41	59	5.9 6.1 5.5 2.8 2.6 2.7 	0
+40	Fnatic.eu	Quantic	Quantic	Fnatic.eu	2	32	68	11.2 7.9 7.7 2 2 1.4 	0
+41	Empire	Liquid	Empire	Liquid	1	75	25	1.1 1.3 1.7 9.3 12.1 14.7 	0
+42	Liquid	VP	Liquid	VP	1	42	58	5.7 5.6 4.9 3.2 2.8 2.8 	0
+43	mouz	VP	mouz	VP	1	68	32	1.6 1.9 1.9 8.1 8.1 9.7 	0
+44	Quantic	Turtle	Quantic	Turtle	1	68	32	1.4 1.9 2.1 7.5 8.4 11.1 	0
+45	Quantic	GU.pe	GU.pe	Quantic	2	37	63	7.9 6.6 6.7 2.3 2.4 2 	0
+46	GU.pe	Turtle	Turtle	GU.pe	2	49	51	4.4 4.1 4 4 3.8 3.5 	0
+47	VP	Liquid	Liquid	VP	2	52	48	3.4 3.5 4.2 3.8 4.5 4.7 	0
+48	VP	aL.Acad	VP	aL.Acad	1	69	31	1.4 1.6 2.1 7.4 9.9 11.2 	0
+49	Liquid	aL.Acad	aL.Acad	Liquid	2	22	78	19.5 13.5 11.3 1.4 1.2 0.8 	0
+50	3DMAX	Na'Vi	Na'Vi	3DMAX	2	82	18	0.6 0.9 1 15 17.5 25.2 	0
+51	Liquid	EG	EG	Liquid	2	70	30	1.4 1.6 2.1 7.6 9.6 11.1 	0
+52	Fnatic.eu	Alliance	Fnatic.eu	Alliance	1	48	52	4.1 4.3 4.3 3.6 3.7 3.8 	0
+53	VP	Na'Vi	Na'Vi	VP	2	69	31	1.5 1.8 1.9 8.1 8.7 10.6 	0
+54	4FC	aL.Acad	4FC	aL.Acad	1	56	44	2.6 3.2 3.5 4.5 5 6.2 	0
+55	mouz	Alliance	Alliance	mouz	2	48	52	4.2 4.5 4.2 3.8 3.5 3.8 	0
+57	Dignitas	Quantic	Dignitas	Quantic	1	65	35	1.7 2.2 2.4 6.6 7.2 9.4 	0
+58	Na'Vi	GU.pe	Na'Vi	GU.pe	1	72	28	1.3 1.6 1.7 9.3 9.6 11.7 	0
+59	VP	Empire	Empire	VP	2	70	30	1.4 1.8 1.9 8.3 8.9 11.4 	0
+60	Na'Vi	ex-mTw	Na'Vi	ex-mTw	1	76	24	1 1.2 1.4 11 13.2 15.3 	0
+63	EG	Fnatic.eu	Fnatic.eu	EG	2	56	44	2.8 3.2 3.2 4.9 4.9 5.6 	0
+64	iM`Bashers	bvd.dotA	bvd.dotA	iM`Bashers	2	49	51	4.1 4.2 4.1 3.8 3.8 3.9 	0
+65	VnR.Alpha	DuC	DuC	VnR.Alpha	2	47	53	4.3 4.5 4.6 3.4 3.5 3.7 	0
+67	Ptd.Bravo	MV.dotA	Ptd.Bravo	MV.dotA	1	45	55	4.7 5.2 4.6 3.4 3 3.4 	0
+69	Dignitas	Liquid	Liquid	Dignitas	2	41	59	5.9 5.6 5.6 2.8 2.8 2.7 	0
+70	Quantic	aL	Quantic	aL	1	57	43	3.1 2.8 3.2 4.9 5.5 5.1 	0
+71	Liquid	ex-mTw	Liquid	ex-mTw	1	70	30	1.4 1.6 1.9 8.1 9.5 11.2 	0
+72	Neo.int	Mski	Neo.int	Mski	1	44	56	4.9 5.4 4.9 3.2 2.9 3.2 	0
+73	Zenith	MSIEvoGT	Zenith	MSIEvoGT	1	80	20	0.8 1 1.1 13.7 16.2 18.7 	0
+74	Dignitas	mouz	mouz	Dignitas	2	61	39	2.3 2.6 2.6 6.1 6.1 6.7 	0
+75	Fnatic.eu	3DMAX	Fnatic.eu	3DMAX	1	71	29	1.3 1.5 1.8 8.5 10.5 11.7 	0
+76	eN.Legs	OpG.CliX	eN.Legs	OpG.CliX	1	56	44	2.4 3.2 3.4 4.7 5 6.5 	0
+77	VnR.Alpha	kknP.dotA	kknP.dotA	VnR.Alpha	2	38	62	6 8.3 5.8 2.7 1.9 2.6 	0
+78	Fnatic.eu	EG	EG	Fnatic.eu	2	54	46	3.4 3.5 3.4 4.6 4.6 4.7 	0
+79	Na'Vi	Empire	Na'Vi	Empire	1	57	43	3 3 2.9 5.3 5.3 5.3 	0
+80	Liquid	mouz	Liquid	mouz	1	36	64	7.5 7.9 6.1 2.6 2 2.1 	0
+81	Neo.int	FD	FD	Neo.int	2	36	64	6.2 7.8 6.8 2.3 2 2.5 	0
+82	Orange	Zenith	Zenith	Orange	2	65	35	2 2.1 2.2 7.2 7.6 7.7 	0
+83	s4	SingSing	SingSing	s4	2	55	45	4.1 3 2.9 5.4 5.2 3.8 	0
+84	Liquid	Alliance	Liquid	Alliance	1	48	52	4.4 4.6 4.1 3.8 3.4 3.6 	0
+85	Fnatic.eu	VP	VP	Fnatic.eu	2	46	54	4.8 4.8 4.6 3.4 3.3 3.3 	0
+88	Liquid	Fnatic.eu	Liquid	Fnatic.eu	1	42	58	5.7 5.6 5.2 3 2.8 2.7 	0
+89	Liquid	3DMAX	Liquid	3DMAX	1	70	30	1.5 1.7 1.8 8.7 9.3 10.4 	0
+90	VP	EG	VP	EG	1	47	53	4.5 4.2 4.7 3.4 3.8 3.5 	0
+91	Liquid	Dignitas	Dignitas	Liquid	2	43	57	4.7 5.4 5.6 2.8 2.9 3.3 	0
+92	Ptd.Bravo	NaV.DBB	Ptd.Bravo	NaV.DBB	1	50	50	3.3 3.9 4.3 3.7 4 4.7 	0
+93	Na'Vi	Alliance	Alliance	Na'Vi	2	31	69	10 8.7 8 2 1.8 1.6 	0
+94	Fnatic.eu	VP	VP	Fnatic.eu	2	49	51	4.2 4.1 4.1 3.9 3.8 3.7 	0
+95	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	67	33	1.7 1.9 2.1 7.4 8.1 9 	0
+96	Empire	VP	VP	Empire	2	37	63	7.2 6.9 6.2 2.5 2.3 2.2 	0
+98	Fnatic.eu	Na'Vi	Fnatic.eu	Na'Vi	1	26	74	13.6 10.4 10 1.6 1.5 1.1 	0
+99	VP	mouz	mouz	VP	2	43	57	5.8 5.4 5 3.2 2.9 2.7 	0
+100	Liquid	EG	EG	Liquid	2	36	64	7.6 7.2 6.4 2.4 2.2 2.1 	0
+101	3D	eLPride	3D	eLPride	1	58	42	2.4 3 3.1 5 5.2 6.5 	0
+102	Dignitas	Alliance	Dignitas	Alliance	1	42	58	5.4 5.5 5.6 2.8 2.9 2.9 	0
+103	Fnatic.eu	Empire	Fnatic.eu	Empire	1	52	48	3.8 3.5 3.4 4.6 4.4 4.1 	0
+104	PtD.Alpha	nAv.StarGate	PtD.Alpha	nAv.StarGate	1	67	33	1.7 1.9 2 7.7 8.2 9.5 	0
+105	Liquid	Empire	Liquid	Empire	1	59	41	2.7 2.7 2.9 5.4 5.8 5.8 	0
+106	Dignitas	Alliance	Alliance	Dignitas	2	39	61	6.9 6.2 5.7 2.8 2.5 2.3 	0
+107	iM`Bashers	VnR.Alpha	iM`Bashers	VnR.Alpha	1	59	41	2.2 2.9 2.9 5.4 5.5 7.2 	0
+108	ASF.R5	DuC	DuC	ASF.R5	2	29	71	11.5 9.5 9.1 1.7 1.7 1.4 	0
+110	Empire	mouz	Empire	mouz	1	72	28	1.4 1.6 1.6 9.6 10 10.8 	0
+111	Fnatic.eu	VP	VP	Fnatic.eu	2	37	63	7.9 6.4 6 2.6 2.5 2 	0
+112	eN.Legs	kknP.dotA	kknP.dotA	eN.Legs	2	26	74	16.5 10.1 10.2 1.5 1.5 0.9 	0
+113	Fnatic.eu	Dignitas	Dignitas	Fnatic.eu	2	32	68	9.9 9.1 6.8 2.3 1.7 1.6 	0
+114	Fnatic.eu	Na'Vi	Na'Vi	Fnatic.eu	2	59	41	2.6 2.8 2.7 5.8 5.6 6 	0
+117	VP	aL	aL	VP	2	28	72	12.2 10.2 9.4 1.7 1.5 1.3 	0
+118	mouz	Na'Vi	mouz	Na'Vi	1	26	74	13.4 11.8 9.4 1.7 1.3 1.2 	0
+119	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	29	71	12.2 9.3 8.4 1.9 1.7 1.3 	0
+120	Na'Vi	Empire	Empire	Na'Vi	2	48	52	4.7 4.3 4.2 3.8 3.7 3.4 	0
+121	eN.Legs	VnR.Alpha	eN.Legs	VnR.Alpha	1	67	33	1.5 1.8 2.3 6.8 8.7 10.6 	0
+122	mouz	Alliance	Alliance	mouz	2	47	53	4.5 4.3 4.5 3.5 3.7 3.5 	0
+123	eLPride	TCM	TCM	eLPride	2	27	73	13 10.5 9.3 1.7 1.5 1.2 	0
+124	VP	aL	VP	aL	1	76	24	1 1.3 1.5 10.6 12.1 16.1 	0
+125	Empire	VP	VP	Empire	2	40	60	6.4 6 5.6 2.8 2.6 2.5 	0
+126	rox.KIS	Quantic	Quantic	rox.KIS	2	63	37	2.2 2.2 2.6 6 7.1 7.2 	0
+128	ASF.R5	iM`Bashers	ASF.R5	iM`Bashers	1	32	68	9.9 8.6 7.4 2.1 1.8 1.6 	0
+130	Alliance	Na'Vi	Na'Vi	Alliance	2	68	32	1.6 1.9 2 7.7 8.1 9.7 	0
+131	Na'Vi	VP	VP	Na'Vi	2	49	51	4.2 4.2 3.9 4.1 3.7 3.7 	0
+132	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	64	36	1.8 2.3 2.4 6.5 6.7 8.6 	0
+135	Fnatic.eu	eLPride	Fnatic.eu	eLPride	1	72	28	1.3 1.5 1.7 9.2 10.3 11.7 	0
+136	Alliance	aL	aL	Alliance	2	22	78	16.4 13.6 12.4 1.3 1.1 0.9 	0
+137	Na'Vi	Alliance	Na'Vi	Alliance	1	58	42	2.7 2.9 2.8 5.6 5.5 5.8 	0
+138	TCM	3DMAX	TCM	3DMAX	1	27	73	12.6 11.3 9.6 1.6 1.4 1.2 	0
+140	CastersEN	CastersRU	CastersRU	CastersEN	2	58	42	3.3 2.8 2.7 5.8 5.6 4.8 	0
+141	mouz	aL	aL	mouz	2	40	60	6.5 6 5.9 2.7 2.6 2.4 	0
+142	Alliance	VP	VP	Alliance	2	55	45	3.1 3.3 3.3 4.7 4.8 5.2 	0
+143	Na'Vi	EG	EG	Na'Vi	2	26	74	14.2 11.4 9.5 1.6 1.4 1.1 	0
+144	mouz	VP	mouz	VP	1	44	56	5.4 5 4.9 3.2 3.1 2.9 	0
+145	Alliance	VP	VP	Alliance	2	45	55	5 4.8 5 3.2 3.3 3.2 	0
+146	Liquid	EG	EG	Liquid	2	40	60	6.4 6.2 5.6 2.8 2.5 2.4 	0
+147	4FC	3DMAX	3DMAX	4FC	2	58	42	2.8 2.8 2.8 5.7 5.5 5.5 	0
+148	Empire	mouz	mouz	Empire	2	43	57	5.7 5.4 5.1 3.1 2.9 2.7 	0
+150	Fnatic.eu	Empire	Fnatic.eu	Empire	1	50	50	3.7 4.1 4.1 3.9 3.9 4.2 	0
+151	EG	mouz	EG	mouz	1	32	68	9.5 8.3 8 2 1.9 1.6 	0
+152	Alliance	Empire	Alliance	Empire	1	56	44	3 3.2 3.2 4.9 5 5.2 	0
+153	Liquid	Alliance	Alliance	Liquid	2	65	35	2.3 2.1 2.1 7.6 7.5 6.8 	0
+154	VP	Dignitas	VP	Dignitas	1	62	38	2.5 2.4 2.4 6.6 6.6 6.2 	0
+155	iG	LGD.int	LGD.int	iG	2	37	63	8 6.7 6.2 2.5 2.3 2 	0
+157	Fnatic.eu	Liquid	Liquid	Fnatic.eu	2	37	63	6.7 6.7 6.7 2.3 2.3 2.3 	0
+158	WH?Dota2	EoF[Dota2]	WH?Dota2	EoF[Dota2]	1	50	50	3.5 3.9 4.1 3.8 4 4.5 	0
+159	VP	Fnatic.eu	VP	Fnatic.eu	1	36	64	8 7.1 6 2.6 2.2 2 	0
+161	Empire	VP	VP	Empire	2	58	42	2.8 2.9 2.9 5.4 5.5 5.6 	0
+162	rox.KIS	aL	aL	rox.KIS	2	33	67	8.3 8.2 7.8 2 1.9 1.9 	0
+163	Lounge	Community	Lounge	Community	1	59	41	2.6 2.7 2.9 5.4 5.9 6 	0
+164	Dignitas	Quantic	Dignitas	Quantic	1	72	28	1.2 1.5 1.7 9.1 10.5 12.5 	0
+165	eN.Legs	iM`Bashers	iM`Bashers	eN.Legs	2	34	66	8.6 8.2 6.9 2.3 1.9 1.8 	0
+166	Fnatic.eu	Liquid	Fnatic.eu	Liquid	1	65	35	2 2.1 2.3 6.8 7.4 7.8 	0
+167	LGD.int	VG	VG	LGD.int	2	21	79	17.3 16 12.3 1.3 1 0.9 	0
+171	LGD.int	MUFC	MUFC	LGD.int	2	21	79	17.8 16.1 12.9 1.2 1 0.9 	0
+172	Liquid	QPandas	QPandas	Liquid	2	30	70	9.7 9.7 9 1.7 1.6 1.6 	0
+173	VP	mouz	mouz	VP	2	36	64	7.7 6.7 6.4 2.5 2.3 2 	0
+175	Na'Vi	Liquid	Na'Vi	Liquid	1	76	24	1 1.2 1.6 9.8 12.8 14.9 	0
+176	Alliance	VP	VP	Alliance	2	42	58	6.4 5.4 5 3.1 2.9 2.4 	0
+177	QPandas	VP	QPandas	VP	1	26	74	13.3 11.1 9.4 1.7 1.4 1.2 	0
+178	Dignitas	rox.KIS	rox.KIS	Dignitas	2	44	56	6.1 4.7 4.6 3.4 3.3 2.6 	0
+179	Liquid	Fnatic.eu	Liquid	Fnatic.eu	1	31	69	9.8 8.8 8.1 1.9 1.8 1.6 	0
+180	Empire	Na'Vi	Na'Vi	Empire	2	71	29	1.3 1.6 1.9 8.3 9.6 12.3 	0
+181	iCCup	VP	iCCup	VP	1	26	74	15.6 11.3 9.9 1.6 1.4 1 	0
+182	Empire	iCCup	Empire	iCCup	1	60	40	2.4 2.7 2.9 5.4 5.9 6.6 	0
+183	Fnatic.eu	Alliance	Fnatic.eu	Alliance	1	37	63	7.5 6.5 6.3 2.5 2.4 2.1 	0
+184	WH?Dota2	SRM*DotA2	WH?Dota2	SRM*DotA2	1	53	47	3.2 3.5 3.5 4.4 4.5 4.9 	0
+185	LGD.int	VG	LGD.int	VG	1	72	28	1.3 1.5 1.7 9.2 10.2 11.6 	0
+186	Alliance	Dignitas	Dignitas	Alliance	2	33	67	9 8.3 7.7 2 1.9 1.7 	0
+187	VP	Empire	VP	Empire	1	38	62	7 6.5 5.9 2.6 2.4 2.2 	0
+188	LGD.cn	LGD.int	LGD.int	LGD.cn	2	57	43	3.1 3 3 5.3 5.3 5 	0
+189	Dignitas	mouz	mouz	Dignitas	2	61	39	2.4 2.5 2.7 5.8 6.3 6.7 	0
+190	Alliance	Na'Vi	Na'Vi	Alliance	2	58	42	2.7 2.8 2.9 5.5 5.5 5.8 	0
+191	Liquid	Empire	Empire	Liquid	2	57	43	3.1 2.9 2.9 5.4 5.5 5.1 	0
+192	VP	Fnatic.eu	VP	Fnatic.eu	1	48	52	4.8 4.3 4.1 3.8 3.7 3.3 	0
+193	VP	Alliance	VP	Alliance	1	43	57	5.5 5.3 5.1 3.1 2.9 2.9 	0
+194	Alliance	mouz	Alliance	mouz	1	67	33	1.7 1.9 2 7.8 8.2 9 	0
+195	Dignitas	VP	VP	Dignitas	2	62	38	2.8 2.5 2 7.7 6.3 5.6 	0
+196	Orange	LGD.cn	LGD.cn	Orange	2	68	32	1.7 1.8 1.9 8.1 8.6 9.2 	0
+198	iG	DK	iG	DK	1	71	29	1.3 1.6 1.9 8.2 9.5 12.3 	0
+199	Dignitas	VP	VP	Dignitas	2	56	44	3.1 3.1 3.1 5.1 5.1 5.1 	0
+200	VP	Fnatic.eu	Fnatic.eu	VP	2	48	52	4.2 4.3 4.4 3.6 3.6 3.8 	0
+201	Orange	LGD.int	Orange	LGD.int	1	55	45	3 3.3 3.5 4.4 4.8 5.2 	0
+202	Alliance	Empire	Alliance	Empire	1	60	40	2.6 2.7 2.8 5.7 5.9 6.1 	0
+203	Alliance	VP	VP	Alliance	2	46	54	4.8 4.7 4.5 3.5 3.4 3.3 	0
+204	Fnatic.eu	Empire	Empire	Fnatic.eu	2	52	48	3.8 3.6 3.6 4.4 4.4 4.2 	0
+205	Fnatic.eu	VP	Fnatic.eu	VP	1	41	59	5.8 5.8 5.7 2.7 2.7 2.7 	0
+206	LGD.cn	RS	RS	LGD.cn	2	32	68	8.9 8.9 8.2 1.9 1.8 1.8 	0
+207	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	34	66	8.7 7.7 6.9 2.3 2 1.8 	0
+208	iG	Zenith	Zenith	iG	2	25	75	14.8 11.7 9.7 1.6 1.3 1 	0
+209	Liquid	mouz	Liquid	mouz	1	67	33	1.6 1.9 2.2 7.3 8.1 9.5 	0
+210	LGD.cn	Zenith	LGD.cn	Zenith	1	59	41	2.9 2.6 2.6 6 6 5.5 	0
+211	Liquid	Empire	Empire	Liquid	2	43	57	6 5.3 4.9 3.2 3 2.6 	0
+212	Dignitas	Fnatic.eu	Dignitas	Fnatic.eu	1	39	61	6.1 6.2 6 2.6 2.6 2.6 	0
+213	DK	LGD.int	LGD.int	DK	2	69	31	1.8 1.8 1.8 8.5 8.9 8.9 	0
+214	Dignitas	Liquid	Dignitas	Liquid	1	51	49	3.6 3.9 3.9 4 4 4.3 	0
+215	Liquid	Empire	Empire	Liquid	2	38	62	6.9 6.3 6.2 2.5 2.5 2.3 	0
+216	Liquid	Dignitas	Dignitas	Liquid	2	64	36	2.1 2.3 2.3 6.7 6.8 7.4 	0
+217	DK	Zenith	Zenith	DK	2	43	57	4.6 5.4 5.6 2.8 2.9 3.4 	0
+218	Fnatic.eu	QPandas	Fnatic.eu	QPandas	1	64	36	2.2 2.1 2.2 7.2 7.3 7.1 	0
+219	Dignitas	Empire	Dignitas	Empire	1	68	32	1.7 1.8 2 7.9 8.6 9.2 	0
+220	Fnatic.eu	Empire	Empire	Fnatic.eu	2	32	68	9 8.6 7.7 2 1.8 1.7 	0
+221	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	31	69	9.8 8.8 8.1 2 1.8 1.6 	0
+222	Dignitas	Liquid	Liquid	Dignitas	2	50	50	4 3.9 3.8 4.1 4 4 	0
+224	mouz	VP	VP	mouz	2	69	31	1.7 1.7 1.9 8.2 9.1 9.3 	0
+226	Alliance	Kaipi	Kaipi	Alliance	2	21	79	18.9 14.8 11.3 1.4 1.1 0.8 	0
+227	Kaipi	Empire	Kaipi	Empire	1	33	67	9.1 8.2 7.1 2.2 1.9 1.7 	0
+229	Liquid	Alliance	Alliance	Liquid	2	69	31	1.5 1.8 2 7.9 8.8 10.2 	0
+230	VP	Empire	Empire	VP	2	39	61	7.1 6.3 5.8 2.7 2.5 2.2 	0
+231	Na'Vi	rox.KIS	rox.KIS	Na'Vi	2	30	70	10.3 9.6 8.6 1.8 1.6 1.5 	0
+232	Alliance	Dignitas	Dignitas	Alliance	2	42	58	5.9 5.5 5.1 3.1 2.9 2.7 	0
+233	mouz	Empire	mouz	Empire	1	69	31	1.6 1.7 1.9 8.3 9.1 9.5 	0
+234	rox.KIS	Quantic	rox.KIS	Quantic	1	70	30	1.5 1.7 1.8 8.6 9.4 10.3 	0
+235	aL	RAT	aL	RAT	1	75	25	1.1 1.3 1.5 10.3 12.1 14.1 	0
+236	mouz	Alliance	mouz	Alliance	1	24	76	15.7 12.4 10.1 1.5 1.3 1 	0
+237	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	68	32	1.7 1.8 1.9 8.2 8.5 9 	0
+238	rox.KIS	aL	rox.KIS	aL	1	59	41	2.6 2.7 2.9 5.5 5.8 6 	0
+239	Na'Vi	mouz	Na'Vi	mouz	1	71	29	1.4 1.6 1.8 8.7 9.7 11.2 	0
+240	Na'Vi	rox.KIS	rox.KIS	Na'Vi	2	22	78	16.8 14.1 11.6 1.3 1.1 0.9 	0
+242	EG	Liquid	EG	Liquid	1	33	67	8.4 8.1 7.7 2.1 1.9 1.9 	0
+243	Alliance	Dignitas	Alliance	Dignitas	1	60	40	2.4 2.6 2.8 5.7 6 6.6 	0
+244	Alliance	mouz	mouz	Alliance	2	36	64	8.3 7 5.9 2.7 2.2 1.9 	0
+246	Na'Vi	Dignitas	Na'Vi	Dignitas	1	79	21	1 1 1.3 12.4 15 16 	0
+247	Dignitas	mouz	mouz	Dignitas	2	45	55	5.9 4.7 4.3 3.6 3.4 2.7 	0
+248	Liquid	Kaipi	Kaipi	Liquid	2	30	70	9.8 9.2 8.9 1.8 1.7 1.6 	0
+249	Fnatic.eu	EG	EG	Fnatic.eu	2	42	58	5.2 5.6 5.4 2.9 2.8 3 	0
+250	Alliance	Na'Vi	Alliance	Na'Vi	1	36	64	7.2 7.3 6.7 2.3 2.1 2.2 	0
+251	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	30	70	10.1 9.2 8.6 1.8 1.7 1.5 	0
+252	VP	Liquid	VP	Liquid	1	40	60	6.8 5.9 5.5 2.9 2.7 2.3 	0
+253	Liquid	Na'Vi	Liquid	Na'Vi	1	22	78	16.7 13.8 11.4 1.4 1.1 0.9 	0
+254	EG	Dignitas	Dignitas	EG	2	64	36	2 2.2 2.4 6.5 7.3 7.8 	0
+255	Na'Vi	rox.KIS	Na'Vi	rox.KIS	1	67	33	1.7 1.9 2.2 7 8.4 9.2 	0
+256	Alliance	VP	VP	Alliance	2	32	68	9.7 8.4 7.7 2 1.9 1.6 	0
+257	Liquid	EG	Liquid	EG	1	53	47	3.3 3.5 3.6 4.4 4.4 4.8 	0
+258	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	30	70	10.6 9.4 8.4 1.9 1.7 1.5 	0
+259	Liquid	VP	VP	Liquid	2	45	55	5 4.8 4.5 3.5 3.3 3.1 	0
+260	Alliance	Liquid	Liquid	Alliance	2	31	69	9.7 8.5 8.1 1.9 1.8 1.6 	0
+261	Liquid	Fnatic.eu	Liquid	Fnatic.eu	1	61	39	2.3 2.6 2.7 5.9 6.2 6.7 	0
+263	Prodota.ru	Lounge	Prodota.ru	Lounge	1	49	51	4 4.1 4 3.9 3.8 3.9 	0
+264	Lounge	Weplay.tv	Weplay.tv	Lounge	2	58	42	2.8 2.9 3 5.3 5.4 5.6 	0
+265	Lounge	joinDota.com	joinDota.com	Lounge	2	50	50	3.9 3.9 4 3.9 4 4 	0
+267	mouz	rox.KIS	rox.KIS	mouz	2	48	52	4.7 4.1 4 3.9 3.8 3.4 	0
+268	Na'Vi	QPandas	Na'Vi	QPandas	1	76	24	1 1.2 1.5 10.2 13 16.1 	0
+269	EG	Dignitas	Dignitas	EG	2	59	41	2.6 2.8 2.9 5.4 5.6 6.1 	0
+270	Liquid	Empire	Liquid	Empire	1	70	30	1.5 1.7 1.9 8.5 9.2 10.5 	0
+271	Na'Vi	EG	Na'Vi	EG	1	74	26	1.1 1.4 1.6 9.7 11.4 13.8 	0
+273	mouz	Kaipi	Kaipi	mouz	2	27	73	11 11 10 1.6 1.4 1.4 	0
+274	Liquid	Fnatic.eu	Fnatic.eu	Liquid	2	30	70	11.1 9.4 8.2 1.9 1.7 1.4 	0
+275	EG	Na'Vi	Na'Vi	EG	2	81	19	0.8 0.9 1.1 14.2 16.9 19.3 	0
+276	Alliance	Dignitas	Dignitas	Alliance	2	23	77	14.9 13.5 11.7 1.3 1.2 1 	0
+277	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	34	66	9 8 6.7 2.4 2 1.7 	0
+279	Dignitas	QPandas	Dignitas	QPandas	1	70	30	1.4 1.7 2 8 9 11.4 	0
+280	Zenith	RS	Zenith	RS	1	75	25	1.1 1.3 1.6 9.9 12.2 13.6 	0
+281	EG	Liquid	Liquid	EG	2	64	36	1.9 2.2 2.5 6.2 7 8.1 	0
+282	Alliance	mouz	Alliance	mouz	1	77	23	0.9 1.1 1.4 10.8 13.9 16.5 	0
+283	VG	LGD.cn	VG	LGD.cn	1	24	76	15.1 12.6 10.1 1.6 1.2 1 	0
+284	Liquid	Dignitas	Dignitas	Liquid	2	38	62	7.4 6.5 6 2.6 2.4 2.1 	0
+285	rox.KIS	Empire	Empire	rox.KIS	2	45	55	5.3 5 4.6 3.4 3.2 3 	0
+286	Dignitas	QPandas	QPandas	Dignitas	2	29	71	10.6 9.7 9.1 1.7 1.6 1.5 	0
+289	Dignitas	mouz	mouz	Dignitas	2	36	64	8.1 6.8 6.4 2.4 2.3 1.9 	0
+290	Na'Vi	Liquid	Na'Vi	Liquid	1	63	37	2.2 2.3 2.5 6.3 6.9 7.1 	0
+291	Alliance	EG	Alliance	EG	1	71	29	1.4 1.6 1.9 8.4 9.8 10.8 	0
+292	rox.KIS	EG	rox.KIS	EG	1	35	65	8.4 7.4 6.8 2.3 2.1 1.9 	0
+293	aL	rox.KIS	rox.KIS	aL	2	76	24	1.1 1.2 1.4 11 12.8 13.9 	0
+294	Alliance	EG	Alliance	EG	1	77	23	1 1.2 1.5 10.7 13.1 15.5 	0
+295	Quantic	Empire	Empire	Quantic	2	57	43	3.2 2.9 2.9 5.5 5.5 4.9 	0
+296	Quantic	aL	aL	Quantic	2	43	57	5.5 5.1 4.9 3.2 3.1 2.9 	0
+297	rox.KIS	Empire	Empire	rox.KIS	2	31	69	10.2 8.8 8 2 1.8 1.5 	0
+298	Zenith	MUFC	Zenith	MUFC	1	66	34	1.9 2 2.2 7.1 7.8 8.3 	0
+299	rox.KIS	aL	aL	rox.KIS	2	35	65	7.8 7.4 7.1 2.2 2.1 2 	0
+300	mouz	iCCup	mouz	iCCup	1	73	27	1.2 1.4 1.7 9.1 11 13.3 	0
+301	EG	QPandas	EG	QPandas	1	74	26	1.1 1.4 1.6 9.8 11.2 14 	0
+302	EG	mouz	EG	mouz	1	65	35	1.9 2.2 2.5 6.3 7.1 8.3 	0
+303	QPandas	iCCup	iCCup	QPandas	2	59	41	2.6 2.8 3.1 5.2 5.7 6.2 	0
+304	VG	FL	VG	FL	1	80	20	0.8 0.9 1.2 12.6 16.3 20.4 	0
+305	mouz	QPandas	mouz	QPandas	1	65	35	2 2.2 2.4 6.6 7 8 	0
+306	LGD.cn	FL	FL	LGD.cn	2	20	80	19.2 17.2 14.1 1.1 0.9 0.8 	0
+307	rox.KIS	EG	EG	rox.KIS	2	63	37	1.9 2.4 2.8 5.7 6.6 8.3 	0
+308	Quantic	mouz	mouz	Quantic	2	57	43	2.7 3.1 3.4 4.7 5 5.8 	0
+310	iG	VG	iG	VG	1	77	23	0.9 1.2 1.6 9.8 12.9 16.9 	0
+311	Quantic	rox.KIS	rox.KIS	Quantic	2	53	47	3.8 3.4 3.4 4.7 4.7 4.1 	0
+312	mouz	rox.KIS	mouz	rox.KIS	1	42	58	5.6 5.5 5.6 2.8 2.8 2.8 	0
+313	mouz	Quantic	mouz	Quantic	1	39	61	6.5 6.3 5.9 2.7 2.5 2.4 	0
+314	VP	QPandas	VP	QPandas	1	71	29	1.4 1.6 1.8 8.5 9.9 11.5 	0
+315	Liquid	Dignitas	Liquid	Dignitas	1	69	31	1.7 1.8 1.9 8.1 8.9 9.5 	0
+316	LGD.cn	Dreamz	LGD.cn	Dreamz	1	82	18	0.6 0.8 1.1 14.7 18.6 24.1 	0
+317	FD	RS	RS	FD	2	72	28	1.2 1.6 1.8 8.5 10 12.8 	0
+318	mouz	Fnatic.eu	mouz	Fnatic.eu	1	56	44	2.9 3.2 3.3 4.8 5 5.5 	0
+319	Na'Vi	Dignitas	Na'Vi	Dignitas	1	76	24	1.1 1.2 1.4 10.9 13 14.7 	0
+320	EG	VP	VP	EG	2	53	47	3.5 3.4 3.6 4.4 4.6 4.5 	0
+321	mouz	QPandas	mouz	QPandas	1	79	21	0.9 1 1.3 12 15.9 17.6 	0
+322	RS	Dreamz	RS	Dreamz	1	68	32	1.5 1.8 2.1 7.4 8.7 10.2 	0
+323	TongFu	VG	VG	TongFu	2	58	42	2.9 2.9 2.9 5.5 5.5 5.5 	0
+324	QPandas	rox.KIS	QPandas	rox.KIS	1	26	74	13.5 11.5 9.6 1.6 1.4 1.2 	0
+325	RS	FD	FD	RS	2	41	59	6.2 5.4 5.2 3 2.9 2.5 	0
+326	PR	QPandas	PR	QPandas	1	30	70	10.1 9.4 8.6 1.8 1.7 1.5 	0
+327	rox.KIS	mouz	mouz	rox.KIS	2	69	31	1.6 1.8 2 7.9 8.7 10 	0
+328	4FC	PR	4FC	PR	1	40	60	6.3 6.1 5.8 2.7 2.6 2.5 	0
+329	RAT	TCM	RAT	TCM	1	52	48	3.1 3.8 3.9 4 4.1 5 	0
+330	TongFu	iG	TongFu	iG	1	21	79	19.6 15.7 11.2 1.4 1 0.8 	0
+331	EG	Na'Vi	Na'Vi	EG	2	67	33	1.8 1.9 2.1 7.6 8.2 8.7 	0
+332	RStars	MiTH	RStars	MiTH	1	56	44	2.6 3.1 3.6 4.4 5.1 6.2 	0
+333	VG	Mski	VG	Mski	1	70	30	1.4 1.7 2 7.9 9 11.1 	0
+334	VP	Empire	VP	Empire	1	69	31	1.4 1.8 2.1 7.4 8.8 10.8 	0
+335	VP	EG	EG	VP	2	53	47	3.3 3.7 3.6 4.4 4.3 4.8 	0
+336	MiTH	Mski	MiTH	Mski	1	54	46	2.9 3.3 3.7 4.3 4.7 5.4 	0
+337	TongFu	FL	TongFu	FL	1	76	24	0.9 1.2 1.6 10 13.1 16.8 	0
+338	Na'Vi	iCCup	Na'Vi	iCCup	1	77	23	0.9 1.1 1.4 11.4 14 16.7 	0
+339	RStars	MiTH	RStars	MiTH	1	59	41	2.3 3.1 3.2 5 5 6.7 	0
+340	mouz	TCM	mouz	TCM	1	80	20	0.8 0.9 1.1 14.1 16.7 18.6 	0
+342	Alliance	DK	DK	Alliance	2	40	60	5.7 6.4 6.1 2.6 2.5 2.8 	0
+343	Orange	Liquid	Orange	Liquid	1	49	51	3.7 4.1 4.4 3.5 3.9 4.2 	0
+344	LGD.cn	iG	iG	LGD.cn	2	71	29	1.5 1.6 1.8 8.7 9.8 10.6 	0
+345	LGD.cn	DK	DK	LGD.cn	2	32	68	8.6 8.8 8.2 1.9 1.8 1.8 	0
+346	Alliance	Liquid	Liquid	Alliance	2	24	76	14.4 12.8 11.1 1.4 1.2 1.1 	0
+347	Orange	iG	iG	Orange	2	63	37	1.9 2.5 2.7 5.8 6.4 8.3 	0
+348	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	29	71	11 9.3 8.7 1.8 1.7 1.4 	0
+349	Quantic	rox.KIS	rox.KIS	Quantic	2	45	55	5.3 4.8 4.3 3.7 3.3 3 	0
+351	Alliance	Orange	Alliance	Orange	1	64	36	2 2.2 2.3 6.9 7 7.7 	0
+352	LGD.cn	Liquid	LGD.cn	Liquid	1	75	25	1.1 1.3 1.5 10.4 11.9 14.1 	0
+353	iG	DK	iG	DK	1	68	32	1.7 1.9 2.1 7.4 8.4 9.5 	0
+354	Alliance	LGD.cn	Alliance	LGD.cn	1	52	48	3.8 3.6 3.6 4.4 4.4 4.2 	0
+355	DK	Orange	Orange	DK	2	70	30	1.8 1.6 1.7 9.1 9.7 8.9 	0
+356	Liquid	iG	iG	Liquid	2	75	25	1.1 1.3 1.6 9.8 11.9 14.1 	0
+357	LGD.cn	Orange	LGD.cn	Orange	1	69	31	1.7 1.8 1.9 8.1 8.8 9 	0
+358	Alliance	iG	Alliance	iG	1	66	34	2 2.1 2.2 7.1 7.4 8 	0
+359	DK	Liquid	DK	Liquid	1	47	53	4.2 4.6 4.7 3.4 3.4 3.7 	0
+360	mouz	Fnatic.eu	Fnatic.eu	mouz	2	33	67	8.9 8.1 7.3 2.2 1.9 1.8 	0
+361	Orange	DK	Orange	DK	1	47	53	4.7 4.4 4.3 3.7 3.6 3.4 	0
+362	LGD.cn	Orange	LGD.cn	Orange	1	74	26	1.4 1.3 1.5 10.6 11.6 11.5 	0
+363	Alliance	LGD.cn	Alliance	LGD.cn	1	65	35	2.1 2.1 2.1 7.6 7.6 7.5 	0
+364	Zenith	FD	FD	Zenith	2	25	75	14.3 12.3 10.1 1.5 1.3 1.1 	0
+365	rox.KIS	mouz	mouz	rox.KIS	2	65	35	1.9 2.2 2.5 6.3 7.3 8.3 	0
+366	Dignitas	EG	EG	Dignitas	2	68	32	1.8 1.8 1.9 8.1 8.9 8.7 	0
+368	mouz	QPandas	mouz	QPandas	1	71	29	1.4 1.6 1.9 8.1 9.6 11.2 	0
+369	iCCup	rox.KIS	rox.KIS	iCCup	2	72	28	1.4 1.5 1.6 9.6 10.4 10.9 	0
+370	iCCup	QPandas	QPandas	iCCup	2	40	60	6.8 5.8 5.2 3 2.7 2.3 	0
+372	Quantic	Na'Vi	Quantic	Na'Vi	1	34	66	8.5 7.9 6.8 2.3 2 1.8 	0
+373	Na'Vi	QPandas	Na'Vi	QPandas	1	81	19	0.8 0.9 1 15.2 16.8 19.3 	0
+374	Dignitas	VP	VP	Dignitas	2	57	43	2.9 2.9 3.2 4.9 5.4 5.5 	0
+375	VG	RS	RS	VG	2	33	67	9.2 8 7.4 2.1 2 1.7 	0
+376	LGD.cn	RStars	RStars	LGD.cn	2	20	80	19.6 16.2 13.5 1.2 1 0.8 	0
+377	LGD.cn	VG	LGD.cn	VG	1	77	23	1.2 1.1 1.3 12.4 14 13.3 	0
+378	VP	Kaipi	Kaipi	VP	2	30	70	10.3 9.5 8.5 1.8 1.6 1.5 	0
+379	Na'Vi	Empire	Empire	Na'Vi	2	22	78	16.9 14.2 11.7 1.3 1.1 0.9 	0
+380	4FC	OsG	OsG	4FC	2	42	58	5.9 5.3 4.9 3.2 3 2.7 	0
+381	RS	RStars	RS	RStars	1	56	44	3 3.1 3.2 4.9 5.1 5.2 	0
+382	Fnatic.eu	EG	EG	Fnatic.eu	2	64	36	1.9 2.2 2.4 6.4 7.1 8.4 	0
+383	RS	VG	VG	RS	2	69	31	1.7 1.7 1.8 8.7 9.2 9.3 	0
+384	Alliance	rox.KIS	Alliance	rox.KIS	1	76	24	1 1.3 1.6 9.9 12.4 14.8 	0
+385	Alliance	Na'Vi	Na'Vi	Alliance	2	42	58	6.8 5.2 4.4 3.6 3 2.3 	0
+386	TM	MX	MX	TM	2	47	53	5.3 4.4 4.1 3.8 3.6 3 	0
+387	LGD.cn	RS	LGD.cn	RS	1	74	26	1.2 1.4 1.6 9.5 10.9 13.5 	0
+388	Dignitas	TM	Dignitas	TM	1	76	24	1 1.2 1.8 8.8 13 15.7 	0
+389	iG	FL	FL	iG	2	22	78	17.3 15 12.2 1.3 1 0.9 	0
+390	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	29	71	10.9 9.8 8.7 1.8 1.6 1.4 	0
+391	mouz	Liquid	mouz	Liquid	1	53	47	3.8 3.4 3.4 4.7 4.6 4.2 	0
+392	Alliance	Quantic	Alliance	Quantic	1	76	24	1.1 1.3 1.5 10.5 12.1 14.1 	0
+393	Kaipi	Fnatic.eu	Kaipi	Fnatic.eu	1	30	70	9.2 9.9 8.5 1.9 1.6 1.7 	0
+394	MX	Insight	MX	Insight	1	61	39	2.2 2.4 2.7 5.8 6.5 7.1 	0
+395	LGD.cn	iG	iG	LGD.cn	2	45	55	4.8 4.9 4.7 3.3 3.2 3.3 	0
+396	Liquid	Insight	Liquid	Insight	1	84	16	0.6 0.7 1 15.7 21.1 26 	0
+397	rox.KIS	iCCup	iCCup	rox.KIS	2	37	63	6.4 7.4 7 2.2 2.1 2.5 	0
+398	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	17	83	23.5 18.9 16.1 1 0.8 0.7 	0
+399	VP	Na'Vi	Na'Vi	VP	2	67	33	1.9 2 2 7.7 8 8.4 	0
+400	VP	Quantic	VP	Quantic	1	46	54	4.3 4.8 4.7 3.4 3.3 3.6 	0
+402	DK	LGD.int	LGD.int	DK	2	63	37	2.6 2.1 2.2 7.1 7.3 6.1 	0
+403	RStars	RS	RS	RStars	2	72	28	1.4 1.5 1.7 9 10.6 11.4 	0
+404	MiTH	Mski	Mski	MiTH	2	32	68	9.4 8.3 7.6 2.1 1.9 1.7 	0
+405	mouz	VP	mouz	VP	1	45	55	4.6 4.9 4.9 3.2 3.2 3.4 	0
+407	PR	OsG	PR	OsG	1	63	37	1.8 2.3 2.8 5.5 6.7 8.5 	0
+408	TM	paiN	TM	paiN	1	67	33	1.7 1.9 2.2 7.2 8.3 9.3 	0
+409	Orange	MiTH	MiTH	Orange	2	26	74	14.2 11.2 9.3 1.7 1.4 1.1 	0
+410	Alliance	Fnatic.eu	Alliance	Fnatic.eu	1	81	19	0.7 0.9 1.1 14 17.4 20.6 	0
+411	Quantic	VP	VP	Quantic	2	56	44	2.9 3.1 3.3 4.7 5 5.4 	0
+412	mouz	rox.KIS	rox.KIS	mouz	2	35	65	8.2 7.6 6.8 2.3 2.1 1.9 	0
+414	Alliance	Quantic	Alliance	Quantic	1	78	22	0.9 1.1 1.4 11.4 14.2 16.6 	0
+416	4FC	Quantic	Quantic	4FC	2	80	20	0.8 0.9 1.1 13.9 16.5 18.5 	0
+417	mouz	Alliance	Alliance	mouz	2	75	25	1.1 1.3 1.6 10 11.9 13.9 	0
+418	VP	iCCup	VP	iCCup	1	68	32	1.8 1.8 2.1 7.6 8.7 8.6 	0
+420	Na'Vi	Alliance	Alliance	Na'Vi	2	59	41	2.3 2.9 3.2 4.9 5.4 7 	0
+421	Na'Vi	Liquid	Na'Vi	Liquid	1	71	29	1.5 1.6 1.8 8.9 9.8 10.4 	0
+422	Liquid	EG	EG	Liquid	2	53	47	3.5 3.4 3.5 4.4 4.6 4.6 	0
+423	Quantic	Fnatic.eu	Fnatic.eu	Quantic	2	40	60	6.2 6 5.5 2.8 2.6 2.6 	0
+424	Kaipi	Quantic	Quantic	Kaipi	2	72	28	1.4 1.4 1.6 9.8 10.8 10.8 	0
+425	mouz	Quantic	Quantic	mouz	2	34	66	8.4 7.4 6.8 2.3 2.1 1.9 	0
+426	Artyk	MX	Artyk	MX	1	62	38	1.9 2.4 2.8 5.5 6.4 8.1 	0
+427	rox.KIS	TCM	rox.KIS	TCM	1	73	27	1.3 1.4 1.6 9.8 11 11.6 	0
+428	Kaipi	Empire	Empire	Kaipi	2	33	67	10 7.7 6.7 2.4 2 1.6 	0
+429	Liquid	Dignitas	Dignitas	Liquid	2	39	61	6.1 6.2 6 2.6 2.5 2.6 	0
+430	rox.KIS	Empire	rox.KIS	Empire	1	75	25	1.2 1.3 1.4 11.1 12.4 12.8 	0
+431	Quantic	TCM	Quantic	TCM	1	75	25	1 1.3 1.6 9.8 12.4 14.9 	0
+432	Kaipi	Artyk	Kaipi	Artyk	1	72	28	1.6 1.4 1.6 9.9 11 9.7 	0
+433	DK	RStars	RStars	DK	2	27	73	12.6 11.1 9 1.7 1.4 1.2 	0
+434	EG	Dignitas	EG	Dignitas	1	53	47	3.5 3.5 3.4 4.7 4.5 4.5 	0
+436	EG	Quantic	Quantic	EG	2	46	54	4.6 4.8 4.7 3.3 3.3 3.4 	0
+437	Quantic	Empire	Empire	Quantic	2	22	78	16.2 15 12.2 1.3 1 1 	0
+438	Na'Vi	mouz	mouz	Na'Vi	2	33	67	7.9 8.2 7.8 2 1.9 2 	0
+439	Artyk	Insight	Insight	Artyk	2	22	78	17.1 14.9 10.5 1.5 1 0.9 	0
+440	Orange	LGD.int	LGD.int	Orange	2	37	63	8 6.3 5.8 2.7 2.5 2 	0
+441	Na'Vi	rox.KIS	rox.KIS	Na'Vi	2	21	79	17.8 15.9 12.8 1.2 1 0.9 	0
+442	Kaipi	iCCup	iCCup	Kaipi	2	34	66	7.5 8.3 8 2 1.9 2.1 	0
+443	Kaipi	mouz	Kaipi	mouz	1	24	76	12.7 13.4 11.9 1.3 1.2 1.2 	0
+444	Artyk	Dignitas	Artyk	Dignitas	1	28	72	10.9 10.2 9.3 1.7 1.5 1.4 	0
+445	TM	paiN	paiN	TM	2	25	75	14.8 11.6 9.9 1.6 1.4 1.1 	0
+446	Orange	RStars	Orange	RStars	1	79	21	0.9 1 1.2 13.1 15.7 16.4 	0
+447	DK	RS	DK	RS	1	74	26	1.2 1.3 1.6 9.7 11.9 13.5 	0
+448	VP	Alliance	Alliance	VP	2	71	29	1.4 1.6 1.9 8.4 9.7 11.1 	0
+449	VP	rox.KIS	VP	rox.KIS	1	69	31	1.5 1.9 2.2 7.3 8.4 10.4 	0
+451	Kaipi	TM	Kaipi	TM	1	79	21	0.9 1 1.2 13 16.2 17.6 	0
+452	EG	Artyk	Artyk	EG	2	31	69	9.6 8.5 8 2 1.8 1.6 	0
+453	Fnatic.eu	VP	VP	Fnatic.eu	2	73	27	1.2 1.4 1.7 9 11.2 13.1 	0
+454	Kaipi	mouz	Kaipi	mouz	1	41	59	6.6 5.6 5.1 3.1 2.8 2.4 	0
+455	EG	Quantic	EG	Quantic	1	58	42	2.8 3 3 5.3 5.3 5.6 	0
+456	Fnatic.eu	Kaipi	Fnatic.eu	Kaipi	1	40	60	6 6.1 5.7 2.8 2.6 2.6 	0
+457	Alliance	EG	Alliance	EG	1	67	33	1.8 2 2.1 7.5 8 8.7 	0
+458	EG	Kaipi	Kaipi	EG	2	54	46	3.4 3.2 3.5 4.5 4.9 4.6 	0
+459	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	31	69	10 8.5 7.9 2 1.8 1.6 	0
+460	Kaipi	EG	EG	Kaipi	2	60	40	2.4 2.7 2.9 5.5 5.8 6.4 	0
+461	Alliance	iCCup	Alliance	iCCup	1	80	20	0.8 0.9 1.2 13.4 16.3 19.8 	0
+463	VP	Liquid	VP	Liquid	1	60	40	2.7 2.5 2.7 5.9 6.2 5.9 	0
+464	Fnatic.eu	iCCup	iCCup	Fnatic.eu	2	28	72	10.8 10.6 9.8 1.6 1.5 1.5 	0
+465	Alliance	Fnatic.eu	Alliance	Fnatic.eu	1	73	27	1.4 1.4 1.6 9.5 11.1 11.2 	0
+466	iCCup	TCM	TCM	iCCup	2	34	66	8.4 8 6.9 2.3 2 1.9 	0
+467	Na'Vi	VP	VP	Na'Vi	2	35	65	8.5 7.4 6.7 2.3 2.1 1.8 	0
+468	Quantic	iCCup	Quantic	iCCup	1	71	29	1.5 1.5 1.7 9.2 10.3 10.3 	0
+469	Alliance	mouz	mouz	Alliance	2	30	70	9.8 9.7 8.7 1.8 1.6 1.6 	0
+470	mouz	Liquid	Liquid	mouz	2	41	59	5.7 5.9 5.4 2.9 2.7 2.7 	0
+471	4FC	Fnatic.eu	4FC	Fnatic.eu	1	25	75	13.2 12.7 10.9 1.4 1.2 1.2 	0
+475	Na'Vi	Kaipi	Kaipi	Na'Vi	2	21	79	15.6 15.4 13.4 1.2 1 1 	0
+476	Na'Vi	mouz	mouz	Na'Vi	2	29	71	10.2 9.9 8.5 1.8 1.6 1.5 	0
+477	mouz	EG	mouz	EG	1	58	42	2.7 3 3.1 5 5.3 5.9 	0
+478	rox.KIS	Fnatic.eu	Fnatic.eu	rox.KIS	2	45	55	4.5 5.2 5.1 3.1 3 3.5 	0
+479	4FC	TCM	4FC	TCM	1	75	25	1.1 1.2 1.5 10.3 12.8 14.3 	0
+480	Orange	RS	Orange	RS	1	76	24	1 1.2 1.5 10.5 12.9 15.6 	0
+481	TM	Smeagol	Smeagol	TM	2	30	70	11.7 9.4 7.8 2 1.7 1.3 	0
+482	Smeagol	MX	Smeagol	MX	1	65	35	1.8 2.3 2.4 6.6 6.9 8.6 	0
+483	paiN	MX	paiN	MX	1	33	67	8.6 8.5 7.1 2.2 1.8 1.8 	0
+484	Empire	rox.KIS	rox.KIS	Empire	2	78	22	0.9 1 1.3 11.9 15.2 16.7 	0
+486	Na'Vi	mouz	Na'Vi	mouz	1	76	24	1.2 1.2 1.3 11.7 13.1 12.5 	0
+487	Kaipi	4FC	4FC	Kaipi	2	39	61	7.2 6 5.4 2.9 2.6 2.2 	0
+488	Fnatic.eu	Alliance	Fnatic.eu	Alliance	1	21	79	17.7 14.8 11.6 1.3 1 0.9 	0
+489	LGD.int	RStars	LGD.int	RStars	1	70	30	1.6 1.6 1.9 8.4 9.6 9.9 	0
+490	paiN.int	paiN	paiN	paiN.int	2	44	56	5.8 5 4.6 3.4 3.1 2.7 	0
+491	TM	paiN	paiN	TM	2	29	71	11.7 9.3 8.2 1.9 1.7 1.3 	0
+492	iCCup	zRage	zRage	iCCup	2	29	71	11.9 10 8.6 1.8 1.6 1.3 	0
+493	iCCup	PR	iCCup	PR	1	77	23	1 1.2 1.4 11.2 13.3 15.8 	0
+494	zRage	rox.KIS	rox.KIS	zRage	2	82	18	0.7 0.8 1 15.7 18.2 20.5 	0
+495	Artyk	paiN	paiN	Artyk	2	28	72	13.2 9.5 8 2 1.6 1.2 	0
+496	TongFu	Zenith	TongFu	Zenith	1	63	37	2 2.4 2.6 6 6.7 7.9 	0
+497	DK	Orange	DK	Orange	1	43	57	5.5 5.2 5 3.1 3 2.9 	0
+498	mouz	4FC	mouz	4FC	1	74	26	1.2 1.3 1.6 10 11.7 13.5 	0
+499	Liquid	4FC	Liquid	4FC	1	75	25	1.2 1.4 1.4 11.5 11.4 13 	0
+500	Liquid	mouz	mouz	Liquid	2	62	38	2.5 2.3 2.4 6.7 7 6.2 	0
+501	eLPride	4FC	4FC	eLPride	2	61	39	2.8 2.4 2.4 6.5 6.4 5.6 	0
+502	VP	TCM	TCM	VP	2	18	82	22.8 18.7 15.9 1 0.8 0.7 	0
+503	Dignitas	TCM	Dignitas	TCM	1	79	21	0.8 1 1.3 12.3 15.8 18.3 	0
+504	VP	Dignitas	VP	Dignitas	1	68	32	1.7 1.8 2.1 7.7 8.6 9.1 	0
+505	Na'Vi	Keita	Keita	Na'Vi	2	14	86	31.8 26.1 20.3 0.8 0.6 0.5 	0
+506	EG	Keita	EG	Keita	1	80	20	0.8 0.9 1.2 13 16.7 20.4 	0
+507	Na'Vi	EG	EG	Na'Vi	2	21	79	17.9 15 12.1 1.3 1 0.9 	0
+508	Na'Vi	FSid3	Na'Vi	FSid3	1	87	13	0.5 0.6 0.7 22.9 26.2 32.1 	0
+509	Keita	FSid3	Keita	FSid3	1	60	40	3 2.4 2.3 6.7 6.6 5.2 	0
+510	Fnatic.eu	Quantic	Fnatic.eu	Quantic	1	46	54	4.9 4.7 4.2 3.7 3.3 3.2 	0
+511	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	37	63	7.5 6.8 6.3 2.5 2.3 2.1 	0
+512	Quantic	Alliance	Alliance	Quantic	2	80	20	0.9 1 1.1 13.9 15.2 17.7 	0
+513	EG	VP	VP	EG	2	75	25	1.2 1.4 1.5 10.2 11.4 13.3 	0
+514	Dignitas	Na'Vi	Na'Vi	Dignitas	2	82	18	0.7 0.8 1 16 18.6 21.9 	0
+515	Alliance	mouz	Alliance	mouz	1	69	31	1.5 1.9 2.2 7.1 8.4 10.7 	0
+516	Quantic	EG	Quantic	EG	1	52	48	3.5 3.8 4.1 3.9 4.2 4.6 	0
+517	Alliance	Dignitas	Dignitas	Alliance	2	31	69	10.3 8.7 7.3 2.1 1.8 1.5 	0
+518	Alliance	Quantic	Alliance	Quantic	1	63	37	2 2.4 2.6 6 6.5 7.7 	0
+519	FSid3	Netolic	FSid3	Netolic	1	63	37	2 2.4 2.7 5.7 6.6 8 	0
+520	Quantic	FSid3	FSid3	Quantic	2	25	75	14.2 11.6 9.9 1.6 1.3 1.1 	0
+521	LGD.int	iG	iG	LGD.int	2	68	32	1.6 1.9 2.1 7.4 8.3 9.9 	3
+522	Na'Vi	EG	Na'Vi	EG	1	74	26	1.2 1.4 1.6 9.6 11.6 13 	3
+523	Na'Vi	mouz	mouz	Na'Vi	2	32	68	9 8.8 7.9 2 1.8 1.7 	3
+524	Na'Vi	Liquid	Na'Vi	Liquid	1	73	27	1.3 1.4 1.6 9.6 11.3 11.7 	3
+525	LGD.cn	Orange	LGD.cn	Orange	1	66	34	1.9 2 2.3 6.9 7.9 8.5 	3
+527	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	23	77	15.7 13.7 11 1.4 1.1 1 	3
+528	Liquid	Artyk	Liquid	Artyk	1	78	22	0.9 1.1 1.3 11.7 14.6 16.5 	1
+529	EG	paiN	paiN	EG	2	17	83	23.4 19.7 16.4 0.9 0.8 0.7 	1
+530	Orange	LGD.int	Orange	LGD.int	1	52	48	3.2 4 4.3 3.7 4 5 	3
+531	Na'Vi	Dignitas	Na'Vi	Dignitas	1	80	20	0.9 1 1.2 13.3 16 17.5 	3
+532	Empire	OsG	OsG	Empire	2	22	78	14.8 14.9 12.5 1.2 1 1 	1
+533	rox.KIS	paiN.int	paiN.int	rox.KIS	2	21	79	14 15.8 15.3 1 1 1.1 	1
+534	EG	Dignitas	EG	Dignitas	1	59	41	2.8 2.8 2.7 5.8 5.6 5.6 	1
+536	Liquid	Smeagol	Smeagol	Liquid	2	17	83	23.3 19.8 16.1 1 0.8 0.7 	1
+537	Liquid	TM	Liquid	TM	1	84	16	0.6 0.7 0.9 17.9 22.2 24.7 	1
+538	Alliance	Kaipi	Kaipi	Alliance	2	18	82	19.9 18.9 15.7 1 0.8 0.8 	1
+539	Quantic	mouz	Quantic	mouz	1	54	46	3.4 3.3 3.4 4.6 4.8 4.6 	1
+540	EG	Fnatic.eu	EG	Fnatic.eu	1	61	39	2.6 2.5 2.6 6 6.4 6 	1
+541	VP	rox.KIS	VP	rox.KIS	1	77	23	1 1.3 1.4 11.4 12.4 15.5 	1
+542	Alliance	Quantic	Quantic	Alliance	2	29	71	10.3 9.5 8.7 1.8 1.6 1.5 	1
+543	VP	EG	EG	VP	2	38	62	6.1 6.9 6.1 2.6 2.3 2.6 	1
+544	EG	Quantic	EG	Quantic	1	29	71	10.2 9.7 9.1 1.7 1.6 1.5 	1
+545	Alliance	VP	Alliance	VP	1	69	31	1.5 1.9 2.2 7.2 8.4 10.3 	3
+546	Orange	TongFu	TongFu	Orange	2	36	64	6.4 7.6 7.3 2.1 2.1 2.5 	2
+547	iG	Zenith	iG	Zenith	1	68	32	1.9 1.8 1.9 8.2 8.8 8.1 	2
+548	Liquid	EG	Liquid	EG	1	56	44	3.1 3.1 3.3 4.7 5 5.1 	3
+549	Fnatic.eu	Liquid	Fnatic.eu	Liquid	1	27	73	12.5 11 9.3 1.7 1.4 1.2 	3
+550	Kaipi	Dignitas	Kaipi	Dignitas	1	28	72	10.2 10.5 9.7 1.6 1.5 1.5 	1
+551	Kaipi	Liquid	Liquid	Kaipi	2	73	27	1.5 1.4 1.5 10.7 10.9 10.1 	1
+553	TongFu	Na'Vi	TongFu	Na'Vi	1	21	79	15.8 14.9 12.8 1.2 1 1 	2
+556	Fnatic.eu	Liquid	Fnatic.eu	Liquid	1	47	53	4.9 4.3 4 4 3.7 3.2 	3
+557	Liquid	VP	VP	Liquid	2	70	30	1.5 1.7 1.9 8.1 9 10.5 	3
+558	rox.KIS	Keita	Keita	rox.KIS	2	31	69	9.5 8.8 8 2 1.8 1.7 	3
+559	mouz	Fnatic.eu	Fnatic.eu	mouz	2	48	52	4.6 4.3 4 3.9 3.7 3.4 	3
+561	Orange	Na'Vi	Na'Vi	Orange	2	56	44	3.4 2.9 3 5.3 5.3 4.6 	2
+562	TongFu	Zenith	Zenith	TongFu	2	32	68	9.4 8.6 8.1 1.9 1.8 1.7 	2
+563	iG	Na'Vi	iG	Na'Vi	1	52	48	3.3 3.8 4 4 4.2 4.8 	2
+564	EG	VP	VP	EG	2	62	38	2.3 2.4 2.6 6.1 6.6 6.9 	3
+565	Dignitas	VP	Dignitas	VP	1	47	53	5 4.5 4.1 3.8 3.5 3.2 	3
+567	mouz	EG	EG	mouz	2	45	55	5.2 4.9 4.6 3.4 3.2 3 	3
+568	Liquid	Dignitas	Dignitas	Liquid	2	40	60	5.9 6.1 5.9 2.7 2.6 2.7 	1
+570	VP	Fnatic.eu	VP	Fnatic.eu	1	49	51	4 4.1 4.2 3.7 3.9 3.9 	3
+571	DK	LGD.cn	LGD.cn	DK	2	64	36	2.1 2.2 2.3 6.8 7.1 7.4 	5
+573	VP	Alliance	Alliance	VP	2	72	28	1.3 1.5 1.8 8.7 10.2 12.4 	3
+574	Fnatic.eu	Alliance	Fnatic.eu	Alliance	1	28	72	11.9 10.4 8.8 1.8 1.5 1.3 	3
+575	TongFu	Orange	Orange	TongFu	2	57	43	2.8 3 3.2 5 5.3 5.5 	5
+576	iCCup	VP	VP	iCCup	2	71	29	1.3 1.6 1.8 8.5 9.9 12.4 	3
+577	rox.KIS	Next.kz	Next.kz	rox.KIS	2	36	64	7.8 7.5 6.3 2.5 2.1 2 	3
+579	Alliance	mouz	Alliance	mouz	1	59	41	2.7 2.8 3 5.3 5.6 5.9 	3
+580	VP	Next.kz	Next.kz	VP	2	23	77	15.4 13.4 11.1 1.4 1.2 1 	3
+581	LGD.cn	Orange	LGD.cn	Orange	1	59	41	2.4 2.8 3.1 5.1 5.7 6.6 	5
+583	iCCup	rox.KIS	iCCup	rox.KIS	1	48	52	4.4 4.4 4.1 3.8 3.6 3.5 	3
+584	Alliance	VP	VP	Alliance	2	37	63	8 6.4 5.8 2.7 2.5 2 	3
+585	VP	rox.KIS	rox.KIS	VP	2	30	70	10.1 8.9 8.3 1.9 1.8 1.5 	3
+586	EG	Quantic	EG	Quantic	1	46	54	4.6 4.8 4.7 3.4 3.3 3.4 	1
+587	Alliance	Dignitas	Alliance	Dignitas	1	74	26	1.4 1.3 1.4 11.3 12.4 11.4 	3
+588	Zenith	LGD.int	Zenith	LGD.int	1	35	65	7.4 7.6 6.9 2.3 2.1 2.1 	3
+589	Alliance	VP	VP	Alliance	2	35	65	8 7.4 6.4 2.4 2.1 2 	1
+590	Na'Vi	RS	Na'Vi	RS	1	68	32	1.9 1.8 1.9 8.4 8.9 8.2 	3
+591	LGD.cn	Orange	Orange	LGD.cn	2	42	58	5.8 5.5 5.2 3 2.9 2.7 	3
+592	Fnatic.eu	rox.KIS	Fnatic.eu	rox.KIS	1	67	33	1.8 2 2.1 7.3 8 8.5 	1
+593	Quantic	Kaipi	Quantic	Kaipi	1	61	39	2.5 2.5 2.6 6 6.3 6.2 	1
+594	mouz	EG	EG	mouz	2	46	54	4.9 4.7 4.5 3.5 3.3 3.2 	1
+595	Alliance	Fnatic.eu	Alliance	Fnatic.eu	1	69	31	1.6 1.7 1.9 8.3 9.2 9.5 	1
+596	mouz	Quantic	Quantic	mouz	2	42	58	5.6 5.3 5.4 2.9 3 2.8 	1
+597	Alliance	mouz	Alliance	mouz	1	68	32	1.8 1.9 2 7.9 8.4 8.8 	3
+598	LGD.cn	Zenith	LGD.cn	Zenith	1	70	30	1.5 1.7 1.9 8.3 9.2 10.6 	3
+599	Na'Vi	TongFu	Na'Vi	TongFu	1	55	45	3.5 3 2.9 5.4 5.2 4.4 	3
+600	mouz	Alliance	Alliance	mouz	2	74	26	1.3 1.3 1.5 10.5 11.8 12.4 	3
+602	Alliance	EG	EG	Alliance	2	31	69	10.1 8.9 8.2 1.9 1.8 1.6 	3
+604	Orange	MUFC	MUFC	Orange	2	24	76	14.4 12.7 10.7 1.5 1.2 1.1 	3
+605	LGD.int	RS	RS	LGD.int	2	31	69	8.9 9.3 8.3 1.9 1.7 1.8 	3
+607	Kaipi	Fnatic.eu	Fnatic.eu	Kaipi	2	68	32	1.8 1.8 2.1 7.6 8.6 8.9 	3
+608	Alliance	Liquid	Alliance	Liquid	1	72	28	1.3 1.5 1.7 9 10.6 11.7 	3
+610	LGD.cn	DK	LGD.cn	DK	1	53	47	3.8 3.3 3.3 4.8 4.7 4.1 	3
+611	Denial	TM	Denial	TM	1	63	37	2 2.4 2.7 5.7 6.7 7.8 	5
+612	Na'Vi	iG	Na'Vi	iG	1	57	43	3.2 2.9 2.8 5.6 5.3 4.9 	3
+613	Fnatic.eu	Dignitas	Dignitas	Fnatic.eu	2	42	58	5.6 5.7 5.5 2.8 2.8 2.8 	3
+614	EG	Fnatic.eu	Fnatic.eu	EG	2	47	53	4.5 4.6 4.4 3.6 3.4 3.5 	3
+615	Orange	Zenith	Zenith	Orange	2	27	73	11.8 11.4 9.8 1.6 1.4 1.3 	3
+616	TongFu	LGD.int	TongFu	LGD.int	1	65	35	1.8 2.2 2.6 6.1 7.2 8.8 	3
+617	VP	iCCup	VP	iCCup	1	71	29	1.4 1.6 1.8 8.7 9.7 10.8 	3
+618	Alliance	Quantic	Alliance	Quantic	1	74	26	1.2 1.4 1.6 9.5 11.5 13.2 	3
+619	iG	Orange	iG	Orange	1	44	56	5.3 5.1 5 3.2 3.1 2.9 	3
+620	DK	TongFu	DK	TongFu	1	43	57	4.6 5.6 6.1 2.6 2.8 3.4 	3
+621	iCCup	Quantic	iCCup	Quantic	1	25	75	13.6 13.1 10.5 1.5 1.2 1.1 	3
+622	Fnatic.eu	Dignitas	Fnatic.eu	Dignitas	1	64	36	2.3 2.1 2.1 7.4 7.4 6.9 	3
+623	Alliance	VP	VP	Alliance	2	31	69	9.9 8.6 7.8 2 1.8 1.6 	3
+624	Liquid	Dignitas	Dignitas	Liquid	2	30	70	10.5 9.2 8.1 1.9 1.7 1.5 	5
+625	TongFu	DK	TongFu	DK	1	43	57	5.7 5.1 4.7 3.3 3.1 2.8 	5
+626	iCCup	VP	VP	iCCup	2	70	30	1.5 1.7 1.9 8.2 9.5 10.8 	3
+627	EG	Dignitas	EG	Dignitas	1	69	31	1.8 1.7 1.9 8.1 9.2 8.8 	3
+628	EG	Denial	EG	Denial	1	79	21	0.9 1 1.2 12.6 15.6 17 	5
+629	LGD.cn	Na'Vi	Na'Vi	LGD.cn	2	64	36	2.3 2.1 2.3 6.8 7.3 6.9 	3
+630	iG	DK	iG	DK	1	65	35	2 2.1 2.3 6.7 7.6 8 	3
+631	Alliance	iCCup	Alliance	iCCup	1	78	22	0.9 1.2 1.5 10.4 13.1 17.7 	5
+632	mouz	Dignitas	Dignitas	mouz	2	30	70	10.3 9.2 8.1 1.9 1.7 1.5 	3
+633	Liquid	EG	EG	Liquid	2	48	52	4.3 4.3 4.1 3.8 3.6 3.6 	5
+634	Na'Vi	iG	iG	Na'Vi	2	42	58	5.5 5.6 5.7 2.8 2.8 2.9 	5
+635	Dignitas	4FC	Dignitas	4FC	1	72	28	1.4 1.5 1.8 8.8 10.6 11.2 	3
+636	EG	Denial	Denial	EG	2	19	81	21.8 17.5 14.4 1.1 0.9 0.7 	3
+638	Na'Vi	LGD.cn	LGD.cn	Na'Vi	2	40	60	5.8 6 5.9 2.7 2.6 2.7 	5
+639	4FC	Denial	Denial	4FC	2	43	57	4.7 5.7 5.6 2.8 2.8 3.3 	3
+641	mouz	VP	VP	mouz	2	38	62	7.4 6 5.5 2.8 2.6 2.1 	3
+642	Alliance	Liquid	Liquid	Alliance	2	24	76	14.8 13.1 10.5 1.5 1.2 1 	3
+643	iG	Orange	iG	Orange	1	64	36	2.3 2.1 2.3 6.9 7.4 6.8 	1
+644	rox.KIS	Quantic	rox.KIS	Quantic	1	29	71	10.8 10.1 8.8 1.8 1.6 1.5 	1
+645	VP	mouz	mouz	VP	2	67	33	1.8 1.9 2.1 7.5 8.3 8.5 	1
+646	Fnatic.eu	Kaipi	Fnatic.eu	Kaipi	1	64	36	2.4 2.1 2.2 7.1 7.3 6.6 	1
+648	VP	rox.KIS	rox.KIS	VP	2	34	66	9.2 7.6 6.7 2.4 2.1 1.7 	1
+649	Fnatic.eu	EG	Fnatic.eu	EG	1	54	46	3.4 3.4 3.6 4.3 4.6 4.7 	1
+650	Fnatic.eu	VP	VP	Fnatic.eu	2	53	47	3.5 3.4 3.4 4.7 4.6 4.4 	3
+651	Denial	Dignitas	Denial	Dignitas	1	21	79	18 15.4 12 1.3 1 0.9 	5
+652	DK	TongFu	DK	TongFu	1	41	59	5.9 5.6 5.4 2.9 2.8 2.7 	1
+653	VG	iG	iG	VG	2	76	24	1 1.2 1.4 10.8 13.1 15 	1
+654	DK	LGD.int	DK	LGD.int	1	61	39	2 2.6 3.2 4.9 6 8 	1
+656	Na'Vi	iCCup	Na'Vi	iCCup	1	76	24	1.1 1.2 1.5 10.6 12.8 13.8 	3
+657	mouz	Dignitas	mouz	Dignitas	1	68	32	1.6 1.9 2.1 7.3 8.4 10 	3
+658	mouz	Alliance	Alliance	mouz	2	73	27	1.4 1.5 1.6 9.8 10.1 11.5 	3
+659	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	71	29	1.6 1.6 1.7 9 9.6 9.9 	3
+660	RS	TongFu	TongFu	RS	2	74	26	1.2 1.4 1.6 9.6 11.3 12.5 	1
+661	iG	LGD.cn	iG	LGD.cn	1	44	56	5.5 5 4.7 3.4 3.1 2.9 	1
+662	DK	RS	DK	RS	1	67	33	1.7 1.9 2.2 7.2 8.2 9 	1
+663	RS	LGD.int	LGD.int	RS	2	54	46	3.5 3.2 3.6 4.4 4.9 4.5 	1
+664	RStars	iG	iG	RStars	2	77	23	1 1.2 1.4 11.2 13.4 16.1 	3
+665	Orange	RS	Orange	RS	1	60	40	2.4 2.6 3 5.3 6 6.6 	3
+666	LGD.cn	TongFu	LGD.cn	TongFu	1	60	40	2.3 2.7 2.9 5.3 5.9 6.8 	3
+667	DK	VG	VG	DK	2	33	67	9 8.3 7.3 2.2 1.9 1.8 	3
+668	mouz	imG	mouz	imG	1	79	21	0.8 1 1.3 11.8 15.4 18.6 	3
+669	iNfernity	dargoneblaydes	iNfernity	dargoneblaydes	1	60	40	2.3 2.6 3.2 5 6 6.9 	3
+670	EG	FSid3	EG	FSid3	1	78	22	1 1.1 1.4 11.5 14.6 16.1 	3
+671	Fnatic.eu	RAT	RAT	Fnatic.eu	2	21	79	17.1 15.9 12.8 1.2 1 0.9 	3
+672	Orange	RStars	Orange	RStars	1	70	30	1.6 1.7 1.9 8.4 9.4 9.8 	3
+673	LGD.cn	DK	LGD.cn	DK	1	55	45	3 3.3 3.5 4.5 4.8 5.2 	3
+674	mouz	iNfernity	mouz	iNfernity	1	81	19	0.7 0.9 1.1 14.3 17.4 22.7 	3
+675	EG	Fnatic.eu	EG	Fnatic.eu	1	39	61	6.4 6.2 5.9 2.6 2.6 2.4 	3
+676	LGD.cn	Orange	Orange	LGD.cn	2	33	67	8.8 8.2 7.1 2.2 1.9 1.8 	5
+677	mouz	EG	mouz	EG	1	67	33	2 2 2 7.9 8 7.9 	5
+678	Kaipi	Alliance	Kaipi	Alliance	1	20	80	18.7 16.5 13.6 1.1 0.9 0.8 	3
+679	Fnatic.eu	mouz	Fnatic.eu	mouz	1	31	69	9.7 8.6 7.8 2 1.8 1.6 	3
+680	Liquid	mouz	mouz	Liquid	2	61	39	2.4 2.4 2.8 5.7 6.7 6.6 	3
+681	Quantic	Fnatic.eu	Fnatic.eu	Quantic	2	60	40	2.3 2.7 2.9 5.4 5.9 6.7 	1
+682	mouz	Alliance	mouz	Alliance	1	40	60	6.3 5.9 5.3 3 2.7 2.5 	1
+683	rox.KIS	Kaipi	rox.KIS	Kaipi	1	41	59	6.4 5.7 5.2 3 2.8 2.4 	1
+684	VP	EG	EG	VP	2	48	52	4.2 4.4 4.1 3.8 3.6 3.8 	1
+685	mouz	Quantic	Quantic	mouz	2	42	58	6 5.2 4.8 3.3 3 2.6 	1
+686	VP	rox.KIS	rox.KIS	VP	2	33	67	8.6 8.3 7.5 2.1 1.9 1.8 	1
+687	VP	mouz	mouz	VP	2	57	43	2.8 3.1 3.1 5.1 5.2 5.6 	3
+688	VP	Dignitas	Dignitas	VP	2	35	65	7.8 7.3 6.6 2.4 2.1 2 	3
+689	Kaipi	EG	Kaipi	EG	1	49	51	4.3 4.1 4.2 3.7 3.8 3.7 	3
+690	EG	Empire	Empire	EG	2	37	63	8.1 6.6 6 2.6 2.4 1.9 	3
+691	Liquid	iCCup	iCCup	Liquid	2	37	63	7.2 6.5 6.1 2.6 2.4 2.2 	3
+692	Na'Vi	mouz	Na'Vi	mouz	1	71	29	1.6 1.6 1.8 9 9.8 10 	5
+693	Alliance	EG	Alliance	EG	1	69	31	1.6 1.7 1.9 8.1 9.2 9.7 	3
+695	Alliance	mouz	mouz	Alliance	2	35	65	8 7.2 6.6 2.4 2.2 2 	3
+696	Fnatic.eu	Empire	Fnatic.eu	Empire	1	70	30	1.6 1.6 1.8 8.9 9.6 9.9 	1
+697	Kaipi	Denial	Denial	Kaipi	2	30	70	9.5 9.6 8.9 1.8 1.6 1.6 	1
+699	Alliance	mouz	mouz	Alliance	2	24	76	14.1 11.9 10.2 1.5 1.3 1.1 	5
+700	Orange	RS	RS	Orange	2	27	73	11.3 11.1 9.5 1.7 1.4 1.4 	3
+701	VG	Zenith	VG	Zenith	1	40	60	6.1 6.2 5.8 2.7 2.6 2.6 	3
+702	Na'Vi	Kaipi	Na'Vi	Kaipi	1	80	20	0.9 1 1.2 13.5 16.2 18 	3
+703	mouz	Empire	mouz	Empire	1	79	21	0.9 1 1.3 12 15.7 17.6 	3
+704	EG	Liquid	Liquid	EG	2	64	36	2 2.3 2.5 6.3 7 8 	3
+706	RS	Zenith	Zenith	RS	2	57	43	2.9 2.9 3 5.2 5.3 5.5 	3
+707	Orange	VG	Orange	VG	1	67	33	1.9 1.9 2.1 7.5 8.2 8.5 	3
+708	iCCup	EG	EG	iCCup	2	69	31	1.6 1.8 2 8 8.9 9.9 	3
+709	Kaipi	EG	Kaipi	EG	1	56	44	3 3.1 3.3 4.7 5 5.3 	3
+710	VP	Fnatic.eu	Fnatic.eu	VP	2	45	55	4.9 5.1 4.9 3.2 3.1 3.2 	3
+711	mouz	Kaipi	mouz	Kaipi	1	56	44	2.7 3.2 3.4 4.6 5 5.8 	3
+712	Na'Vi	Kaipi	Na'Vi	Kaipi	1	78	22	0.9 1.1 1.3 11.8 14.7 16.7 	5
+713	MiTH	1stVN	1stVN	MiTH	2	33	67	9 8.3 7.3 2.2 1.9 1.7 	1
+714	Dreamz	iPod2	Dreamz	iPod2	1	58	42	2.9 2.7 2.9 5.5 5.8 5.5 	1
+715	mouz	iCCup	iCCup	mouz	2	30	70	10.6 9.4 8.3 1.9 1.7 1.5 	3
+716	mouz	Fnatic.eu	Fnatic.eu	mouz	2	37	63	7.5 6.5 5.8 2.7 2.4 2.1 	3
+717	mouz	VP	VP	mouz	2	43	57	5.3 5.2 5.1 3.1 3 2.9 	5
+718	Dreamz	NeoG7	Dreamz	NeoG7	1	75	25	1.1 1.2 1.5 10.6 12.8 13.7 	3
+719	Mski	FD	Mski	FD	1	67	33	2.1 1.8 1.9 8.4 8.8 7.7 	3
+720	MiTH	Dreamz	MiTH	Dreamz	1	68	32	1.8 1.8 2 7.9 8.7 8.7 	3
+721	Mski	MiTH	Mski	MiTH	1	29	71	9.4 10.1 9.2 1.7 1.6 1.7 	5
+722	iCCup	Empire	iCCup	Empire	1	66	34	1.9 2 2.3 6.7 7.7 8.4 	3
+723	Kaipi	4FC	Kaipi	4FC	1	79	21	0.9 1 1.2 12.8 15.7 17.4 	3
+724	Kaipi	iCCup	iCCup	Kaipi	2	48	52	4.5 4.2 4.1 3.8 3.7 3.5 	3
+725	Romania	SAfrica	SAfrica	Romania	2	33	67	9.1 8 7 2.3 2 1.7 	3
+726	RS	Quantic	Quantic	RS	2	63	37	2.3 2.3 2.5 6.3 7 6.9 	5
+727	Fnatic.eu	Na'Vi	Na'Vi	Fnatic.eu	2	78	22	0.9 1.1 1.4 11.5 14.5 16.8 	2
+729	DK	Dignitas	Dignitas	DK	2	26	74	14.8 10.3 8.5 1.8 1.5 1 	2
+730	LGD.cn	MUFC	MUFC	LGD.cn	2	19	81	20.4 16.1 14 1.1 1 0.8 	2
+731	iG	RS	iG	RS	1	68	32	1.6 1.9 2.1 7.5 8.4 9.6 	2
+732	Alliance	LGD.int	LGD.int	Alliance	2	24	76	14.3 12.5 9.9 1.6 1.3 1.1 	2
+734	TongFu	Orange	TongFu	Orange	1	56	44	3 3.3 3.4 4.6 4.8 5.3 	2
+735	Dignitas	MUFC	MUFC	Dignitas	2	45	55	4.6 5.1 5.2 3 3.1 3.4 	2
+737	Na'Vi	mouz	mouz	Na'Vi	2	38	62	7.1 6.5 5.9 2.6 2.4 2.2 	2
+741	TongFu	VP	TongFu	VP	1	69	31	1.5 1.8 2.5 6.2 8.5 10.6 	2
+743	Fnatic.eu	mouz	Fnatic.eu	mouz	1	54	46	3.6 3.1 3.1 5.1 5.1 4.4 	2
+744	Alliance	iG	Alliance	iG	1	60	40	2.5 2.6 2.8 5.6 6 6.3 	2
+745	Dignitas	LGD.cn	Dignitas	LGD.cn	1	20	80	21.5 14.5 11.7 1.3 1.1 0.7 	2
+746	DK	MUFC	DK	MUFC	1	83	17	0.7 0.9 1 15.9 17.7 23.2 	2
+748	Na'Vi	Zenith	Zenith	Na'Vi	2	25	75	13.5 11.6 9.8 1.6 1.3 1.2 	2
+749	Liquid	TongFu	TongFu	Liquid	2	74	26	1.2 1.6 1.6 9.9 10 12.5 	2
+750	Orange	VP	Orange	VP	1	58	42	2.6 3.1 3.2 4.9 5.1 6 	2
+751	Alliance	RS	Alliance	RS	1	79	21	0.8 1.1 1.4 11.2 13.6 18.3 	2
+754	Na'Vi	MUFC	MUFC	Na'Vi	2	17	83	23.5 19.5 16.3 0.9 0.8 0.7 	2
+756	Dignitas	mouz	Dignitas	mouz	1	44	56	5.4 4.8 4.5 3.5 3.3 2.9 	2
+757	Alliance	TongFu	TongFu	Alliance	2	28	72	9.9 10.2 10.5 1.5 1.5 1.6 	2
+758	iG	VP	iG	VP	1	71	29	1.5 1.8 1.8 8.7 8.8 10.8 	2
+759	Orange	LGD.int	Orange	LGD.int	1	70	30	1.6 1.8 2 7.8 8.7 10 	2
+761	Fnatic.eu	MUFC	Fnatic.eu	MUFC	1	83	17	0.7 0.8 0.9 16.9 20 23.1 	2
+762	Na'Vi	DK	Na'Vi	DK	1	65	35	2.1 2 2.2 7.2 7.8 7.3 	2
+766	Alliance	Liquid	Alliance	Liquid	1	80	20	0.9 1 1.1 14 16 16.6 	2
+767	LGD.int	TongFu	TongFu	LGD.int	2	78	22	1 1.1 1.3 11.9 13.9 16 	2
+769	mouz	MUFC	MUFC	mouz	2	21	79	16.8 15.7 13 1.2 1 0.9 	2
+770	LGD.cn	Zenith	Zenith	LGD.cn	2	29	71	10.1 9.4 8.9 1.8 1.7 1.6 	2
+771	Na'Vi	Dignitas	Dignitas	Na'Vi	2	25	75	12.7 12 10.9 1.4 1.3 1.2 	2
+772	DK	Fnatic.eu	Fnatic.eu	DK	2	59	41	2.8 2.7 2.9 5.4 5.9 5.5 	2
+773	Alliance	VP	VP	Alliance	2	17	83	21.6 20 17.5 0.9 0.8 0.7 	2
+774	TongFu	iG	TongFu	iG	1	39	61	6.6 6.2 5.7 2.8 2.6 2.4 	2
+775	Liquid	LGD.int	Liquid	LGD.int	1	58	42	2.9 2.9 3 5.2 5.5 5.5 	2
+776	Orange	RS	RS	Orange	2	27	73	11.6 11 9.7 1.6 1.4 1.3 	2
+778	DK	mouz	DK	mouz	1	70	30	1.4 1.8 2 7.8 8.6 11.4 	2
+779	Zenith	MUFC	MUFC	Zenith	2	21	79	16.6 15.4 13.4 1.2 1 0.9 	2
+781	Alliance	Orange	Orange	Alliance	2	20	80	17.1 16.1 13.8 1.1 1 0.9 	2
+782	iG	Liquid	iG	Liquid	1	60	40	2.5 2.7 2.9 5.4 5.9 6.2 	2
+783	TongFu	RS	TongFu	RS	1	81	19	0.9 0.9 1 15.7 16.3 17.4 	2
+785	LGD.cn	Dignitas	Dignitas	LGD.cn	2	36	64	7.9 6.8 6.4 2.5 2.3 2 	1
+786	Na'Vi	Orange	Orange	Na'Vi	2	22	78	16.3 14.5 11.8 1.3 1.1 1 	3
+787	TongFu	Fnatic.eu	TongFu	Fnatic.eu	1	52	48	3.2 3.9 4.1 3.8 4.1 5 	3
+788	Dignitas	RS	Dignitas	RS	1	62	38	2.4 2.4 2.6 6 6.6 6.5 	1
+789	LGD.int	mouz	LGD.int	mouz	1	47	53	4.4 4.6 4.4 3.6 3.4 3.6 	1
+790	AllStarsA	AllStarsB	AllStarsA	AllStarsB	1	44	56	4.7 5.3 5 3.1 3 3.3 	1
+791	Orange	Dignitas	Dignitas	Orange	2	32	68	9.1 8.3 7.8 2 1.9 1.7 	1
+792	Fnatic.eu	LGD.int	LGD.int	Fnatic.eu	2	39	61	6.1 6.2 5.9 2.7 2.5 2.6 	1
+793	Alliance	LGD.cn	LGD.cn	Alliance	2	25	75	13.5 11.9 10 1.6 1.3 1.2 	3
+794	DK	iG	DK	iG	1	48	52	4.2 4.5 4.3 3.7 3.5 3.8 	3
+795	Liquid	MUFC	Liquid	MUFC	1	79	21	0.9 1 1.2 13.1 15.5 17.5 	1
+796	Zenith	VP	Zenith	VP	1	66	34	1.9 2 2.3 6.9 7.7 8.3 	1
+797	Liquid	LGD.cn	LGD.cn	Liquid	2	75	25	1.1 1.4 1.6 9.6 11.4 13.8 	1
+798	iG	Zenith	iG	Zenith	1	67	33	1.9 2 2.2 7.2 7.8 8.5 	1
+799	Alliance	DK	Alliance	DK	1	76	24	1.1 1.2 1.5 10.7 12.6 13.6 	3
+800	Na'Vi	TongFu	Na'Vi	TongFu	1	74	26	1.4 1.4 1.5 10.4 11.5 11.4 	3
+801	Orange	Fnatic.eu	Orange	Fnatic.eu	1	58	42	2.7 3 3.2 4.9 5.3 5.8 	1
+802	iG	Liquid	Liquid	iG	2	37	63	7.4 6.8 6.1 2.6 2.3 2.1 	1
+803	Orange	DK	DK	Orange	2	72	28	1.3 1.6 1.9 8.2 9.6 11.9 	3
+804	TongFu	iG	iG	TongFu	2	48	52	4.6 4.1 4 4 3.9 3.4 	3
+805	Alliance	Na'Vi	Alliance	Na'Vi	1	51	49	3.4 4 4.2 3.8 3.9 4.6 	3
+806	Orange	TongFu	TongFu	Orange	2	62	38	2.2 2.5 2.8 5.7 6.2 7.1 	3
+807	Na'Vi	Orange	Na'Vi	Orange	1	69	31	1.6 1.7 1.9 8.2 9 9.5 	3
+808	Alliance	Na'Vi	Alliance	Na'Vi	1	60	40	2.4 2.8 2.9 5.4 5.6 6.5 	5
+811	RStars	FD	FD	RStars	2	28	72	12.6 10.6 8.7 1.8 1.5 1.2 	1
+812	Empire	PR	Empire	PR	1	77	23	1 1.2 1.6 10.1 13.4 16.2 	3
+813	Empire	GL.eu	GL.eu	Empire	2	20	80	18 16.7 12.9 1.2 0.9 0.9 	3
+814	Kaipi	Empire	Empire	Kaipi	2	31	69	10.3 8.6 7.5 2.1 1.8 1.5 	3
+815	TTD	Life	TTD	Life	1	73	27	1.3 1.4 1.7 9.4 11.5 11.9 	3
+816	Kaipi	TTD	TTD	Kaipi	2	26	74	12.2 11 10.3 1.5 1.4 1.3 	3
+817	Lounge	EmpireTV	EmpireTV	Lounge	2	35	65	7.9 7.7 6.9 2.3 2 2 	3
+818	FD	Awake	FD	Awake	1	75	25	1.2 1.2 1.5 10.2 13.5 13.3 	1
+820	4FC	GL.eu	4FC	GL.eu	1	83	17	0.7 0.8 1 15.8 19.9 22.3 	3
+821	4++	paiN	paiN	4++	2	77	23	1.1 1 1.3 11.9 15.2 14.3 	3
+822	MiTH	Imp	Imp	MiTH	2	24	76	15.2 12.4 10.2 1.5 1.3 1 	1
+823	GL.eu	paiN	GL.eu	paiN	1	70	30	1.4 1.6 1.9 8.1 9.7 11 	1
+825	WARDGS	OUTRAGE	WARDGS	OUTRAGE	1	68	32	1.7 1.7 2 7.8 9.2 9 	2
+826	EVOPLAY	otherWise	otherWise	EVOPLAY	2	30	70	9.2 10.1 8.4 1.9 1.5 1.7 	2
+827	TS	SPBS	TS	SPBS	1	39	61	5.1 6.9 6.5 2.4 2.3 3.1 	2
+828	EVOPLAY	WARDGS	EVOPLAY	WARDGS	1	67	33	1.9 1.9 2.1 7.5 8.3 8.2 	1
+829	TLP	TS	TLP	TS	1	26	74	13.9 11.9 9.4 1.7 1.3 1.1 	1
+830	DUZA	TLP	DUZA	TLP	1	34	66	7.7 7.6 7.4 2.1 2.1 2 	3
+831	Awake	Imp	Awake	Imp	1	67	33	1.9 1.9 2 7.8 8.5 8.1 	1
+832	CDCD	Kaipi	CDCD	Kaipi	1	18	82	23.2 18.4 15.8 1 0.8 0.7 	1
+833	Menace	Poseidon	Poseidon	Menace	2	73	27	1.2 1.4 1.7 9 11.1 12.9 	1
+834	Aspera	Menace	Menace	Aspera	2	47	53	4.4 4.6 4.3 3.6 3.4 3.6 	1
+835	Poseidon	CDCD	Poseidon	CDCD	1	60	40	2.9 2.5 2.4 6.4 6.2 5.5 	1
+836	Poseidon	Next.kz	Poseidon	Next.kz	1	65	35	1.8 2.1 2.4 6.6 7.6 8.9 	1
+837	Next.kz	Menace	Next.kz	Menace	1	40	60	5.8 6.3 6 2.6 2.5 2.7 	1
+838	Kaipi	DUZA	Kaipi	DUZA	1	67	33	1.6 1.8 2.3 6.9 8.5 9.5 	1
+840	TS	paiN.int	TS	paiN.int	1	55	45	3.2 3.2 3.3 4.7 5 5 	3
+841	VP	WG	VP	WG	1	77	23	1 1.1 1.4 10.9 13.7 16 	1
+842	Menace	Quantic	Menace	Quantic	1	31	69	9.4 9 8.7 1.8 1.7 1.7 	1
+843	Empire	uebelst	uebelst	Empire	2	31	69	8.2 9.4 8.6 1.8 1.7 1.9 	1
+844	Kaipi	Life	Life	Kaipi	2	27	73	12.3 11.7 9.6 1.6 1.3 1.3 	1
+845	DUZA	CDCD	DUZA	CDCD	1	32	68	9.1 8.5 7.6 2.1 1.8 1.7 	1
+846	Next.kz	CDCD	CDCD	Next.kz	2	45	55	5.1 4.8 4.6 3.4 3.3 3.1 	1
+847	4FC	Menace	Menace	4FC	2	56	44	3.4 3.1 3 5.3 5.1 4.6 	1
+848	DUZA	Next.kz	Next.kz	DUZA	2	62	38	2.3 2.4 2.7 5.8 6.5 6.9 	1
+849	Poseidon	4FC	Poseidon	4FC	1	53	47	3.3 3.4 3.7 4.2 4.7 4.7 	1
+851	VP	Aspera	VP	Aspera	1	76	24	1 1.2 1.5 10.7 13.5 14.8 	1
+854	Life	TS	TS	Life	2	56	44	3.4 2.8 2.8 5.5 5.7 4.6 	3
+855	Imp	Arcanys	Imp	Arcanys	1	63	37	2.2 2.3 2.5 6.3 6.9 7.1 	1
+856	Empire	Menace	Empire	Menace	1	71	29	1.5 1.5 1.7 9.2 10.5 10.2 	1
+857	Next.kz	Aspera	Next.kz	Aspera	1	68	32	1.8 1.8 1.9 8.3 8.5 8.6 	5
+858	FSid3	ONE.dota	FSid3	ONE.dota	1	65	35	1.9 2 2.4 6.7 7.8 8.1 	1
+859	FSid3	Empire	Empire	FSid3	2	72	28	1.6 1.5 1.6 9.8 10.7 9.8 	3
+860	Bambang	Xplicit	Xplicit	Bambang	2	66	34	2.1 1.9 2.1 7.4 8.2 7.6 	1
+861	Aspera	uebelst	Aspera	uebelst	1	65	35	2.3 2 2.1 7.5 8 6.9 	1
+862	rox.KIS	uebelst	rox.KIS	uebelst	1	73	27	1.5 1.3 1.5 10.2 11.7 10.2 	1
+863	Next.kz	rox.KIS	Next.kz	rox.KIS	1	46	54	4.6 5 4.7 3.4 3.2 3.4 	1
+864	Poseidon	PR	PR	Poseidon	2	25	75	13.8 12.4 10.3 1.5 1.3 1.1 	1
+865	Mski	WUD	Mski	WUD	1	77	23	1 1.1 1.4 11.5 13.8 15.3 	1
+866	Poseidon	uebelst	Poseidon	uebelst	1	80	20	0.9 0.9 1.1 13.6 16.4 18 	1
+867	Dreamz	nAra	Dreamz	nAra	1	75	25	1.1 1.3 1.6 9.8 12.2 13.7 	1
+868	GxGaming	1st.VN	1st.VN	GxGaming	2	57	43	3.2 2.7 2.9 5.4 5.8 5 	1
+869	SFEC	PBS	SFEC	PBS	1	45	55	5.4 4.9 4.5 3.5 3.2 2.9 	2
+871	Next.kz	TS	TS	Next.kz	2	24	76	14.5 13.3 11.2 1.4 1.2 1.1 	1
+872	Aspera	Empire	Empire	Aspera	2	67	33	1.8 2 2.2 7.3 8 8.7 	1
+873	PR	VP	PR	VP	1	19	81	20.7 17.6 14.6 1.1 0.9 0.7 	1
+874	VP	Poseidon	VP	Poseidon	1	54	46	3.3 3.2 3.5 4.5 4.9 4.7 	1
+875	Imp	Bambang	Imp	Bambang	1	46	54	4.8 4.8 4.6 3.4 3.3 3.3 	3
+876	MSIEvoGT	1st.VN	MSIEvoGT	1st.VN	1	63	37	2 2.3 2.7 5.9 6.9 8 	3
+877	Mski	Arcanys	Arcanys	Mski	2	26	74	14.8 11.3 9.4 1.7 1.4 1 	3
+878	Lowyat	Dreamz	Lowyat	Dreamz	1	26	74	13.7 11.4 9.5 1.6 1.4 1.1 	3
+879	Empire	Menace	Menace	Empire	2	43	57	5.6 5.1 4.8 3.3 3.1 2.8 	1
+880	Empire	VP	Empire	VP	1	32	68	8.9 8.7 7.9 2 1.8 1.8 	1
+881	Quantic	Poseidon	Poseidon	Quantic	2	66	34	1.8 2.1 2.4 6.7 7.6 8.6 	1
+882	rox.KIS	DUZA	DUZA	rox.KIS	2	50	50	3.8 4.2 4.2 3.8 3.8 4.1 	1
+883	Kaipi	uebelst	uebelst	Kaipi	2	27	73	12.6 11 9.5 1.6 1.4 1.2 	1
+885	Aspera	3DMAX	Aspera	3DMAX	1	69	31	1.7 1.7 1.9 8.4 9.2 9.3 	3
+886	Fnatic.eu	DUZA	DUZA	Fnatic.eu	2	28	72	10.8 10.4 8.9 1.8 1.5 1.4 	1
+887	MSIEvoGT	Imp	MSIEvoGT	Imp	1	41	59	6.4 5.6 5.2 3 2.8 2.4 	3
+888	Mski	Lowyat	Mski	Lowyat	1	66	34	1.9 2 2.3 7 8 8.5 	3
+889	Next.kz	Kawai	Next.kz	Kawai	1	74	26	1.3 1.3 1.5 10.4 12 12.4 	3
+890	GL.eu	Deneme	GL.eu	Deneme	1	60	40	2.3 2.7 2.9 5.4 5.9 6.9 	1
+891	Menace	CTT	Menace	CTT	1	68	32	1.9 1.8 2 8 8.7 8.4 	3
+892	Kaipi	Aspera	Kaipi	Aspera	1	64	36	2 2.3 2.6 6 6.8 8 	3
+893	Menace	Empire	Empire	Menace	2	71	29	1.5 1.5 1.8 8.9 10.1 10.2 	3
+894	Life	GL.eu	Life	GL.eu	1	58	42	2.5 3 3.4 4.6 5.2 6.4 	3
+895	Next.kz	rox.KIS	rox.KIS	Next.kz	2	48	52	4.5 4.2 4.3 3.6 3.7 3.5 	3
+896	Life	Next.kz	Life	Next.kz	1	32	68	8.2 9 8.9 1.8 1.7 1.9 	3
+897	Kaipi	Menace	Menace	Kaipi	2	32	68	9.6 8.1 7.3 2.2 1.9 1.6 	3
+898	Mski	MSIEvoGT	MSIEvoGT	Mski	2	31	69	9.9 9 8.2 1.9 1.7 1.6 	5
+899	Menace	uebelst	Menace	uebelst	1	75	25	1.3 1.2 1.4 11.2 12.6 12 	1
+900	VP	Fnatic.eu	VP	Fnatic.eu	1	38	62	7 6.6 6 2.6 2.4 2.3 	1
+901	Fnatic.eu	Next.kz	Fnatic.eu	Next.kz	1	74	26	1.4 1.3 1.5 10.3 11.9 11.2 	1
+902	Kaipi	Aspera	Aspera	Kaipi	2	37	63	7.1 7 6.6 2.4 2.2 2.2 	1
+903	Kaipi	Life	Kaipi	Life	1	75	25	1.2 1.3 1.5 10.6 12.1 13.1 	5
+904	SAfrica	Mexico	SAfrica	Mexico	1	42	58	5.5 5.5 5.2 3 2.9 2.9 	3
+905	Dignitas	SFEC	Dignitas	SFEC	1	80	20	0.8 0.9 1.1 13.8 16.4 18.2 	2
+906	Dignitas	StayFree	Dignitas	StayFree	1	79	21	0.9 1 1.2 13 16.1 16.8 	2
+907	NoLove	Joiker	Joiker	NoLove	2	49	51	4.4 4.1 4 4 3.8 3.6 	2
+908	iG	OguraYui	iG	OguraYui	1	83	17	0.7 0.8 1 15.9 19.6 23.5 	3
+909	VG	RS	VG	RS	1	67	33	1.5 1.9 2.3 6.7 8.1 10.1 	3
+910	Empire	Poseidon	Poseidon	Empire	2	51	49	3.9 3.8 3.8 4.1 4.1 4.1 	1
+911	4FC	VP	4FC	VP	1	24	76	13.3 13.6 11.4 1.4 1.1 1.2 	1
+912	Kaipi	Fnatic.eu	Kaipi	Fnatic.eu	1	46	54	4.5 4.9 4.7 3.4 3.2 3.5 	1
+913	Joiker	Purple	Joiker	Purple	1	37	63	7.6 7 6.1 2.6 2.3 2.1 	2
+914	StayFree	PBS	PBS	StayFree	2	39	61	6.8 6.5 5.6 2.8 2.4 2.3 	2
+915	Fnatic.eu	DPWZ	DPWZ	Fnatic.eu	2	20	80	19 15.9 13.4 1.2 1 0.8 	1
+916	Property	VP	Property	VP	1	27	73	12.7 10.6 9.3 1.7 1.5 1.2 	1
+917	Menace	Fnatic.eu	Menace	Fnatic.eu	1	28	72	10.9 10.9 9.5 1.7 1.4 1.4 	1
+918	DUZA	Menace	DUZA	Menace	1	46	54	5.2 4.5 4.3 3.6 3.5 3 	1
+919	LGD.cn	Mski	Mski	LGD.cn	2	27	73	12.1 10.6 9 1.7 1.5 1.3 	3
+920	TongFu	NE	NE	TongFu	2	17	83	24.5 21.2 16.5 0.9 0.7 0.6 	3
+921	Alliance	Empire	Empire	Alliance	2	21	79	16.3 15 12.4 1.3 1 1 	1
+922	PR	Next.kz	PR	Next.kz	1	36	64	7.6 6.9 6.6 2.4 2.3 2.1 	1
+923	DUZA	PR	PR	DUZA	2	33	67	8.5 8.5 7.7 2.1 1.8 1.8 	1
+924	ONE.dota	3DMAX	ONE.dota	3DMAX	1	53	47	3.3 3.5 4 3.9 4.5 4.7 	1
+925	Empire	aAa	Empire	aAa	1	74	26	1.3 1.3 1.5 10.3 11.9 11.8 	1
+926	Empire	ONE.dota	ONE.dota	Empire	2	28	72	10.9 10 9.4 1.7 1.6 1.4 	3
+927	iG	VG	iG	VG	1	73	27	1.5 1.4 1.5 10.1 11.4 10.5 	3
+928	LGD.cn	TongFu	TongFu	LGD.cn	2	54	46	3.4 3.3 3.3 4.8 4.7 4.6 	3
+929	Dreamz	Awake	Awake	Dreamz	2	52	48	3.4 3.9 3.9 4 4.1 4.7 	1
+930	MiTH	FD	FD	MiTH	2	39	61	5.8 6.8 6.6 2.4 2.3 2.7 	1
+931	Alliance	VP	VP	Alliance	2	19	81	18 16.9 15.2 1 0.9 0.9 	1
+932	Fnatic.eu	rox.KIS	rox.KIS	Fnatic.eu	2	37	63	7.7 6.7 6.1 2.6 2.4 2 	1
+933	Empire	4FC	4FC	Empire	2	37	63	7 6.8 6.2 2.5 2.3 2.3 	1
+937	OguraYui	RS	OguraYui	RS	1	26	74	11.1 12.6 10.8 1.4 1.2 1.4 	1
+938	Mski	NE	NE	Mski	2	30	70	8.9 10.3 9.4 1.7 1.5 1.8 	1
+939	Poseidon	DUZA	Poseidon	DUZA	1	55	45	2.8 3.4 3.7 4.3 4.6 5.6 	1
+940	Next.kz	Aspera	Next.kz	Aspera	1	44	56	5.4 5.1 4.9 3.2 3.1 2.9 	1
+941	Alliance	Fnatic	Fnatic	Alliance	2	20	80	17.5 16.1 13.6 1.1 1 0.9 	1
+942	Quantic	VP	VP	Quantic	2	55	45	3.5 3 3.2 4.9 5.2 4.5 	1
+944	Imp	MiTH	Imp	MiTH	1	27	73	11.2 10.8 9.9 1.6 1.4 1.4 	1
+948	Empire	Next.kz	Next.kz	Empire	2	37	63	7.2 6.9 6.3 2.5 2.3 2.2 	1
+949	VP	uebelst	uebelst	VP	2	26	74	11.8 11.7 10.2 1.5 1.3 1.3 	1
+950	Kaipi	rox.KIS	rox.KIS	Kaipi	2	23	77	15.9 12.5 10.5 1.5 1.2 1 	1
+951	Mski	Lowyat	Mski	Lowyat	1	77	23	1 1.1 1.3 11.6 13.7 15.4 	1
+953	Kaipi	VP	Kaipi	VP	1	66	34	1.7 2.1 2.5 6.2 7.5 9.3 	2
+954	Cascade	Next.kz	Next.kz	Cascade	2	75	25	1.2 1.3 1.6 10 11.6 13.4 	2
+955	DUZA	Aspera	Aspera	DUZA	2	48	52	3.9 4.6 4.7 3.3 3.4 4 	1
+956	Alliance	4FC	Alliance	4FC	1	87	13	0.5 0.5 0.7 23.1 29 29.7 	1
+957	Na'Vi	4FC	4FC	Na'Vi	2	17	83	19.7 21.3 17.3 0.9 0.7 0.8 	1
+958	PR	Na'Vi	Na'Vi	PR	2	85	15	0.6 0.6 0.7 20.8 24 24.7 	1
+959	Kaipi	Next.kz	Kaipi	Next.kz	1	80	20	0.8 1 1.1 13.6 16.3 19.2 	2
+960	Kaipi	Cascade	Cascade	Kaipi	2	19	81	20.9 17.2 13.2 1.2 0.9 0.7 	2
+961	Life	4FC	Life	4FC	1	59	41	2.2 2.9 3.3 4.8 5.4 7 	3
+962	iG	LGD.cn	iG	LGD.cn	1	54	46	3.2 3.4 3.6 4.4 4.6 4.9 	3
+963	Na'Vi	Empire	Na'Vi	Empire	1	73	27	1.4 1.4 1.6 9.7 11.3 11.3 	1
+964	Alliance	Kaipi	Kaipi	Alliance	2	25	75	13.5 12.1 10.2 1.5 1.3 1.2 	1
+966	TongFu	LGD.cn	TongFu	LGD.cn	1	56	44	3.5 2.8 2.7 5.7 5.7 4.6 	3
+967	mouz	Cascade	Cascade	mouz	2	28	72	10.9 10.5 9.2 1.7 1.5 1.4 	2
+970	Joiker	AA	AA	Joiker	2	42	58	5.7 5.5 5.1 3.1 2.9 2.8 	2
+971	iG	TongFu	iG	TongFu	1	62	38	2 2.5 2.8 5.6 6.3 7.7 	5
+972	Aspera	Na'Vi	Na'Vi	Aspera	2	83	17	0.7 0.8 1 15.9 19 21.9 	1
+973	DUZA	VP	DUZA	VP	1	44	56	4.9 5.2 5.1 3.1 3 3.2 	1
+974	Fnatic.eu	Poseidon	Fnatic.eu	Poseidon	1	60	40	2.8 2.4 2.5 6.2 6.4 5.6 	1
+975	Dignitas	Purple	Dignitas	Purple	1	79	21	0.8 1 1.3 11.8 15.7 18.6 	2
+976	StayFree	AA	StayFree	AA	1	70	30	1.4 1.7 2 7.9 9.2 11.2 	2
+977	Na'Vi	DUZA	DUZA	Na'Vi	2	30	70	10.7 9.1 7.7 2 1.7 1.5 	1
+978	rox.KIS	Aspera	Aspera	rox.KIS	2	66	34	2.2 1.9 2 7.8 8.5 7.1 	1
+979	PR	rox.KIS	rox.KIS	PR	2	38	62	6.1 6.8 6.7 2.4 2.3 2.6 	1
+981	PR	4FC	PR	4FC	1	66	34	2 2 2.2 7.2 7.9 7.9 	1
+982	Fnatic.eu	aAa	Fnatic.eu	aAa	1	82	18	0.8 0.8 1 15.8 18.9 18.5 	1
+983	Fnatic.eu	PR	Fnatic.eu	PR	1	69	31	1.8 1.7 1.8 8.6 9.4 8.9 	3
+984	nAra	RGH	RGH	nAra	2	56	44	2.9 3 3.4 4.7 5.3 5.4 	1
+985	Inv.kwnku	Typhon	Inv.kwnku	Typhon	1	65	35	1.8 2.1 2.4 6.5 7.6 8.9 	1
+986	Na'Vi	VP	VP	Na'Vi	2	23	77	16 13.4 11 1.4 1.2 1 	1
+987	Fnatic.eu	Aspera	Fnatic.eu	Aspera	1	69	31	1.6 1.8 2 7.8 8.7 10.1 	1
+988	4FC	DUZA	4FC	DUZA	1	29	71	9.6 10.1 9 1.7 1.6 1.6 	1
+990	Kaipi	Cascade	Cascade	Kaipi	2	18	82	20.2 17.6 14.5 1.1 0.9 0.8 	3
+991	Empire	Kaipi	Kaipi	Empire	2	71	29	1.4 1.7 2 7.9 9.4 10.9 	3
+992	PBS	NoLove	PBS	NoLove	1	31	69	10.3 8.3 7.8 2 1.9 1.5 	2
+993	SFEC	Joiker	SFEC	Joiker	1	33	67	8.7 8.2 7.3 2.1 1.9 1.8 	2
+994	Next.kz	4FC	4FC	Next.kz	2	59	41	2.6 2.7 2.9 5.4 5.7 6 	1
+995	Inv.kwnku	RR	RR	Inv.kwnku	2	35	65	9 7.6 6.1 2.6 2.1 1.7 	1
+996	rox.KIS	Menace	rox.KIS	Menace	1	61	39	2.7 2.4 2.5 6.2 6.6 5.8 	1
+997	PR	Alliance	Alliance	PR	2	79	21	0.9 1 1.3 11.7 14.8 17.6 	1
+998	Mski	MiTH	Mski	MiTH	1	57	43	3.1 2.8 3 5.3 5.5 5.1 	1
+999	Empire	Dignitas	Empire	Dignitas	1	64	36	1.9 2.4 2.7 5.8 6.5 8.3 	2
+1000	Inv.kwnku	Gizmo	Gizmo	Inv.kwnku	2	32	68	9.4 8.4 7.7 2.1 1.9 1.7 	3
+1001	FD	Lowyat	FD	Lowyat	1	66	34	1.7 2 2.5 6.4 7.7 9.1 	1
+1002	Empire	DUZA	Empire	DUZA	1	68	32	1.5 1.8 2.2 7.3 8.5 10.2 	1
+1003	Kaipi	PR	PR	Kaipi	2	48	52	4.9 3.9 3.8 4.2 4 3.2 	1
+1004	EG	DTS.2010	EG	DTS.2010	1	69	31	1.6 1.7 1.9 8.2 9.1 9.7 	2
+1005	Dignitas	EG	EG	Dignitas	2	72	28	1.3 1.6 1.9 8.4 9.9 12.1 	2
+1007	rox.KIS	Poseidon	Poseidon	rox.KIS	2	43	57	5 5.4 5.2 3.1 2.9 3.1 	1
+1008	Menace	PR	Menace	PR	1	25	75	12.1 12.3 10.9 1.4 1.3 1.3 	1
+1009	Kaipi	Menace	Kaipi	Menace	1	80	20	0.9 0.9 1.1 14.5 16.4 17.6 	1
+1010	Aspera	PR	PR	Aspera	2	64	36	2.1 2.3 2.4 6.6 7 7.4 	1
+1011	Imp	Dreamz	Imp	Dreamz	1	47	53	4 4.9 4.6 3.4 3.2 4 	3
+1012	DK	VG	DK	VG	1	72	28	1.3 1.5 1.8 8.8 10.5 12.2 	2
+1013	Empire	Fnatic	Fnatic	Empire	2	50	50	4.1 3.9 3.9 4 4 3.9 	1
+1014	Na'Vi	Alliance	Na'Vi	Alliance	1	48	52	4.8 4.2 4 3.9 3.7 3.3 	1
+1015	StayFree	Purple	StayFree	Purple	1	64	36	1.7 2.4 2.7 5.9 6.6 9 	2
+1017	Na'Vi	Poseidon	Na'Vi	Poseidon	1	81	19	0.8 0.9 1 15.1 17.4 18.3 	1
+1018	Alliance	Menace	Menace	Alliance	2	20	80	18.3 17.3 13.4 1.2 0.9 0.8 	1
+1019	Empire	PR	Empire	PR	1	63	37	1.9 2.4 2.7 5.8 6.5 8.1 	1
+1020	Na'Vi	Kaipi	Na'Vi	Kaipi	1	69	31	1.7 1.7 1.9 8.4 9.2 9.3 	1
+1021	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	24	76	12.8 12.9 11.2 1.4 1.2 1.2 	1
+1022	LGD.cn	Mski	LGD.cn	Mski	1	76	24	1.1 1.3 1.4 11.1 12.1 14.4 	3
+1023	VG	Titan	Titan	VG	2	35	65	7.7 7.3 7.2 2.2 2.2 2 	3
+1024	LGD.cn	VG	LGD.cn	VG	1	65	35	2.3 2 2 7.7 8 7 	3
+1025	Dignitas	NoLove	Dignitas	NoLove	1	80	20	0.8 0.9 1.2 13.4 16.3 19.6 	2
+1026	PBS	Joiker	Joiker	PBS	2	48	52	4.6 4 4.1 3.9 4 3.4 	2
+1027	Next.kz	VP	VP	Next.kz	2	63	37	2.6 2.1 2.2 7.3 7.6 6.1 	1
+1028	4FC	Fnatic.eu	Fnatic.eu	4FC	2	73	27	1.5 1.4 1.6 10 11.5 10.5 	1
+1029	rox.KIS	VP	rox.KIS	VP	1	57	43	2.6 3.1 3.3 4.8 5.1 6 	1
+1030	Na'Vi	Menace	Menace	Na'Vi	2	19	81	18.9 17.2 15 1 0.9 0.8 	1
+1031	Empire	Quantic	Quantic	Empire	2	41	59	5.7 5.9 5.7 2.8 2.7 2.8 	1
+1032	Na'Vi	rox.KIS	Na'Vi	rox.KIS	1	78	22	0.9 1.1 1.3 12.3 14.6 16.6 	1
+1033	LGD.cn	TongFu	TongFu	LGD.cn	2	47	53	4.4 4.6 4.5 3.5 3.5 3.6 	2
+1034	Alliance	TR	Alliance	TR	1	82	18	0.7 0.8 1 15 18.2 22.8 	2
+1035	Alliance	Poseidon	Poseidon	Alliance	2	16	84	22.9 22.6 18.5 0.8 0.7 0.7 	1
+1036	4FC	PR	4FC	PR	1	40	60	6.1 6 5.4 2.9 2.6 2.6 	1
+1037	VP	Kaipi	Kaipi	VP	2	71	29	1.3 1.7 2 7.9 9.2 12 	1
+1038	Aspera	4FC	Aspera	4FC	1	47	53	4.5 4.5 4.6 3.4 3.5 3.5 	1
+1039	Ahead.kz	Na'Vi	Na'Vi	Ahead.kz	2	84	16	0.7 0.7 0.9 17.9 21.8 21.3 	1
+1040	PBS	Purple	PBS	Purple	1	68	32	1.4 2 2.3 6.7 7.9 11 	2
+1041	Alliance	Ahead.kz	Ahead.kz	Alliance	2	24	76	15.3 12 10.1 1.5 1.3 1 	1
+1042	Empire	rox.KIS	rox.KIS	Empire	2	30	70	10.6 9.2 8.2 1.9 1.7 1.5 	1
+1044	Quantic	PR	PR	Quantic	2	37	63	7.7 6.2 5.8 2.7 2.6 2 	1
+1045	iG	LGD.int	LGD.int	iG	2	24	76	17.2 11.4 9.4 1.7 1.4 0.9 	2
+1046	Liquid	TR	TR	Liquid	2	24	76	13.6 13 10.8 1.4 1.2 1.1 	2
+1047	EG	RS.int	RS.int	EG	2	66	34	1.8 2 2.4 6.5 8 8.9 	1
+1048	MiTH	Awake	MiTH	Awake	1	69	31	1.6 1.7 2 7.8 9 9.7 	1
+1049	Dreamz	1st.VN	1st.VN	Dreamz	2	35	65	8.1 7.2 6.4 2.5 2.2 1.9 	1
+1050	Alliance	rox.KIS	Alliance	rox.KIS	1	81	19	0.8 0.9 1.1 14.5 17.5 20.2 	1
+1051	iG	VG	iG	VG	1	80	20	0.8 1 1.2 12.6 15.9 19.5 	2
+1052	DK	LGD.cn	DK	LGD.cn	1	68	32	1.6 1.9 2.1 7.5 8.4 9.5 	2
+1053	Kaipi	Empire	Kaipi	Empire	1	42	58	5.6 5.4 5.3 3 2.9 2.8 	1
+1054	TR	Revenge	TR	Revenge	1	53	47	3.7 3.4 3.4 4.6 4.6 4.3 	2
+1055	Alliance	SSD	SSD	Alliance	2	16	84	24.7 21.3 17.2 0.9 0.7 0.6 	2
+1058	UR	NJ&Kids	UR	NJ&Kids	1	46	54	4.9 4.6 4.3 3.6 3.4 3.2 	1
+1059	TongFu	RStars	TongFu	RStars	1	70	30	1.8 1.5 1.6 9.9 10.5 8.5 	2
+1060	LGD.int	RS	RS	LGD.int	2	37	63	7.1 6.9 6.3 2.5 2.3 2.2 	2
+1061	RS.int	Ahead.kz	RS.int	Ahead.kz	1	69	31	1.5 1.8 2.1 7.3 8.5 10.7 	1
+1062	MiTH	Dreamz	Dreamz	MiTH	2	31	69	9 9.1 8.2 1.9 1.7 1.7 	1
+1063	Alliance	DUZA	DUZA	Alliance	2	17	83	22.2 20 16.5 0.9 0.8 0.7 	1
+1064	Alliance	Aspera	Alliance	Aspera	1	81	19	0.8 0.9 1 15.3 17.8 18.9 	1
+1065	SSD	Revenge	Revenge	SSD	2	25	75	15.6 10.7 9.3 1.7 1.5 1 	2
+1067	Hearts	WPCA	WPCA	Hearts	2	29	71	10.5 9.8 8.7 1.8 1.6 1.5 	2
+1068	rox.KIS	4FC	4FC	rox.KIS	2	34	66	8.1 7.7 6.9 2.3 2 1.9 	1
+1069	Poseidon	Aspera	Aspera	Poseidon	2	64	36	2.3 2.1 2.1 7.5 7.5 6.8 	1
+1070	Quantic	Kaipi	Kaipi	Quantic	2	70	30	1.5 1.7 1.9 8.4 9.3 10.3 	1
+1071	Quantic	Ahead.kz	Ahead.kz	Quantic	2	31	69	8.7 9.5 8.9 1.8 1.6 1.8 	1
+1073	Titan	MUFC	Titan	MUFC	1	72	28	1.5 1.5 1.6 9.7 10.6 10.3 	1
+1077	StayFree	NoLove	StayFree	NoLove	1	74	26	1.1 1.5 1.8 8.6 10.3 14.7 	2
+1078	VP	Menace	Menace	VP	2	37	63	6.8 6.9 6.2 2.5 2.3 2.3 	1
+1080	SYF	HR	SYF	HR	1	64	36	2.5 2 2.1 7.4 7.9 6.3 	1
+1081	Na'Vi	4FC	4FC	Na'Vi	2	17	83	23.4 20 16.1 1 0.8 0.7 	3
+1082	Fnatic.eu	ONE.dota	ONE.dota	Fnatic.eu	2	19	81	18.6 16.5 15.2 1 0.9 0.8 	3
+1083	Titan	MSIEvoGT	Titan	MSIEvoGT	1	80	20	0.8 0.9 1.2 13.1 16.5 18.9 	3
+1084	Arcanys	NeoG7	NeoG7	Arcanys	2	56	44	3.6 2.7 2.8 5.6 5.8 4.4 	3
+1085	FD	Tler	Tler	FD	2	21	79	20.2 14.7 10.9 1.4 1.1 0.8 	3
+1086	MVP	EOT	MVP	EOT	1	42	58	5.3 5.6 5.5 2.9 2.8 3 	1
+1087	UR	ACE.online	ACE.online	UR	2	34	66	8.1 8 7.5 2.1 2 1.9 	1
+1088	FXopen	S1	S1	FXopen	2	24	76	16.7 12.2 10.1 1.5 1.3 0.9 	1
+1089	Imp	GxGaming	GxGaming	Imp	2	20	80	20.7 16.3 13.5 1.1 1 0.7 	3
+1090	MiTH	Pacific.2	Pacific.2	MiTH	2	18	82	23.3 17.8 13.9 1.1 0.9 0.7 	3
+1091	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	79	21	0.9 1 1.3 12.1 15.6 17 	3
+1092	ONE.dota	4FC	ONE.dota	4FC	1	27	73	11.2 11.6 10.2 1.5 1.3 1.4 	3
+1093	Lowyat	Pacific	Lowyat	Pacific	1	41	59	5.8 5.8 5.5 2.9 2.7 2.7 	3
+1094	DK	iG	iG	DK	2	40	60	6.7 6 5.3 3 2.6 2.3 	2
+1095	Arcanys	Titan	Titan	Arcanys	2	81	19	0.7 0.9 1.2 13.5 17.3 21.5 	3
+1096	VG	RS	VG	RS	1	75	25	1 1.4 1.7 9 10.9 15.6 	2
+1097	FD	GW	GW	FD	2	19	81	23 16.7 12.3 1.3 0.9 0.7 	3
+1098	Lowyat	MiTH	MiTH	Lowyat	2	71	29	1.5 1.5 1.8 8.7 10.2 10.6 	3
+1099	rox.KIS	Poseidon	Poseidon	rox.KIS	2	37	63	7.3 7 6.3 2.5 2.3 2.2 	2
+1100	Aspera	Life	Aspera	Life	1	54	46	4 2.9 2.8 5.7 5.5 3.9 	3
+1101	Fnatic.eu	ONE.dota	Fnatic.eu	ONE.dota	1	76	24	1 1.2 1.5 10.4 12.5 15.4 	3
+1103	FD	Arcanys	FD	Arcanys	1	50	50	3.7 4.4 4.2 3.7 3.6 4.3 	3
+1104	Poseidon	Fnatic.eu	Poseidon	Fnatic.eu	1	23	77	16 14.2 11.2 1.4 1.1 1 	2
+1105	Na'Vi	rox.KIS	Na'Vi	rox.KIS	1	80	20	0.8 0.9 1.1 14.4 16.7 18.4 	2
+1107	Rain	Obi	Obi	Rain	2	55	45	3 3.3 3.5 4.6 4.8 5.2 	2
+1108	eN.Legs	Nsd	Nsd	eN.Legs	2	32	68	10.1 7.9 6.7 2.4 2 1.5 	2
+1110	bvd.dotA	Roccat.E	Roccat.E	bvd.dotA	2	38	62	7.6 6.4 5.6 2.8 2.4 2.1 	2
+1111	LGD.int	Hearts	Hearts	LGD.int	2	23	77	15.6 14.1 11.2 1.4 1.1 1 	2
+1112	DK	RStars	DK	RStars	1	85	15	0.5 0.7 0.8 19.1 23.4 28.4 	2
+1113	Imp	Lowyat	Imp	Lowyat	1	63	37	1.9 2.7 3.1 5 5.9 8.3 	3
+1114	Na'Vi	Poseidon	Poseidon	Na'Vi	2	17	83	23.2 20.2 16.2 1 0.8 0.7 	2
+1116	NJ&Kids	ACE.online	ACE.online	NJ&Kids	2	59	41	3.1 2.5 2.5 6.2 6.3 5.1 	1
+1117	VG	Hearts	Hearts	VG	2	18	82	23.4 18.6 15.4 1 0.8 0.7 	2
+1118	LGD.cn	WPCA	WPCA	LGD.cn	2	14	86	34 24.2 20.1 0.8 0.6 0.4 	2
+1119	FD	Imp	FD	Imp	1	38	62	6.8 6.4 5.9 2.7 2.5 2.3 	5
+1120	Ahead.kz	Menace	Ahead.kz	Menace	1	72	28	1.3 1.5 1.8 8.9 10.2 11.9 	3
+1122	PR	youBoat	PR	youBoat	1	74	26	1.5 1.2 1.3 11.7 13.1 10.4 	3
+1123	Na'Vi	SFZ	SFZ	Na'Vi	2	13	87	34 26.8 21.6 0.7 0.6 0.4 	2
+1124	bvd.dotA	iM`Bashers	iM`Bashers	bvd.dotA	2	32	68	7.9 8.8 8.6 1.8 1.8 2 	3
+1125	Empire	SSD	SSD	Empire	2	29	71	9.8 10 9.5 1.6 1.6 1.6 	3
+1126	Life	rox.KIS	rox.KIS	Life	2	75	25	1.5 1.1 1.2 12.9 14.1 10.4 	3
+1127	EG	Dignitas	Dignitas	EG	2	39	61	6.9 6.3 5.7 2.8 2.5 2.3 	3
+1128	TakeFive	Revenge	TakeFive	Revenge	1	51	49	3.2 4.4 4.7 3.4 3.5 5 	3
+1129	iG	RS	iG	RS	1	85	15	0.5 0.7 0.8 19 22.6 29.5 	2
+1130	TongFu	LGD.int	LGD.int	TongFu	2	31	69	10.1 8.8 8 2 1.8 1.6 	2
+1131	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	78	22	1 1 1.2 13.2 15 14.9 	2
+1132	Fnatic.eu	SFZ	Fnatic.eu	SFZ	1	79	21	0.9 1.1 1.2 13.3 14.4 16.4 	2
+1133	MUFC	Imp	MUFC	Imp	1	30	70	10.3 9.4 8.5 1.9 1.7 1.5 	1
+1134	PR	VP	PR	VP	1	49	51	4.3 4 4 3.9 3.9 3.6 	3
+1135	Empire	Life	Empire	Life	1	77	23	1 1.1 1.3 11.9 14.1 15 	3
+1136	Empire	PR	Empire	PR	1	71	29	1.4 1.6 1.8 8.5 9.8 11 	3
+1137	TakeFive	EG	TakeFive	EG	1	26	74	10.8 13.1 11.3 1.4 1.2 1.4 	5
+1138	CSW	iPlay	CSW	iPlay	1	57	43	2.7 3 3.3 4.7 5.2 5.9 	1
+1139	VT	AVE	AVE	VT	2	37	63	8 6.5 5.9 2.7 2.4 2 	1
+1140	SYM	FastGG	FastGG	SYM	2	62	38	2.6 2.4 2.4 6.5 6.6 6.1 	1
+1141	EOT	FastGG	EOT	FastGG	1	67	33	1.3 2.2 2.6 6 7.2 11.7 	1
+1142	SYF	Mate	SYF	Mate	1	55	45	3.5 3.2 3.1 5 5 4.5 	1
+1143	DK	RS	RS	DK	2	16	84	28.9 21.2 16.5 0.9 0.7 0.5 	2
+1144	VG	TongFu	VG	TongFu	1	24	76	14.6 13.3 10.4 1.5 1.2 1.1 	2
+1145	Fnatic.eu	DD	Fnatic.eu	DD	1	61	39	2.7 2.3 2.4 6.6 6.9 5.8 	3
+1146	iG	Hearts	iG	Hearts	1	87	13	0.4 0.6 0.7 20.6 26.5 40.3 	2
+1147	LGD.cn	LGD.int	LGD.cn	LGD.int	1	73	27	1.2 1.4 1.7 9.3 11.1 12.5 	2
+1148	HR	iPlay	iPlay	HR	2	35	65	9.4 7.2 6.1 2.6 2.2 1.7 	1
+1149	Na'Vi	Empire	Na'Vi	Empire	1	79	21	0.9 1 1.3 12.4 15.2 17.4 	3
+1150	Speed	Dignitas	Dignitas	Speed	2	41	59	8 4.9 4.3 3.7 3.2 2 	3
+1151	Alliance	rox.KIS	Alliance	rox.KIS	1	86	14	0.5 0.7 0.8 19.2 23 32.4 	3
+1154	Alliance	Na'Vi	Na'Vi	Alliance	2	50	50	4.2 3.8 3.8 4.2 4.2 3.7 	3
+1155	Empire	rox.KIS	Empire	rox.KIS	1	74	26	1.1 1.5 1.7 9.2 10.4 14.6 	3
+1156	iG	TongFu	iG	TongFu	1	73	27	1.1 1.6 1.9 8.1 9.7 14.7 	2
+1157	Na'Vi	Empire	Na'Vi	Empire	1	82	18	0.8 0.9 1 16.1 17.6 19.2 	3
+1159	SAfrica	Mexico	SAfrica	Mexico	1	74	26	1.1 1.4 1.8 8.9 11.2 13.9 	3
+1160	Na'Vi	Alliance	Na'Vi	Alliance	1	39	61	8 5.5 5 3.1 2.9 2 	5
+1161	FD	Titan	Titan	FD	2	33	67	8.5 8 7.7 2 2 1.8 	3
+1164	Titan	Imp	Imp	Titan	2	65	35	2.3 1.9 2 7.9 8.1 6.9 	1
+1165	Titan	FD	FD	Titan	2	73	27	1.5 1.4 1.6 10.1 11.4 10.5 	5
+1166	CSW	NoX	NoX	CSW	2	44	56	4.5 5.5 5.5 2.9 2.9 3.5 	1
+1167	EOT	SYM	SYM	EOT	2	34	66	8.3 8.1 7.2 2.2 1.9 1.9 	1
+1168	LGD.cn	VG	VG	LGD.cn	2	32	68	8.6 8.6 7.8 2 1.8 1.8 	3
+1169	DK	LGD.int	LGD.int	DK	2	13	87	38.2 25.2 19.8 0.8 0.6 0.4 	3
+1170	VG	LGD.int	VG	LGD.int	1	65	35	2.1 2.1 2.3 6.9 7.6 7.6 	3
+1171	Empire	rox.KIS	Empire	rox.KIS	1	80	20	0.8 1 1.2 13.2 15.5 19.4 	3
+1172	Speed	Alliance	Speed	Alliance	1	17	83	18.9 20.8 20.1 0.8 0.7 0.8 	3
+1173	Empire	VP	VP	Empire	2	31	69	9.2 9.2 8.4 1.9 1.7 1.7 	3
+1174	Fnatic	Menace	Menace	Fnatic	2	25	75	12.4 11.7 10.8 1.4 1.3 1.3 	1
+1175	TongFu	RS	RS	TongFu	2	19	81	21.9 16.3 13.2 1.2 0.9 0.7 	3
+1176	LGD.cn	iG	iG	LGD.cn	2	71	29	1.3 1.6 1.9 8.2 9.6 11.7 	3
+1177	TongFu	LGD.int	TongFu	LGD.int	1	72	28	1.5 1.4 1.6 9.8 11.3 10.2 	3
+1178	DK	Hearts	DK	Hearts	1	88	12	0.4 0.5 0.7 20.9 27.8 41.8 	2
+1179	RStars	VG	VG	RStars	2	68	32	1.7 1.8 2 7.7 8.6 9.1 	2
+1180	Empire	Speed	Empire	Speed	1	46	54	5.2 4.5 4.1 3.9 3.5 3 	3
+1181	Alliance	rox.KIS	rox.KIS	Alliance	2	19	81	22.3 17 14.2 1.1 0.9 0.7 	3
+1182	Fnatic.eu	EG	Fnatic.eu	EG	1	54	46	3.9 3 2.9 5.5 5.2 4 	3
+1183	Speed	SSD	SSD	Speed	2	27	73	11.1 11.6 10.5 1.5 1.3 1.4 	1
+1185	Liquid	Na'Vi	Na'Vi	Liquid	2	83	17	0.7 0.7 0.8 19.3 20.8 20.6 	3
+1186	iG	LGD.cn	iG	LGD.cn	1	61	39	2.2 2.8 2.8 5.6 5.7 7 	2
+1187	StayFree	Revenge	StayFree	Revenge	1	44	56	4.9 5.2 5.5 2.8 3 3.2 	3
+1188	LGD.int	WPCA	WPCA	LGD.int	2	16	84	26.1 19.4 17.2 0.9 0.8 0.6 	2
+1189	EG	StayFree	StayFree	EG	2	26	74	14.1 10.9 8.6 1.8 1.4 1.1 	3
+1190	TongFu	RS	RS	TongFu	2	21	79	19.8 14.4 10.8 1.4 1.1 0.8 	2
+1191	DK	LGD.int	DK	LGD.int	1	86	14	0.4 0.7 0.8 18.7 23.3 34.6 	2
+1192	Na'Vi	EG	Na'Vi	EG	1	80	20	0.8 0.9 1.3 12.4 16.3 18.9 	3
+1193	Speed	Empire	Speed	Empire	1	45	55	4.5 5.1 5.1 3.1 3.1 3.5 	3
+1194	Dignitas	PBS	PBS	Dignitas	2	29	71	10.2 10.2 9.1 1.7 1.5 1.5 	1
+1195	VG	WPCA	WPCA	VG	2	15	85	32.3 23 18.5 0.8 0.7 0.5 	2
+1196	LGD.cn	RS	LGD.cn	RS	1	84	16	0.5 0.7 0.9 16.6 20.7 28.4 	2
+1197	CSW	Venum	CSW	Venum	1	71	29	1.4 1.7 1.8 8.7 9.4 11.2 	1
+1198	Aspera	4FC	4FC	Aspera	2	43	57	5.2 5.4 5.1 3.1 2.9 3 	1
+1199	Menace	QPandas	Menace	QPandas	1	67	33	1.7 1.9 2.2 7.1 8.2 9.3 	1
+1200	Liquid	FSid3	FSid3	Liquid	2	27	73	10.1 11.4 10.8 1.5 1.4 1.6 	3
+1201	Aspera	PR	Aspera	PR	1	46	54	4.8 4.7 4.3 3.6 3.3 3.3 	1
+1202	SSD	TR	SSD	TR	1	73	27	1.3 1.5 1.8 8.9 10.7 12.2 	1
+1203	TongFu	Hearts	Hearts	TongFu	2	13	87	35.7 26.5 22.3 0.7 0.6 0.4 	2
+1204	iG	RStars	iG	RStars	1	81	19	0.7 0.9 1 14.9 17 21.2 	2
+1205	HR	CSW	CSW	HR	2	77	23	1.3 1 1.2 13.4 15.1 12.4 	5
+1206	EG	FSid3	EG	FSid3	1	75	25	1.5 1.1 1.2 12.6 14.5 10.3 	3
+1207	mouz	Aspera	Aspera	mouz	2	61	39	2.5 2.5 2.7 5.9 6.3 6.3 	1
+1208	Imp	Titan	Titan	Imp	2	69	31	1.9 1.6 1.7 9 9.5 8.5 	1
+1209	MiTH	FD	FD	MiTH	2	62	38	2.2 2.5 2.7 5.8 6.3 7 	1
+1210	Liquid	Na'Vi	Na'Vi	Liquid	2	75	25	1.3 1.2 1.5 10.8 12.5 12.3 	3
+1211	mouz	Dignitas	Dignitas	mouz	2	58	42	2.8 3 3.1 5.1 5.3 5.7 	3
+1212	Fnatic.eu	VP	Fnatic.eu	VP	1	64	36	1.9 2.2 2.5 6.4 7.1 8.2 	3
+1213	Poseidon	mouz	mouz	Poseidon	2	66	34	2.1 1.9 2 7.8 8.1 7.3 	3
+1214	VG	TongFu	TongFu	VG	2	62	38	2.5 2.2 2.3 6.8 7.3 6.2 	3
+1215	iG	RS	RS	iG	2	14	86	33.7 23.3 19.1 0.8 0.7 0.4 	3
+1216	LGD.cn	TongFu	LGD.cn	TongFu	1	69	31	1.4 1.8 2.2 7 8.5 11.5 	3
+1217	Speed	Na'Vi	Na'Vi	Speed	2	70	30	1.6 1.7 1.9 8.3 9.3 10 	3
+1218	CSW	HR	HR	CSW	2	59	41	2.4 2.7 3 5.2 5.8 6.4 	1
+1219	NoX	SYF	NoX	SYF	1	46	54	4.8 4.7 4.4 3.6 3.4 3.3 	1
+1220	Empire	PR	Empire	PR	1	71	29	1.3 1.6 1.9 8.4 9.7 11.8 	3
+1221	iG	DK	DK	iG	2	69	31	1.4 1.8 2.2 7 8.9 11.3 	3
+1222	LGD.cn	RStars	RStars	LGD.cn	2	30	70	8.4 10 9.4 1.7 1.6 1.9 	3
+1223	DK	TongFu	DK	TongFu	1	77	23	0.9 1.2 1.5 10.3 13.3 17.9 	3
+1227	Empire	mouz	mouz	Empire	2	35	65	8.8 7.2 6.5 2.4 2.2 1.8 	3
+1229	StayFree	FSid3	StayFree	FSid3	1	41	59	6.7 5.6 4.8 3.3 2.8 2.3 	1
+1230	Property	PR	Property	PR	1	28	72	12.7 10.4 8.6 1.8 1.5 1.2 	3
+1231	TTD	EG	TTD	EG	1	34	66	7.3 8.7 7.9 2 1.8 2.1 	1
+1232	Alliance	Turtle	Turtle	Alliance	2	20	80	17.7 17.8 13.6 1.1 0.9 0.9 	1
+1234	VG	LGD.int	LGD.int	VG	2	36	64	8.3 7.1 6 2.6 2.2 1.9 	2
+1235	TongFu	DK	DK	TongFu	2	78	22	0.9 1.1 1.5 10.7 14 17.9 	2
+1236	Speed	Liquid	Speed	Liquid	1	50	50	4.1 3.8 4 4 4.2 3.9 	3
+1237	FSid3	Fnatic.eu	FSid3	Fnatic.eu	1	30	70	10.4 9.5 8.4 1.9 1.7 1.5 	3
+1238	LGD.cn	Hearts	Hearts	LGD.cn	2	19	81	23.7 17.3 13.1 1.2 0.9 0.6 	2
+1239	RStars	RS	RS	RStars	2	32	68	11.2 7.8 6.2 2.5 2 1.4 	2
+1240	Na'Vi	Empire	Na'Vi	Empire	1	68	32	1.7 1.8 2 7.9 8.9 9 	3
+1242	mouz	Property	mouz	Property	1	67	33	1.6 2 2.3 6.9 8 9.5 	1
+1243	Alliance	VP	Alliance	VP	1	82	18	0.7 0.8 1.1 13.7 18.8 22.1 	3
+1244	Sigma.int	Menace	Sigma.int	Menace	1	62	38	1.7 2.6 3.3 4.8 6.1 9.1 	3
+1245	Speed	Dignitas	Dignitas	Speed	2	25	75	14.8 11.9 10.1 1.6 1.3 1 	3
+1246	Liquid	Empire	Empire	Liquid	2	41	59	6.1 5.6 5.2 3 2.8 2.6 	3
+1247	iG	WPCA	iG	WPCA	1	87	13	0.4 0.6 0.8 20.3 26.1 38.7 	2
+1249	Alliance	Na'Vi	Alliance	Na'Vi	1	49	51	4 4.1 4.2 3.8 3.8 3.9 	3
+1251	UR	S1	UR	S1	1	68	32	1.5 1.9 2.1 7.3 8.2 10.3 	3
+1253	LGD.int	iG	iG	LGD.int	2	84	16	0.5 0.8 1 16.1 20.4 28.7 	2
+1254	Startale	EOT	EOT	Startale	2	50	50	4.5 3.5 3.6 4.4 4.5 3.5 	3
+1255	Empire	EG	EG	Empire	2	35	65	7.9 7.3 6.9 2.3 2.1 2 	3
+1256	RS	WPCA	RS	WPCA	1	79	21	0.9 1 1.3 11.8 15.3 17.6 	2
+1257	mouz	Speed	mouz	Speed	1	29	71	11.8 9.8 8.4 1.9 1.6 1.3 	3
+1259	Sigma.int	Dignitas	Dignitas	Sigma.int	2	39	61	7.8 5.9 5.2 3 2.7 2 	3
+1260	Sigma.int	EG	EG	Sigma.int	2	52	48	3.8 3.5 3.6 4.4 4.5 4.2 	3
+1261	mouz	Empire	Empire	mouz	2	62	38	2 2.7 2.9 5.5 5.9 8 	3
+1262	iG	RStars	RStars	iG	2	26	74	13.9 10.8 9.7 1.6 1.4 1.1 	3
+1263	LGD.cn	RS	RS	LGD.cn	2	19	81	21.8 17.4 13.8 1.1 0.9 0.7 	3
+1264	DK	RStars	DK	RStars	1	82	18	0.7 0.8 1 15.3 18.2 21.2 	3
+1265	Fnatic.eu	Liquid	Liquid	Fnatic.eu	2	65	35	1.9 2.1 2.4 6.6 7.5 8.1 	1
+1266	Alliance	EG	Alliance	EG	1	82	18	0.7 0.8 1 16.1 19.1 20.8 	3
+1267	Na'Vi	mouz	mouz	Na'Vi	2	29	71	10.8 9.9 8.7 1.8 1.6 1.4 	3
+1268	Mski	Gizmo	Gizmo	Mski	2	25	75	14.3 11.2 9.8 1.6 1.4 1.1 	3
+1269	Orange	RDuck	Orange	RDuck	1	78	22	1 1 1.3 11.6 14.8 15.8 	3
+1270	MiTH	Idol	Idol	MiTH	2	39	61	5.8 6.8 6.2 2.6 2.3 2.7 	3
+1271	SYF	Storm	Storm	SYF	2	40	60	6.9 6 5 3.1 2.6 2.3 	1
+1272	iG	TongFu	TongFu	iG	2	37	63	8 6.3 5.6 2.8 2.5 2 	3
+1273	RS	RStars	RS	RStars	1	26	74	12.7 11.2 10.1 1.5 1.4 1.2 	3
+1274	LGD.cn	LGD.int	LGD.cn	LGD.int	1	72	28	1.5 1.5 1.6 9.6 10.5 10.6 	3
+1275	FXopen	MVP	FXopen	MVP	1	68	32	1.7 2 2.1 7.4 8.1 9.2 	3
+1276	CSW	Mate	Mate	CSW	2	30	70	10.3 9 8.1 1.9 1.7 1.5 	1
+1277	Mski	Imp	Mski	Imp	1	49	51	4.6 3.8 3.6 4.4 4.1 3.4 	3
+1278	Lowyat	Orange	Lowyat	Orange	1	23	77	12.2 15.4 14 1.1 1 1.3 	3
+1279	Titan	Joenet	Joenet	Titan	2	23	77	14.6 13.6 12.3 1.3 1.1 1.1 	3
+1280	MiTH	FD	MiTH	FD	1	50	50	4.6 3.7 3.5 4.5 4.3 3.4 	3
+1281	Speed	mouz	Speed	mouz	1	57	43	2.8 3 3.2 4.9 5.2 5.6 	3
+1283	Speed	Ahead.kz	Ahead.kz	Speed	2	24	76	12.6 13.5 12.5 1.2 1.2 1.2 	1
+1284	Alliance	TTD	Alliance	TTD	1	82	18	0.8 0.8 1 15.9 18.3 19.5 	1
+1286	LGD.int	RS	RS	LGD.int	2	38	62	7.7 6.1 5.8 2.7 2.6 2.1 	2
+1288	Alliance	Speed	Alliance	Speed	1	68	32	1.8 1.9 1.9 8.1 8.5 8.7 	1
+1289	Titan	Mski	Titan	Mski	1	44	56	5.1 5 4.9 3.2 3.2 3.1 	3
+1290	Lowyat	MiTH	Lowyat	MiTH	1	41	59	6.1 5.6 5.4 2.9 2.8 2.6 	3
+1291	PR	StayFree	PR	StayFree	1	58	42	3.4 2.6 2.7 5.9 6.2 4.7 	1
+1292	SSD	mouz	mouz	SSD	2	69	31	1.9 1.7 1.7 9 9.4 8.4 	1
+1293	TongFu	RStars	TongFu	RStars	1	77	23	1 1.1 1.4 11.2 13.7 16.1 	2
+1294	VG	iG	iG	VG	2	76	24	1.1 1.2 1.5 10.7 13.2 13.8 	2
+1295	Fnatic.eu	Liquid	Fnatic.eu	Liquid	1	46	54	4.9 4.7 4.4 3.6 3.4 3.2 	1
+1296	mouz	StayFree	mouz	StayFree	1	69	31	1.7 1.8 2 7.9 8.8 9.5 	1
+1297	EG	4FC	4FC	EG	2	38	62	6.5 6.7 6.2 2.6 2.3 2.4 	1
+1298	Titan	Lowyat	Titan	Lowyat	1	57	43	2.7 3 3.4 4.6 5.3 5.9 	5
+1299	EG	aAa	EG	aAa	1	76	24	1.1 1.2 1.3 12 13.2 13.6 	1
+1300	4FC	aAa	aAa	4FC	2	35	65	7.9 7.6 6.7 2.4 2.1 2 	1
+1301	Hearts	WPCA	WPCA	Hearts	2	28	72	12.1 10 8.6 1.8 1.6 1.3 	2
+1302	DK	iG	DK	iG	1	62	38	2.2 2.5 2.7 5.9 6.4 7 	2
+1303	Sigma.int	Minion	Sigma.int	Minion	1	76	24	0.9 1.2 1.5 10.2 12.8 17 	1
+1304	Empire	Sigma.int	Empire	Sigma.int	1	57	43	3.4 2.9 2.7 5.8 5.5 4.6 	1
+1305	Empire	Minion	Minion	Empire	2	17	83	24.4 20 16.9 0.9 0.8 0.6 	1
+1306	FXopen	Startale	FXopen	Startale	1	74	26	1.1 1.4 1.6 9.8 11.2 13.8 	3
+1307	LGD.int	Hearts	Hearts	LGD.int	2	20	80	17.9 15.8 13.3 1.2 1 0.9 	2
+1308	LGD.cn	RStars	LGD.cn	RStars	1	83	17	0.7 0.8 1 16.3 18.7 22 	2
+1309	4FC	ZR	4FC	ZR	1	65	35	2.2 1.9 2.1 7.5 8.4 7 	1
+1310	Sigma.int	aAa	aAa	Sigma.int	2	18	82	22.5 18.5 15 1 0.8 0.7 	1
+1311	Sleisel	Mason	Sleisel	Mason	1	49	51	4 4.3 4.2 3.8 3.7 3.9 	3
+1312	Arteezy	Sleisel	Arteezy	Sleisel	1	65	35	2 2 2.2 7.2 7.9 7.7 	3
+1313	EG	Sigma.int	EG	Sigma.int	1	42	58	5.6 5.9 5.4 2.9 2.7 2.8 	3
+1314	TongFu	WPCA	WPCA	TongFu	2	13	87	37.5 27.3 23 0.7 0.6 0.4 	2
+1315	Empire	4FC	4FC	Empire	2	18	82	20.3 17.9 15.1 1 0.9 0.8 	3
+1316	VG	RS	VG	RS	1	81	19	0.7 0.9 1.1 13.7 17 22 	2
+1317	Na'Vi	Liquid	Na'Vi	Liquid	1	77	23	1 1.1 1.4 11.4 13.6 15.1 	6
+1318	QPandas	VP	VP	QPandas	2	77	23	1.1 1.2 1.2 12.9 13.5 13.6 	1
+1319	Empire	EG	Empire	EG	1	68	32	2.1 1.6 1.6 9.7 9.6 7.6 	3
+1320	Orange	Mski	Orange	Mski	1	56	44	3.7 2.8 2.6 6.1 5.5 4.3 	1
+1321	Fnatic.eu	Kawai	Kawai	Fnatic.eu	2	15	85	21.6 22.6 23.8 0.6 0.7 0.7 	1
+1322	DK	RS	RS	DK	2	13	87	37.1 27.7 22.5 0.7 0.5 0.4 	3
+1323	VG	RStars	VG	RStars	1	80	20	0.8 1 1.3 12.3 15.2 19.4 	3
+1324	VG	DK	DK	VG	2	77	23	1.1 1.1 1.3 12.2 14.5 14.2 	3
+1325	Kawai	VP	VP	Kawai	2	72	28	1.3 1.6 1.7 9.3 9.9 12.1 	1
+1326	Dignitas	Speed	Speed	Dignitas	2	75	25	1.2 1.3 1.5 10.1 12 13 	1
+1327	Speed	MVP	MVP	Speed	2	16	84	25 20.7 17.2 0.9 0.7 0.6 	1
+1328	Dignitas	MVP	Dignitas	MVP	1	70	30	1.7 1.7 1.8 8.9 9.5 9.4 	1
+1329	Alliance	VP	VP	Alliance	2	16	84	26.5 22.2 18.2 0.8 0.7 0.6 	3
+1330	Na'Vi	Liquid	Liquid	Na'Vi	2	33	67	7.8 8.5 7.7 2 1.8 2 	1
+1331	Na'Vi	mouz	mouz	Na'Vi	2	22	78	13.4 15.7 13.4 1.2 1 1.2 	3
+1332	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	73	27	1.6 1.3 1.5 10.3 11.7 10.1 	1
+1333	Alliance	VP	VP	Alliance	2	18	82	20 18.3 15.6 1 0.8 0.8 	1
+1334	iG	LGD.int	iG	LGD.int	1	69	31	1.5 1.8 2.2 7.2 8.9 10.4 	3
+1335	LGD.int	RS	LGD.int	RS	1	74	26	1.2 1.4 1.6 9.9 11.3 12.6 	3
+1336	TongFu	RStars	RStars	TongFu	2	20	80	16.1 16.8 14.9 1 0.9 1 	3
+1337	Startale	MVP	Startale	MVP	1	61	39	2.5 2.4 2.7 5.8 6.6 6.3 	3
+1338	Liquid	mouz	Liquid	mouz	1	72	28	1.4 1.5 1.7 9.4 10.2 11.4 	3
+1340	Fnatic.eu	VP	Fnatic.eu	VP	1	79	21	0.9 1 1.2 12.6 15.6 18 	3
+1341	Alliance	mouz	mouz	Alliance	2	13	87	29.2 27.2 22.7 0.7 0.6 0.5 	3
+1343	Fnatic.eu	Na'Vi	Na'Vi	Fnatic.eu	2	68	32	2 1.7 1.8 8.5 9.1 8 	1
+1345	Sigma.int	VP	Sigma.int	VP	1	73	27	1.2 1.5 1.8 8.8 10.5 12.5 	3
+1349	Alliance	Na'Vi	Alliance	Na'Vi	1	49	51	3.9 4.1 4.4 3.6 3.8 4 	1
+1350	Fnatic.eu	Na'Vi	Fnatic.eu	Na'Vi	1	41	59	5.6 5.9 6 2.6 2.7 2.8 	1
+1351	VG	Hearts	Hearts	VG	2	14	86	33.5 23.4 20.2 0.8 0.7 0.4 	2
+1352	DK	RStars	DK	RStars	1	85	15	0.6 0.6 0.8 18.8 23.6 27.5 	2
+1353	Alliance	Fnatic.eu	Alliance	Fnatic.eu	1	69	31	1.7 1.7 1.9 8.2 9.2 9.3 	3
+1354	VP	EG	EG	VP	2	75	25	1.2 1.3 1.4 10.9 12.2 12.9 	3
+1355	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	26	74	12.8 11.9 9.7 1.6 1.3 1.2 	3
+1356	Alliance	Liquid	Liquid	Alliance	2	24	76	12.1 13.3 11.8 1.3 1.2 1.3 	1
+1357	Na'Vi	VP	Na'Vi	VP	1	78	22	1.1 1 1.1 14.6 15.2 13.8 	1
+1358	VP	EG	VP	EG	1	41	59	5.9 5.6 5.3 3 2.8 2.7 	1
+1359	LGD.cn	WPCA	WPCA	LGD.cn	2	11	89	47.6 31.6 25.6 0.6 0.5 0.3 	2
+1360	iG	RS	iG	RS	1	88	12	0.4 0.5 0.6 23.6 27.8 35.3 	2
+1361	Dignitas	MVP	Dignitas	MVP	1	83	17	0.7 0.8 1 15.8 18.7 22.5 	1
+1362	Speed	MVP	MVP	Speed	2	12	88	35.4 28.5 23 0.7 0.5 0.4 	1
+1363	Speed	Dignitas	Dignitas	Speed	2	35	65	7.6 7.7 6.4 2.4 2 2.1 	1
+1364	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	68	32	1.8 1.9 2 7.7 8.4 8.9 	3
+1365	Alliance	Liquid	Liquid	Alliance	2	16	84	22.8 21.9 19 0.8 0.7 0.7 	3
+1366	Alliance	EG	Alliance	EG	1	89	11	0.4 0.5 0.6 26.1 30.7 39.5 	3
+1367	Liquid	VP	VP	Liquid	2	32	68	9.5 8.1 7.3 2.2 1.9 1.6 	1
+1368	Fnatic.eu	VP	Fnatic.eu	VP	1	76	24	1.2 1.2 1.3 11.6 13.4 13.5 	1
+1369	Na'Vi	EG	EG	Na'Vi	2	17	83	20.8 20.3 16.6 0.9 0.8 0.7 	1
+1370	LGD.int	TongFu	LGD.int	TongFu	1	29	71	9.2 10.4 9.5 1.7 1.5 1.7 	2
+1372	VP	Fnatic.eu	Fnatic.eu	VP	2	79	21	0.9 1 1.2 12.7 15.2 17.9 	3
+1373	Liquid	EG	Liquid	EG	1	75	25	1.3 1.3 1.5 10.7 12 12.3 	3
+1374	VP	mouz	mouz	VP	2	48	52	4.5 4.2 4.2 3.7 3.8 3.5 	3
+1375	Startale	fOu	fOu	Startale	2	66	34	1.5 2.4 2.9 5.5 6.6 10.5 	5
+1377	LGD.cn	LGD.int	LGD.cn	LGD.int	1	71	29	1.5 1.6 1.8 8.7 9.6 10.2 	2
+1378	Imp	FD	Imp	FD	1	55	45	2.8 3.5 3.7 4.2 4.5 5.7 	1
+1379	Fnatic.eu	mouz	mouz	Fnatic.eu	2	24	76	14.6 12.6 10.9 1.4 1.2 1.1 	3
+1380	Liquid	Dignitas	Liquid	Dignitas	1	76	24	1.1 1.2 1.4 11.1 13.5 13.6 	3
+1381	Liquid	Na'Vi	Na'Vi	Liquid	2	77	23	1 1.1 1.3 11.9 14 14.9 	3
+1382	Titan	Joenet	Joenet	Titan	2	21	79	18.3 16 11.8 1.3 1 0.8 	1
+1383	LGD.cn	TongFu	LGD.cn	TongFu	1	70	30	1.5 1.8 2 8 9 10.5 	3
+1384	Empire	TR	Empire	TR	1	83	17	0.7 0.8 1 16.1 20.5 21.8 	1
+1385	Na'Vi	Alliance	Na'Vi	Alliance	1	42	58	6.1 5.2 4.7 3.4 3 2.6 	5
+1386	StayFree	SSD	SSD	StayFree	2	71	29	1.5 1.6 1.8 9 10.1 10.4 	1
+1387	LGD.cn	iG	LGD.cn	iG	1	56	44	3.1 3.2 3.3 4.7 4.9 5.1 	3
+1388	iG	Hearts	Hearts	iG	2	15	85	32.7 23 18.7 0.8 0.7 0.5 	2
+1389	RStars	WPCA	RStars	WPCA	1	80	20	0.7 1 1.4 11.4 15.8 22.8 	2
+1390	Alliance	Dignitas	Alliance	Dignitas	1	86	14	0.5 0.6 0.7 22.1 25.8 29.9 	3
+1391	Fnatic.eu	EG	EG	Fnatic.eu	2	26	74	12.9 11.6 10.1 1.6 1.3 1.2 	3
+1392	EG	mouz	mouz	EG	2	44	56	5.4 4.7 4.7 3.4 3.4 2.9 	3
+1393	Fnatic.eu	Empire	Empire	Fnatic.eu	2	43	57	4.8 5.9 5.9 2.7 2.7 3.3 	3
+1394	LGD.cn	DK	LGD.cn	DK	1	51	49	3.6 4.1 3.9 4.1 3.9 4.4 	3
+1395	iG	VG	VG	iG	2	44	56	4.7 5.6 5.3 2.9 2.8 3.4 	3
+1396	rox.KIS	Alliance	Alliance	rox.KIS	2	88	12	0.4 0.5 0.7 23.2 27.7 35.2 	3
+1398	Alliance	Na'Vi	Alliance	Na'Vi	1	46	54	4.6 4.6 4.6 3.4 3.4 3.4 	3
+1399	EG	Alliance	EG	Alliance	1	21	79	15 15.8 13.3 1.2 1 1 	1
+1400	VP	mouz	VP	mouz	1	64	36	1.9 2.2 2.6 6.1 7 8.3 	3
+1401	Alliance	VP	VP	Alliance	2	31	69	8.8 9.1 8.2 1.9 1.7 1.8 	1
+1402	Liquid	EG	Liquid	EG	1	64	36	2.1 2.2 2.3 7 7 7.5 	1
+1404	VG	RS	RS	VG	2	22	78	17.7 14.3 11.2 1.4 1.1 0.9 	3
+1405	Speed	Imp	Speed	Imp	1	78	22	0.8 1.1 1.4 11.1 14 18.5 	3
+1406	EG	Empire	EG	Empire	1	35	65	8.5 7.3 6.1 2.6 2.2 1.8 	3
+1408	Liquid	VP	Liquid	VP	1	68	32	1.7 1.9 2.1 7.4 8.2 9.3 	3
+1409	Liquid	Fnatic.eu	Fnatic.eu	Liquid	2	56	44	3.1 3.1 3.3 4.8 5 5 	1
+1412	DK	WPCA	DK	WPCA	1	85	15	0.4 0.7 0.9 18 23.1 33.4 	2
+1415	VP	Na'Vi	VP	Na'Vi	1	25	75	11.9 12.7 11.2 1.4 1.2 1.3 	1
+1416	Liquid	VP	Liquid	VP	1	68	32	1.8 1.8 1.9 8.3 8.5 8.5 	1
+1420	FD	Awake	Awake	FD	2	45	55	4.5 5.4 5 3.2 2.9 3.5 	1
+1421	Na'Vi	VP	Na'Vi	VP	1	70	30	1.5 1.6 1.9 8.2 9.5 10.8 	3
+1422	EG	VP	VP	EG	2	51	49	3.9 3.7 3.7 4.3 4.3 4 	3
+1423	Alliance	fOu	fOu	Alliance	2	14	86	31.3 25.7 20.8 0.7 0.6 0.5 	3
+1424	DK	Hearts	DK	Hearts	1	90	10	0.3 0.4 0.6 26.7 33.9 46.8 	2
+1425	VG	RStars	VG	RStars	1	83	17	0.7 0.8 1 15.4 18.9 22.3 	2
+1426	Speed	VP	Speed	VP	1	72	28	1.4 1.5 1.7 9.3 10.4 11.2 	3
+1428	EG	Fnatic.eu	Fnatic.eu	EG	2	66	34	2.1 1.9 1.9 8.2 8.4 7.5 	3
+1429	Empire	PR	Empire	PR	1	76	24	1.2 1.2 1.4 11 12.8 13 	3
+1430	Na'Vi	VP	Na'Vi	VP	1	79	21	0.9 1 1.2 13.2 15.7 17.1 	3
+1431	DK	fOu	fOu	DK	2	12	88	37.7 28.7 23.6 0.6 0.5 0.4 	3
+1433	iG	LGD.cn	iG	LGD.cn	1	39	61	7 6 5.3 3 2.6 2.2 	2
+1434	MiTH	Imp	MiTH	Imp	1	58	42	3.1 2.8 2.8 5.7 5.7 5.2 	1
+1435	mouz	SSD	SSD	mouz	2	45	55	4.5 5.1 5.2 3 3.1 3.5 	3
+1437	Liquid	Fnatic.eu	Fnatic.eu	Liquid	2	35	65	7.8 7.2 6.6 2.4 2.2 2 	3
+1438	Liquid	mouz	Liquid	mouz	1	82	18	0.7 0.9 1 15.1 16.9 21 	3
+1439	Empire	Na'Vi	Empire	Na'Vi	1	22	78	13.5 14.6 14.5 1.1 1.1 1.2 	3
+1440	Alliance	DK	Alliance	DK	1	60	40	2.5 2.7 3 5.2 5.9 6.4 	3
+1441	PR	VP	PR	VP	1	34	66	7.9 8 7.8 2 2 2 	3
+1442	LGD.int	WPCA	LGD.int	WPCA	1	87	13	0.4 0.6 0.7 21.7 25.6 35.9 	2
+1443	TongFu	RS	RS	TongFu	2	18	82	23.5 18.3 14.9 1 0.8 0.7 	2
+1444	Fnatic.eu	EG	EG	Fnatic.eu	2	51	49	3.6 3.9 4 3.9 4 4.4 	3
+1445	Speed	EG	Speed	EG	1	64	36	1.8 2.4 2.7 5.8 6.6 8.5 	3
+1446	mouz	Sigma.int	mouz	Sigma.int	1	38	62	7.3 6.3 5.8 2.7 2.5 2.2 	3
+1447	FD	Mski	Mski	FD	2	66	34	1.9 2 2.2 7.2 7.7 8.2 	1
+1448	MiTH	Titan	Titan	MiTH	2	62	38	2.5 2.3 2.4 6.4 6.8 6.2 	1
+1449	Titan	Lowyat	Lowyat	Titan	2	32	68	8.3 9 8.7 1.8 1.7 1.9 	1
+1450	Na'Vi	PR	Na'Vi	PR	1	79	21	0.9 1.1 1.3 12.3 14.2 17.6 	3
+1451	Na'Vi	Empire	Empire	Na'Vi	2	26	74	11.4 11 11.2 1.4 1.4 1.4 	3
+1453	Liquid	Fnatic.eu	Fnatic.eu	Liquid	2	40	60	6.4 5.9 5.6 2.8 2.7 2.4 	1
+1456	Liquid	Fnatic.eu	Fnatic.eu	Liquid	2	31	69	10.2 8.9 7.7 2 1.8 1.5 	3
+1458	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	75	25	1.2 1.3 1.4 11.3 12.4 12.8 	1
+1459	Na'Vi	EG	Na'Vi	EG	1	71	29	1.7 1.5 1.7 9.5 10.3 9.3 	1
+1460	Alliance	Sigma.int	Sigma.int	Alliance	2	19	81	16.7 17.2 15.9 1 0.9 0.9 	1
+1461	rox.KIS	Empire	rox.KIS	Empire	1	31	69	9.6 8.8 8.1 1.9 1.8 1.6 	3
+1462	rox.KIS	Aspera	rox.KIS	Aspera	1	72	28	1.5 1.5 1.7 9.5 10.4 10.2 	1
+1463	Na'Vi	Liquid	Liquid	Na'Vi	2	34	66	7.6 8.2 7.7 2 1.9 2.1 	1
+1465	DK	LGD.int	DK	LGD.int	1	72	28	1.5 1.5 1.6 9.7 10.6 10.4 	2
+1466	4FC	Fnatic	Fnatic	4FC	2	76	24	1.2 1.2 1.3 11.8 12.8 12.9 	1
+1467	Sigma.int	EG	Sigma.int	EG	1	43	57	5 5.6 5.5 2.8 2.8 3.1 	1
+1468	Alliance	Liquid	Alliance	Liquid	1	68	32	1.8 1.9 2 8 8.3 8.5 	1
+1469	Alliance	Na'Vi	Alliance	Na'Vi	1	50	50	3.7 4.1 4.3 3.7 3.8 4.3 	1
+1471	Mts	Tactics	Mts	Tactics	1	36	64	8.8 6.6 5.4 2.9 2.4 1.8 	3
+1472	rox.KIS	Speed	rox.KIS	Speed	1	37	63	8.4 6 5.2 3 2.6 1.9 	3
+1473	LGD.cn	RS	LGD.cn	RS	1	84	16	0.6 0.8 1 16.1 19.6 27.4 	2
+1475	TongFu3	Startale	Startale	TongFu3	2	31	69	8.6 9.3 8.3 1.9 1.7 1.8 	3
+1478	Alliance	Speed	Speed	Alliance	2	25	75	13.1 12.3 10.8 1.4 1.3 1.2 	1
+1479	Liquid	PBS	PBS	Liquid	2	18	82	21.6 18.6 15.9 1 0.8 0.7 	1
+1480	Na'Vi	EG	EG	Na'Vi	2	29	71	9.3 10.8 9.8 1.6 1.5 1.7 	1
+1481	DK	Alliance	Alliance	DK	2	67	33	1.7 1.9 2.3 6.7 8.2 9.3 	1
+1482	Fnatic.eu	PBS	Fnatic.eu	PBS	1	81	19	0.7 0.9 1.2 13.2 17.4 21.2 	1
+1483	Sigma.int	Na'Vi	Na'Vi	Sigma.int	2	74	26	1.4 1.3 1.3 11.6 12.4 11 	1
+1484	DK	Liquid	DK	Liquid	1	65	35	1.9 2.2 2.5 6.3 7.1 8.5 	1
+1485	EG	Fnatic.eu	EG	Fnatic.eu	1	37	63	7.3 6.7 6.4 2.5 2.3 2.2 	1
+1486	Sigma.int	Speed	Sigma.int	Speed	1	46	54	4.2 5 5.1 3.1 3.2 3.8 	1
+1487	VG	LGD.int	VG	LGD.int	1	63	37	2.1 2.4 2.7 5.8 6.6 7.6 	2
+1488	Imp	Awake	Awake	Imp	2	34	66	8.8 7.8 6.4 2.5 2 1.8 	3
+1489	Na'Vi	Liquid	Na'Vi	Liquid	1	70	30	1.7 1.7 1.9 8.4 9.2 9.3 	1
+1490	EG	PBS	EG	PBS	1	81	19	0.8 1 1.1 14.5 15.7 18.6 	1
+1491	Fnatic.eu	Speed	Speed	Fnatic.eu	2	45	55	5 4.7 4.3 3.7 3.4 3.2 	1
+1492	Alliance	Sigma.int	Alliance	Sigma.int	1	75	25	1.3 1.4 1.5 10.4 11.4 12.5 	1
+1493	Sigma.int	Liquid	Sigma.int	Liquid	1	43	57	4.9 5.6 5.6 2.8 2.8 3.2 	1
+1494	Na'Vi	PBS	Na'Vi	PBS	1	85	15	0.6 0.7 0.8 20.4 23.4 27.1 	1
+1495	DK	Fnatic.eu	DK	Fnatic.eu	1	76	24	1.1 1.3 1.5 10.5 12.1 13.9 	1
+1496	Sigma.int	EG	Sigma.int	EG	1	65	35	1.9 2.3 2.7 5.9 6.7 8.5 	1
+1497	Speed	Na'Vi	Na'Vi	Speed	2	76	24	1.1 1.3 1.4 10.9 11.9 13.6 	1
+1498	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	80	20	1 1 1.1 14.7 15.5 16.1 	1
+1499	DK	EG	DK	EG	1	81	19	0.8 1 1 14.9 16.1 19.2 	1
+1500	Speed	PBS	Speed	PBS	1	81	19	0.7 0.9 1.2 13.2 17.3 20.8 	1
+1501	Liquid	Alliance	Alliance	Liquid	2	76	24	1.2 1.2 1.3 11.8 13.1 13.4 	1
+1502	DK	Na'Vi	DK	Na'Vi	1	52	48	3.3 4 4.2 3.8 4 4.7 	1
+1503	Speed	EG	Speed	EG	1	62	38	2.5 2.1 2.4 6.5 7.4 6.3 	1
+1504	Sigma.int	Fnatic.eu	Fnatic.eu	Sigma.int	2	44	56	5.2 5 4.8 3.3 3.2 3 	1
+1505	Na'Vi	Alliance	Alliance	Na'Vi	2	52	48	3.6 3.6 3.9 4.1 4.4 4.4 	1
+1506	Liquid	EG	Liquid	EG	1	74	26	1.3 1.4 1.5 10.5 11.3 11.8 	1
+1507	DK	Sigma.int	DK	Sigma.int	1	70	30	1.7 1.7 1.7 9.2 9 9.4 	1
+1508	Alliance	PBS	PBS	Alliance	2	16	84	24.1 20.2 18.2 0.8 0.8 0.6 	1
+1509	Speed	Liquid	Speed	Liquid	1	53	47	3.4 3.6 3.7 4.2 4.4 4.7 	1
+1510	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	71	29	1.5 1.6 1.8 8.7 9.9 10.1 	1
+1511	Sigma.int	PBS	Sigma.int	PBS	1	86	14	0.5 0.7 0.7 20.7 23.2 31.2 	1
+1512	Alliance	EG	Alliance	EG	1	80	20	0.9 1 1.2 13.2 15.5 16.8 	1
+1513	DK	PBS	PBS	DK	2	10	90	44.2 33.1 26.9 0.6 0.5 0.3 	1
+1514	Fnatic.eu	Liquid	Liquid	Fnatic.eu	2	60	40	2.7 2.7 2.7 5.9 5.8 5.9 	1
+1515	Speed	DK	DK	Speed	2	73	27	1.4 1.5 1.6 9.8 10.8 11 	1
+1516	DK	Na'Vi	DK	Na'Vi	1	46	54	4.2 5.1 5.1 3.1 3.1 3.8 	3
+1517	Speed	Sigma.int	Sigma.int	Speed	2	44	56	5.2 5 4.9 3.2 3.1 3.1 	3
+1518	Speed	DK	DK	Speed	2	69	31	1.6 1.9 2.1 7.6 8.4 9.7 	3
+1519	Orange	MiTH	MiTH	Orange	2	43	57	4.7 6.1 6 2.6 2.6 3.3 	1
+1520	Titan	FD	Titan	FD	1	61	39	2.6 2.5 2.6 6.1 6.3 6 	1
+1521	Next.kz	TR	Next.kz	TR	1	66	34	1.8 2.1 2.5 6.4 7.5 8.9 	1
+1522	Next.kz	Poseidon	Poseidon	Next.kz	2	61	39	2.5 2.5 2.8 5.6 6.2 6.4 	1
+1523	SSD	Empire	Empire	SSD	2	76	24	1.2 1.2 1.4 11.3 13.3 13.4 	1
+1524	Aspera	TR	TR	Aspera	2	30	70	11.5 8.8 8 2 1.8 1.4 	1
+1525	mouz	Aspera	Aspera	mouz	2	41	59	5.7 5.9 5.6 2.8 2.7 2.8 	1
+1526	TongFu3	VP	TongFu3	VP	1	61	39	2.4 2.5 2.8 5.7 6.2 6.4 	1
+1527	VP	Startale	VP	Startale	1	75	25	1.1 1.4 1.6 9.8 11 14.5 	1
+1528	TongFu	DT	TongFu	DT	1	82	18	0.7 0.8 1 15.1 18.3 23.4 	3
+1529	LGD.int	WPCA	LGD.int	WPCA	1	83	17	0.6 0.8 1 15.5 19.8 26.5 	3
+1530	Empire	FSid3	FSid3	Empire	2	30	70	10.4 9.4 8.3 1.9 1.7 1.5 	1
+1531	Aspera	OsG	Aspera	OsG	1	72	28	1.4 1.5 1.7 9.3 10.6 10.9 	1
+1532	Poseidon	PR	Poseidon	PR	1	44	56	5.2 5.3 4.7 3.3 3 3 	1
+1533	OsG	4FC	OsG	4FC	1	25	75	13.2 12.5 10.3 1.5 1.2 1.2 	1
+1534	Poseidon	FSid3	FSid3	Poseidon	2	33	67	8.4 8.4 7.3 2.1 1.9 1.9 	1
+1535	Venum	Lax	Lax	Venum	2	37	63	7.7 6.4 5.7 2.8 2.5 2 	3
+1536	Hearts	NE	Hearts	NE	1	54	46	3.7 3.1 3.1 5.2 5.2 4.2 	3
+1537	FL	Titan	Titan	FL	2	72	28	1.6 1.4 1.6 9.6 11.2 9.8 	3
+1538	NoX	CSW	CSW	NoX	2	66	34	2.1 1.9 2 7.8 8.4 7.5 	3
+1539	Next.kz	4FC	4FC	Next.kz	2	39	61	5.7 6.9 6.6 2.4 2.3 2.7 	1
+1540	Next.kz	PR	Next.kz	PR	1	59	41	2.6 2.7 3 5.2 5.8 6.1 	1
+1541	PR	SSD	PR	SSD	1	39	61	6.7 6.1 5.5 2.8 2.6 2.3 	1
+1542	rox.KIS	Poseidon	rox.KIS	Poseidon	1	61	39	2.3 2.5 2.9 5.5 6.3 6.7 	1
+1543	Fnatic.eu	EG	Fnatic.eu	EG	1	61	39	2.6 2.4 2.5 6.4 6.5 6.1 	3
+1544	SSD	Revenge	Revenge	SSD	2	32	68	9.4 8.2 7.5 2.1 1.9 1.7 	3
+1545	LGD.cn	TongFu	LGD.cn	TongFu	1	69	31	1.5 1.8 2.2 7.1 8.7 10.2 	3
+1546	iG	LGD.int	iG	LGD.int	1	74	26	1.2 1.4 1.7 9.4 11.1 12.5 	3
+1547	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	71	29	1.6 1.5 1.6 9.6 10.2 9.9 	3
+1548	Na'Vi	Liquid	Liquid	Na'Vi	2	30	70	9.9 9.6 8.5 1.8 1.6 1.6 	3
+1549	VG	Hearts	VG	Hearts	1	82	18	0.6 0.9 1.2 13.3 18 25.2 	3
+1550	DK	FL	DK	FL	1	82	18	0.7 0.8 1 15.3 18.9 21 	3
+1553	Fnatic.eu	Na'Vi	Fnatic.eu	Na'Vi	1	31	69	9.3 8.8 7.6 2.1 1.8 1.7 	5
+1554	Alliance	Liquid	Alliance	Liquid	1	68	32	1.9 1.8 1.9 8.3 9 8.4 	5
+1555	Mski	Titan	Mski	Titan	1	51	49	3.7 3.9 3.9 4 4 4.2 	3
+1556	LGD.cn	iG	LGD.cn	iG	1	53	47	3.5 3.6 3.7 4.3 4.4 4.5 	3
+1557	LGD.int	TongFu	TongFu	LGD.int	2	69	31	1.8 1.7 1.8 8.5 9.5 8.7 	1
+1558	FD	Imp	FD	Imp	1	43	57	5.6 5 4.7 3.3 3.2 2.8 	3
+1559	Na'Vi	Alliance	Na'Vi	Alliance	1	50	50	4.1 4 3.9 4 3.9 3.9 	5
+1560	EOT	VT	VT	EOT	2	34	66	8 7.8 7.1 2.2 2 2 	3
+1561	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	40	60	5.9 6.3 6.1 2.6 2.5 2.7 	5
+1562	VG	DK	VG	DK	1	33	67	7 9.7 9.1 1.7 1.6 2.2 	3
+1563	FL	Hearts	Hearts	FL	2	44	56	5.2 5.3 4.6 3.4 3 3 	1
+1564	Mski	MiTH	MiTH	Mski	2	44	56	4.6 5.5 5.4 2.9 2.9 3.5 	3
+1565	NSG	Venum	Venum	NSG	2	57	43	3.4 2.7 2.7 5.9 5.9 4.7 	5
+1568	Next.kz	FSid3	Next.kz	FSid3	1	73	27	1.2 1.5 1.7 9.1 10.8 12.8 	1
+1569	Next.kz	Empire	Empire	Next.kz	2	61	39	2.6 2.3 2.5 6.3 6.8 6.1 	1
+1570	SSD	VP	SSD	VP	1	48	52	4 4.5 4.7 3.3 3.5 4 	1
+1571	PR	4FC	PR	4FC	1	59	41	2.8 2.7 2.8 5.6 5.9 5.7 	1
+1572	Fnatic.eu	Aspera	Aspera	Fnatic.eu	2	26	74	10.9 12.5 11.3 1.4 1.3 1.4 	1
+1573	iG	LGD.int	LGD.int	iG	2	33	67	8.7 8.1 6.8 2.3 1.9 1.8 	1
+1574	DK	FL	DK	FL	1	77	23	1.1 1.2 1.3 11.7 13.5 13.5 	1
+1575	iG	DK	iG	DK	1	47	53	4.4 4.4 4.4 3.6 3.5 3.6 	1
+1576	5inQ	Tilt	Tilt	5inQ	2	31	69	10.6 8.4 6.9 2.3 1.9 1.5 	3
+1577	MVP.P	fOu	fOu	MVP.P	2	44	56	4.7 5.4 5.6 2.8 2.9 3.3 	3
+1578	VG	LGD.cn	LGD.cn	VG	2	69	31	1.7 1.8 1.9 8.3 8.9 9.2 	3
+1579	DK	TongFu	TongFu	DK	2	26	74	14.1 10.6 9.1 1.7 1.5 1.1 	3
+1580	Alliance	Liquid	Alliance	Liquid	1	76	24	1.1 1.3 1.5 10.8 12.4 14.6 	5
+1582	PR	FSid3	FSid3	PR	2	26	74	11.6 11.8 11.2 1.4 1.3 1.4 	1
+1583	Sigma.int	Poseidon	Poseidon	Sigma.int	2	30	70	10.8 9.1 7.8 2 1.7 1.4 	1
+1584	SSD	mouz	mouz	SSD	2	40	60	6.4 5.6 5.4 2.9 2.8 2.4 	1
+1585	Fnatic.eu	VP	Fnatic.eu	VP	1	80	20	0.9 1 1.2 12.9 15.1 17.9 	3
+1586	Fnatic.eu	Na'Vi	Na'Vi	Fnatic.eu	2	70	30	1.6 1.7 1.7 9.3 9.4 9.6 	3
+1587	Idol	AS	AS	Idol	2	31	69	10.2 8.6 6.8 2.3 1.8 1.5 	1
+1588	LGD.cn	iG	iG	LGD.cn	2	55	45	3.7 2.7 2.5 6.3 5.8 4.3 	3
+1589	FD	Origin	FD	Origin	1	78	22	1 1.1 1.3 12.5 14.6 15.3 	1
+1590	Orange	Siltherin	Siltherin	Orange	2	20	80	18.3 15.8 12.3 1.3 1 0.8 	1
+1591	VG	DK	VG	DK	1	49	51	4.1 4.3 4.3 3.7 3.6 3.8 	3
+1592	VG	LGD.cn	VG	LGD.cn	1	52	48	3.7 3.7 3.9 4.1 4.2 4.3 	5
+1593	FD	AS	FD	AS	1	80	20	0.7 1 1.3 11.7 15.7 21 	1
+1594	FD	Orange	Orange	FD	2	70	30	1.8 1.6 1.7 9.2 10 8.8 	1
+1595	Idol	Orange	Idol	Orange	1	37	63	6.1 7.9 8.1 1.9 2 2.6 	1
+1596	Kawai	QPandas	QPandas	Kawai	2	53	47	3.7 3.5 3.4 4.7 4.5 4.3 	1
+1597	Empire	Aspera	Empire	Aspera	1	68	32	1.8 1.8 1.8 8.6 8.6 8.6 	1
+1598	Alliance	VP	Alliance	VP	1	80	20	0.9 1 1.1 13.9 16 17.8 	1
+1599	OsG	VP	OsG	VP	1	33	67	8.8 7.8 7.1 2.2 2 1.8 	1
+1600	TR	OsG	TR	OsG	1	31	69	10.9 8.4 7.1 2.2 1.9 1.4 	1
+1601	SSD	EG	EG	SSD	2	44	56	4.8 5.5 5.5 2.9 2.9 3.3 	3
+1602	VP	Revenge	Revenge	VP	2	32	68	9.3 8.4 7.7 2 1.9 1.7 	1
+1603	Fnatic.eu	rox.KIS	Fnatic.eu	rox.KIS	1	73	27	1.5 1.5 1.5 10.6 10.8 10.4 	3
+1604	Sigma.int	Na'Vi	Na'Vi	Sigma.int	2	72	28	1.5 1.4 1.6 10.1 10.8 10.4 	5
+1605	VG	iG	VG	iG	1	60	40	2.4 2.9 3.2 4.9 5.5 6.7 	5
+1606	CSW	NoX	CSW	NoX	1	49	51	4.5 3.7 3.9 4.1 4.2 3.5 	3
+1607	Idol	Siltherin	Siltherin	Idol	2	25	75	16.2 11.2 9.2 1.7 1.4 1 	1
+1608	VP	Empire	Empire	VP	2	69	31	1.6 1.8 2.1 7.5 8.9 9.9 	1
+1609	Empire	rox.KIS	rox.KIS	Empire	2	49	51	3.7 4.5 4.7 3.4 3.5 4.3 	1
+1610	VP	mouz	VP	mouz	1	53	47	3.3 3.7 3.9 4 4.3 4.7 	1
+1611	Sigma.int	OsG	Sigma.int	OsG	1	76	24	1 1.3 1.5 10.2 12.3 15.6 	1
+1612	Fnatic.eu	Liquid	Fnatic.eu	Liquid	1	67	33	1.9 1.9 2.2 7.2 8.1 8.3 	5
+1613	Fnatic.eu	PR	PR	Fnatic.eu	2	27	73	11.3 11.5 9.7 1.6 1.4 1.4 	3
+1614	Alliance	ZR	ZR	Alliance	2	17	83	23.7 19.8 16.6 0.9 0.8 0.6 	3
+1615	Speed	Sigma.int	Speed	Sigma.int	1	58	42	2.9 2.8 3.1 5.1 5.6 5.5 	5
+1617	Siltherin	Origin	Siltherin	Origin	1	64	36	2 2.3 2.6 6 7 8 	1
+1618	FD	XctN	XctN	FD	2	31	69	9.7 9 7.6 2.1 1.7 1.6 	1
+1619	XctN	Siltherin	Siltherin	XctN	2	39	61	6.9 6 5.7 2.8 2.6 2.3 	1
+1620	VP	FSid3	VP	FSid3	1	72	28	1.5 1.4 1.6 9.9 11 10.5 	1
+1622	Aspera	PR	PR	Aspera	2	61	39	2.6 2.5 2.6 6 6.4 6.1 	1
+1623	SSD	Aspera	Aspera	SSD	2	33	67	8.3 8.1 8 2 1.9 1.9 	1
+1624	PR	TR	PR	TR	1	69	31	1.6 1.8 2 7.9 8.6 9.6 	1
+1625	Idol	FD	Idol	FD	1	32	68	9.1 8.8 7.7 2 1.8 1.7 	1
+1626	FD	Siltherin	FD	Siltherin	1	77	23	0.9 1.2 1.4 11 13.1 16.5 	1
+1627	MVP	EOT	MVP	EOT	1	68	32	2 1.7 1.8 8.6 9.3 7.9 	5
+1628	Alliance	ONE.dota	Alliance	ONE.dota	1	84	16	0.7 0.7 0.9 17.5 21.3 23.4 	1
+1629	Fnatic.eu	Startale	Startale	Fnatic.eu	2	15	85	28.3 23.7 19.3 0.8 0.6 0.5 	1
+1630	Na'Vi	Sigma.int	Sigma.int	Na'Vi	2	38	62	6.1 6.7 6.4 2.5 2.3 2.6 	1
+1631	VG	aAa	VG	aAa	1	84	16	0.5 0.7 1 16.2 20.7 28.4 	1
+1632	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	59	41	2.8 2.7 2.7 5.8 5.8 5.7 	1
+1633	Startale	ONE.dota	ONE.dota	Startale	2	44	56	4.5 5.9 6.3 2.5 2.7 3.5 	1
+1634	Alliance	Startale	Startale	Alliance	2	18	82	21.2 17.6 15.3 1 0.9 0.7 	1
+1635	VG	Na'Vi	VG	Na'Vi	1	39	61	5.1 7.2 7.7 2 2.2 3.1 	1
+1636	Sigma.int	aAa	aAa	Sigma.int	2	18	82	21.7 18.3 14.1 1.1 0.8 0.7 	1
+1637	Na'Vi	Sigma.int	Sigma.int	Na'Vi	2	32	68	8.5 8.9 8.1 1.9 1.8 1.9 	1
+1638	VG	Alliance	Alliance	VG	2	48	52	5.3 3.7 3.4 4.7 4.3 3 	3
+1639	Fnatic.eu	Na'Vi	Fnatic.eu	Na'Vi	1	41	59	5.8 5.8 5.2 3 2.7 2.7 	3
+1640	FD	Mski	Mski	FD	2	46	54	5.1 4.4 4.4 3.6 3.6 3.1 	5
+1641	RRQ	MiTH	RRQ	MiTH	1	30	70	9.2 10 9.6 1.6 1.6 1.7 	1
+1642	MiTH	Neon	MiTH	Neon	1	67	33	1.7 2.1 2.2 7.2 7.6 9 	1
+1643	VG	Fnatic.eu	Fnatic.eu	VG	2	41	59	6.6 5 4.7 3.4 3.1 2.4 	5
+1644	iG	LGD.cn	iG	LGD.cn	1	41	59	6 5.5 5.3 3 2.8 2.6 	3
+1645	RRQ	Dreamz	Dreamz	RRQ	2	37	63	6.7 6.9 6.5 2.4 2.3 2.4 	1
+1646	RRQ	Mski	RRQ	Mski	1	46	54	4.3 4.9 5.2 3 3.2 3.7 	1
+1647	MiTH	Lowyat	Lowyat	MiTH	2	57	43	2.8 3.1 3.5 4.5 5.2 5.7 	1
+1648	Poseidon	VP	VP	Poseidon	2	68	32	1.9 1.9 1.9 8.1 8.4 8.4 	1
+1649	VP	PR	PR	VP	2	49	51	4.3 4 4.1 3.9 4 3.7 	1
+1650	VP	QPandas	VP	QPandas	1	65	35	1.9 2.2 2.2 7.2 7.2 8.1 	1
+1651	rox.KIS	4FC	rox.KIS	4FC	1	69	31	1.7 1.7 1.9 8.3 9.3 9.4 	1
+1652	PR	QPandas	QPandas	PR	2	24	76	13.8 12.4 10.4 1.5 1.3 1.1 	1
+1653	mouz	4FC	4FC	mouz	2	30	70	9.5 10 8.9 1.8 1.6 1.6 	1
+1654	MVP.P	5inQ	MVP.P	5inQ	1	75	25	1 1.4 1.6 9.6 11.6 15.1 	5
+1655	RRQ	HR	RRQ	HR	1	64	36	2.5 1.9 1.9 8.4 8.4 6.2 	1
+1656	HR	Mski	HR	Mski	1	29	71	9 10.6 9.8 1.6 1.5 1.7 	1
+1657	RRQ	Neon	Neon	RRQ	2	18	82	21.8 17.5 13.9 1.1 0.9 0.7 	1
+1659	Alliance	Na'Vi	Na'Vi	Alliance	2	53	47	3.6 3.3 3.4 4.6 4.7 4.3 	1
+1660	Poseidon	Fnatic.eu	Poseidon	Fnatic.eu	1	22	78	16.4 14.6 11.6 1.3 1.1 0.9 	1
+1661	Alliance	Fnatic	Fnatic	Alliance	2	42	58	5.8 5.6 5.2 3 2.8 2.7 	1
+1662	Fnatic.eu	QPandas	QPandas	Fnatic.eu	2	20	80	19.6 15.5 13.4 1.2 1 0.8 	1
+1664	DK	Titan	DK	Titan	1	83	17	0.7 0.8 1 15.5 18.8 23.4 	3
+1665	LGD.cn	DT	LGD.cn	DT	1	83	17	0.6 0.7 1 16.2 20.6 23.8 	3
+1666	Lowyat	HR	HR	Lowyat	2	60	40	2.3 2.7 3.1 5.1 5.7 6.7 	1
+1667	Fnatic.eu	mouz	Fnatic.eu	mouz	1	72	28	1.5 1.4 1.6 9.6 11 10.6 	3
+1668	Duskbin	Neon	Duskbin	Neon	1	77	23	0.8 1.3 1.6 9.6 11.8 18.3 	1
+1669	Neon	HR	Neon	HR	1	33	67	8.7 8.1 7 2.2 1.9 1.8 	1
+1670	MiTH	Duskbin	MiTH	Duskbin	1	51	49	4.1 3.8 3.3 4.8 4.2 3.8 	1
+1671	Neon	Ledion	Ledion	Neon	2	46	54	4.6 4.8 4.4 3.5 3.3 3.4 	1
+1672	MiTH	HR	HR	MiTH	2	33	67	8.1 8.3 7.6 2.1 1.9 1.9 	1
+1673	rox.KIS	mouz	rox.KIS	mouz	1	56	44	2.8 3.3 3.7 4.3 4.7 5.7 	3
+1674	Empire	OsG	Empire	OsG	1	75	25	1.2 1.3 1.4 10.9 12.1 13.4 	1
+1675	Empire	Poseidon	Poseidon	Empire	2	48	52	4.4 4.1 4.1 3.9 3.8 3.6 	1
+1676	TR	Poseidon	TR	Poseidon	1	25	75	14.2 11.6 9.8 1.6 1.3 1.1 	1
+1677	Na'Vi	Aspera	Na'Vi	Aspera	1	75	25	1.2 1.2 1.5 10.7 12.9 12.5 	1
+1678	Na'Vi	TR	TR	Na'Vi	2	21	79	16.8 14.6 13.4 1.2 1.1 0.9 	1
+1679	Speed	Titan	Speed	Titan	1	69	31	1.7 1.7 1.9 8.1 9.1 9.1 	3
+1680	Mski	Lowyat	Mski	Lowyat	1	56	44	3.3 2.9 2.9 5.4 5.4 4.8 	1
+1681	Mski	Ledion	Ledion	Mski	2	22	78	16.9 14 11.7 1.3 1.1 0.9 	1
+1682	Lowyat	Ledion	Lowyat	Ledion	1	75	25	1.2 1.3 1.6 9.8 11.7 13.3 	1
+1683	rox.KIS	TR	TR	rox.KIS	2	28	72	12.4 9.7 8.1 1.9 1.6 1.3 	1
+1684	Alliance	rox.KIS	rox.KIS	Alliance	2	26	74	11.3 12.4 11.3 1.4 1.3 1.4 	1
+1685	Alliance	QPandas	Alliance	QPandas	1	87	13	0.5 0.6 0.7 22.6 27.3 31.2 	1
+1686	Sigma.int	Aspera	Sigma.int	Aspera	1	76	24	1.2 1.2 1.4 11.1 13.3 13.5 	1
+1688	Fnatic.eu	rox.KIS	Fnatic.eu	rox.KIS	1	73	27	1.4 1.4 1.5 10.4 11.5 10.8 	5
+1689	iG	DT	iG	DT	1	87	13	0.5 0.6 0.7 23 27.1 32.6 	3
+1690	Mski	Duskbin	Mski	Duskbin	1	69	31	2 1.5 1.5 10.4 10.4 8 	1
+1697	mouz	Alliance	mouz	Alliance	1	18	82	16.9 20.1 20.1 0.8 0.8 0.9 	1
+1698	Alliance	Empire	Alliance	Empire	1	73	27	1.5 1.3 1.4 10.9 11.8 10.4 	1
+1699	OsG	Alliance	OsG	Alliance	1	13	87	28.4 26.3 23.4 0.7 0.6 0.5 	1
+1701	TongFu	DT	DT	TongFu	2	21	79	15.1 15.4 14.2 1.1 1 1 	3
+1702	DK	Speed	DK	Speed	1	53	47	3.5 3.4 3.4 4.6 4.6 4.5 	1
+1703	DK	VG	VG	DK	2	56	44	3 3.2 3.4 4.7 4.9 5.3 	3
+1704	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	41	59	5.9 5.8 5.4 2.9 2.7 2.7 	3
+1705	Next.kz	OsG	OsG	Next.kz	2	32	68	9 8.3 7 2.2 1.9 1.7 	1
+1706	Sigma.int	FSid3	Sigma.int	FSid3	1	82	18	0.9 0.8 0.9 17.5 19.3 18.1 	1
+1707	mouz	FSid3	FSid3	mouz	2	23	77	13.5 13.8 12.8 1.2 1.1 1.2 	1
+1708	HR	YMC	HR	YMC	1	76	24	1.1 1.3 1.6 9.6 11.8 14.3 	3
+1709	iG	TongFu	iG	TongFu	1	71	29	1.4 1.6 2 8 9.5 10.8 	3
+1709	iG	TongFu	iG	TongFu	1	71	29	1.4 1.6 2 8 9.5 10.8 	3
+1710	Speed	VG	Speed	VG	1	39	61	6.1 6.2 5.9 2.7 2.5 2.6 	3
+1710	Speed	VG	Speed	VG	1	39	61	6.5 6.5 5.9 2.7 2.4 2.4 	3
+1711	Next.kz	QPandas	Next.kz	QPandas	1	80	20	0.8 1 1.2 12.8 15 18.8 	1
+1711	Next.kz	QPandas	Next.kz	QPandas	1	82	18	0.7 0.9 1 15.9 18.1 20.6 	1
+1712	VP	Aspera	Aspera	VP	2	30	70	9.3 9.3 8.6 1.8 1.7 1.7 	1
+1712	VP	Aspera	Aspera	VP	2	31	69	8.1 9.7 9.5 1.7 1.6 1.9 	1
+1713	Alliance	Sigma.int	Sigma.int	Alliance	2	29	71	9.5 9.8 9.3 1.7 1.6 1.6 	1
+1713	Sigma.int	Alliance	Sigma.int	Alliance	2	30	70	8.8 10.9 9 1.7 1.4 1.8 	1
+1714	rox.KIS	QPandas	QPandas	rox.KIS	2	18	82	21.4 17.1 14.9 1 0.9 0.7 	1
+1714	rox.KIS	QPandas	QPandas	rox.KIS	2	21	79	16.5 16.9 13 1.2 0.9 0.9 	1
+1715	Poseidon	mouz	Poseidon	mouz	1	42	58	5.7 5.4 5.3 2.9 2.9 2.8 	1
+1715	Poseidon	mouz	Poseidon	mouz	1	48	52	4.5 4.6 4 4 3.4 3.5 	1
+1716	rox.KIS	Poseidon	rox.KIS	Poseidon	1	60	40	2.4 2.7 2.8 5.6 5.8 6.5 	1
+1716	rox.KIS	Poseidon	rox.KIS	Poseidon	1	60	40	2.6 2.6 2.9 5.4 6.1 6.1 	1
+1717	VP	mouz	mouz	VP	2	48	52	4.3 4.5 4.5 3.5 3.5 3.7 	1
+1717	VP	mouz	mouz	VP	2	49	51	3.7 4.4 4.7 3.4 3.6 4.3 	1
+1718	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	61	39	2.5 2.3 2.7 5.8 6.9 6.4 	3
+1718	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	62	38	2.3 2.4 2.7 5.8 6.6 6.9 	3
+1719	HR	CSW	CSW	HR	2	30	70	8.9 10.1 9.6 1.6 1.5 1.8 	5
+1719	HR	CSW	CSW	HR	2	30	70	8.9 10.1 9.6 1.6 1.5 1.8 	5
+1720	Mski	Genysis	Mski	Genysis	1	80	20	0.9 1 1.1 13.5 15.7 17.2 	1
+1721	Lowyat	Inv.kwnku	Lowyat	Inv.kwnku	1	77	23	1.1 1 1.5 10.5 14.8 13.9 	1
+1722	Mski	ADN	ADN	Mski	2	17	83	20.2 19.7 15.6 1 0.8 0.8 	1
+1723	Mski	Lowyat	Lowyat	Mski	2	30	70	9.2 10 10.1 1.6 1.6 1.7 	1
+1724	LGD.cn	TongFu	TongFu	LGD.cn	2	30	70	9.6 9.5 8.1 1.9 1.7 1.6 	3
+1725	VG	Titan	Titan	VG	2	24	76	13.6 13.2 11.1 1.4 1.2 1.1 	3
+1726	Lowyat	Inv.kwnku	Inv.kwnku	Lowyat	2	21	79	15.2 16.3 12.8 1.2 1 1 	1
+1727	Mski	Lowyat	Mski	Lowyat	1	83	17	0.8 0.9 0.9 16.7 18.1 20.3 	3
+1728	sQreen	CHort	CHort	sQreen	2	75	25	1.3 1.2 1.4 11 12.5 12.2 	3
+1729	Sigma.int	Liquid	Liquid	Sigma.int	2	50	50	3.8 4 4 3.9 3.9 4.1 	5
+1730	rox.KIS	OsG	OsG	rox.KIS	2	24	76	15.2 11.4 10.2 1.5 1.4 1 	1
+1731	Empire	Na'Vi	Na'Vi	Empire	2	75	25	1.3 1.2 1.4 11.3 12.9 12.2 	1
+1732	rox.KIS	Na'Vi	rox.KIS	Na'Vi	1	38	62	5.9 7.3 7.3 2.2 2.1 2.7 	1
+1733	PR	Alliance	Alliance	PR	2	72	28	1.4 1.5 1.6 9.7 10.5 10.9 	1
+1734	PR	mouz	PR	mouz	1	53	47	3.5 3.6 3.7 4.2 4.4 4.5 	1
+1735	Mski	Neon	Mski	Neon	1	82	18	0.8 0.8 1 15.9 18.2 18.4 	1
+1736	Lowyat	RRQ	Lowyat	RRQ	1	31	69	9.2 9 7.9 2 1.7 1.7 	1
+1737	MiTH	Mski	Mski	MiTH	2	57	43	3.2 2.6 2.7 5.8 6.1 4.9 	1
+1738	Lowyat	Duskbin	Duskbin	Lowyat	2	34	66	7.3 8.9 8.2 1.9 1.8 2.1 	1
+1739	5inQ	EOT	EOT	5inQ	2	65	35	2 2 2.4 6.4 7.8 7.8 	5
+1740	LGD.cn	Speed	Speed	LGD.cn	2	59	41	2.5 2.8 3.3 4.8 5.6 6.4 	3
+1741	VP	Next.kz	Next.kz	VP	2	49	51	4.1 4.2 4.3 3.7 3.8 3.8 	1
+1742	Na'Vi	Next.kz	Na'Vi	Next.kz	1	69	31	1.5 2 2.2 7.2 7.9 10.5 	1
+1743	Na'Vi	VP	VP	Na'Vi	2	33	67	9.2 7.6 6.4 2.4 2.1 1.7 	1
+1744	Sigma.int	TR	Sigma.int	TR	1	77	23	1 1.3 1.5 10.2 12.3 16.1 	1
+1745	Na'Vi	QPandas	Na'Vi	QPandas	1	82	18	0.7 0.9 1.1 14.4 18 22 	1
+1746	Alliance	FSid3	Alliance	FSid3	1	82	18	0.7 0.8 1.1 14.1 18.4 22.3 	1
+1748	Idol	Lowyat	Idol	Lowyat	1	46	54	4.3 5.1 5 3.2 3.1 3.7 	3
+1749	FD	MiTH	FD	MiTH	1	46	54	4.3 5.1 5.4 2.9 3.1 3.7 	3
+1750	Alliance	TR	Alliance	TR	1	83	17	0.7 0.8 1 15.8 18.9 22.6 	1
+1751	Na'Vi	OsG	OsG	Na'Vi	2	20	80	17.6 15.7 13 1.2 1 0.9 	1
+1753	Na'Vi	Poseidon	Na'Vi	Poseidon	1	73	27	1.3 1.4 1.6 9.6 11.1 11.7 	1
+1754	TR	SSD	SSD	TR	2	74	26	1.2 1.4 1.6 9.7 11.4 12.9 	1
+1755	SSD	OsG	OsG	SSD	2	25	75	13.6 11.1 9.4 1.7 1.4 1.1 	1
+1756	TongFu	Speed	Speed	TongFu	2	64	36	2 2.3 2.8 5.7 6.9 7.8 	3
+1757	iG	LGD.cn	iG	LGD.cn	1	52	48	3.5 3.6 3.9 4.1 4.3 4.5 	3
+1758	DK	TongFu	TongFu	DK	2	31	69	9.8 8.9 7.7 2.1 1.8 1.6 	3
+1759	FD	Idol	Idol	FD	2	46	54	5.1 4.5 4.1 3.9 3.5 3.1 	3
+1760	Duskbin	Orange	Orange	Duskbin	2	71	29	1.7 1.5 1.6 9.9 10.6 9.5 	1
+1761	Mski	AS	AS	Mski	2	23	77	15.2 12.3 10.8 1.4 1.3 1 	1
+1762	TR	VP	TR	VP	1	32	68	9.4 8.3 7.2 2.2 1.9 1.7 	1
+1763	rox.KIS	FSid3	FSid3	rox.KIS	2	20	80	18 15.5 12.5 1.2 1 0.9 	1
+1764	Na'Vi	mouz	Na'Vi	mouz	1	77	23	1.1 1.1 1.3 12.1 14.2 13.6 	1
+1767	rox.KIS	PR	rox.KIS	PR	1	57	43	2.7 3.1 3.5 4.5 5 5.9 	1
+1768	QPandas	TR	TR	QPandas	2	71	29	1.5 1.6 1.9 8.5 9.8 10.4 	1
+1769	XctN	Idol	Idol	XctN	2	57	43	3.2 2.8 2.9 5.5 5.7 5 	3
+1770	5inQ	MVP	MVP	5inQ	2	35	65	9 6.2 5.2 3 2.6 1.7 	5
+1771	VG	LGD.int	VG	LGD.int	1	78	22	0.9 1.2 1.6 9.7 12.8 18.1 	5
+1773	FD	Execration	FD	Execration	1	66	34	2.1 1.8 2 8 8.6 7.5 	5
+1774	Idol	Inv.kwnku	Idol	Inv.kwnku	1	74	26	1 1.5 1.9 8.3 10.7 14.9 	3
+1775	RRQ	Execration	RRQ	Execration	1	44	56	5.6 4.9 4.5 3.5 3.2 2.8 	3
+1776	Fnatic.eu	mouz	mouz	Fnatic.eu	2	24	76	13.8 13.1 11 1.4 1.2 1.1 	1
+1777	PR	OsG	PR	OsG	1	71	29	1.5 1.6 1.8 8.9 10 10.2 	1
+1778	FSid3	QPandas	QPandas	FSid3	2	61	39	2.6 2.4 2.4 6.5 6.6 6 	1
+1779	Fnatic.eu	SSD	Fnatic.eu	SSD	1	70	30	1.8 1.5 1.6 9.7 10.3 9 	1
+1780	Titan	Idol	Titan	Idol	1	72	28	1.4 1.6 1.8 8.7 10 11.1 	3
+1781	FD	MiTH	FD	MiTH	1	68	32	1.7 1.9 2.1 7.3 8.2 9 	3
+1782	Mski	RRQ	Mski	RRQ	1	52	48	3.8 3.5 3.5 4.5 4.4 4.2 	3
+1783	Titan	Lowyat	Titan	Lowyat	1	78	22	1 1 1.3 12 14.8 15.2 	3
+1784	LGD.cn	TongFu	LGD.cn	TongFu	1	70	30	1.6 1.6 2 8 9.6 9.9 	5
+1785	Fnatic.eu	Next.kz	Next.kz	Fnatic.eu	2	23	77	14 12.8 12.1 1.3 1.2 1.1 	1
+1786	Fnatic.eu	Empire	Fnatic.eu	Empire	1	74	26	1.4 1.4 1.5 10.3 11.2 11.5 	1
+1787	Sigma.int	Empire	Sigma.int	Empire	1	61	39	2.5 2.5 2.6 6.1 6.3 6.4 	1
+1788	Sigma.int	QPandas	QPandas	Sigma.int	2	15	85	26.2 21.8 17.7 0.9 0.7 0.6 	1
+1789	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	41	59	5.5 5.9 5.7 2.8 2.7 2.9 	1
+1790	Na'Vi	SSD	SSD	Na'Vi	2	20	80	14.9 16.4 15.8 1 0.9 1 	1
+1791	Revenge	PR	Revenge	PR	1	28	72	9.4 11.5 11.6 1.3 1.4 1.7 	1
+1792	Empire	rox.KIS	Empire	rox.KIS	1	34	66	7.9 7.7 6.9 2.3 2 2 	1
+1793	Fnatic.eu	VP	Fnatic.eu	VP	1	75	25	1.3 1.3 1.5 10.8 11.9 12.4 	1
+1794	Mski	FD	Mski	FD	1	43	57	5.1 5.6 5.3 3 2.8 3.1 	3
+1795	Empire	Revenge	Revenge	Empire	2	30	70	9.5 8.8 8.8 1.8 1.8 1.6 	3
+1796	Titan	Mski	Titan	Mski	1	61	39	2.5 2.7 2.6 6.1 5.8 6.4 	5
+1797	TR	Empire	TR	Empire	1	30	70	9.4 9.8 9.5 1.6 1.6 1.7 	1
+1798	OsG	QPandas	OsG	QPandas	1	61	39	2.3 2.7 2.8 5.7 5.8 6.8 	1
+1799	VP	rox.KIS	VP	rox.KIS	1	36	64	8.7 6.7 5.8 2.7 2.3 1.8 	1
+1800	Empire	mouz	mouz	Empire	2	30	70	9.7 9.9 8.7 1.8 1.6 1.6 	1
+1801	Na'Vi	Sigma.int	Na'Vi	Sigma.int	1	71	29	1.7 1.4 1.6 10.1 11 9.2 	1
+1802	PR	Na'Vi	Na'Vi	PR	2	78	22	1.2 1 1.1 14.8 15.9 13.1 	1
+1803	Sigma.int	VP	Sigma.int	VP	1	75	25	1.2 1.4 1.5 10.2 11.5 13.4 	1
+1804	DK	TongFu.W	DK	TongFu.W	1	88	12	0.4 0.6 0.7 21.5 26.8 36.7 	3
+1805	VG	FD	VG	FD	1	84	16	0.6 0.7 0.9 18 20.9 24.6 	3
+1806	DT	NE	NE	DT	2	30	70	9.3 9.8 8.7 1.8 1.6 1.7 	3
+1807	LGD.cn	MVP.P	LGD.cn	MVP.P	1	86	14	0.5 0.6 0.8 20.3 24.8 29.8 	3
+1808	iG	Startale	iG	Startale	1	87	13	0.4 0.6 0.8 20.2 24.9 36.2 	3
+1809	Titan	Hearts	Hearts	Titan	2	23	77	12.8 14.5 12.2 1.3 1.1 1.2 	3
+1810	TR	PR	TR	PR	1	44	56	4.8 5.2 5.2 3 3 3.3 	5
+1811	TongFu	FL	TongFu	FL	1	80	20	0.9 0.9 1.1 14 16.5 16.8 	3
+1813	DK	VG	DK	VG	1	62	38	2.3 2.5 2.7 5.9 6.4 7 	3
+1814	LGD.cn	DT	DT	LGD.cn	2	15	85	28.7 22.6 17.8 0.9 0.7 0.5 	3
+1815	iG	Titan	iG	Titan	1	76	24	0.9 1.4 1.7 9.4 11.4 16.5 	3
+1816	TongFu	Speed	TongFu	Speed	1	44	56	5.6 5.1 4.4 3.6 3.1 2.8 	3
+1817	Mski	Startale	Mski	Startale	1	76	24	1.2 1.2 1.4 11.5 13.4 12.5 	1
+1818	FD	RRQ	RRQ	FD	2	35	65	7.3 7.5 7.6 2.1 2.1 2.2 	1
+1819	rox.KIS	Next.kz	rox.KIS	Next.kz	1	62	38	2.4 2.3 2.5 6.3 6.7 6.7 	1
+1820	Empire	QPandas	Empire	QPandas	1	81	19	0.9 0.9 1.1 14 17 17.7 	1
+1821	QPandas	Poseidon	QPandas	Poseidon	1	27	73	10.8 11 9.6 1.6 1.4 1.4 	1
+1822	Fnatic.eu	OsG	Fnatic.eu	OsG	1	86	14	0.5 0.6 0.7 21.5 24.9 27.6 	1
+1823	SSD	FSid3	FSid3	SSD	2	30	70	9.1 10 9.2 1.7 1.6 1.7 	1
+1824	Empire	PR	PR	Empire	2	45	55	4.9 4.9 4.6 3.5 3.2 3.2 	1
+1825	DK	LGD.cn	LGD.cn	DK	2	31	69	9.7 8.5 7.6 2.1 1.8 1.6 	3
+1826	Titan	Startale	Titan	Startale	1	79	21	1 1 1.1 14.5 16 15.5 	3
+1827	MVP.P	5inQ	MVP.P	5inQ	1	78	22	0.9 1.2 1.4 11.1 13.2 17.1 	5
+1828	TongFu	iG	iG	TongFu	2	76	24	1.1 1.4 1.6 9.8 11.2 14.4 	3
+1829	Sigma.int	PR	Sigma.int	PR	1	72	28	1.3 1.7 2 8 9.2 12.4 	1
+1830	mouz	QPandas	QPandas	mouz	2	36	64	7.1 7 7.1 2.2 2.2 2.2 	1
+1831	rox.KIS	Sigma.int	rox.KIS	Sigma.int	1	33	67	9 7.5 7 2.2 2.1 1.7 	1
+1832	TR	mouz	mouz	TR	2	46	54	4.6 5 4.7 3.4 3.2 3.4 	1
+1833	Fnatic.eu	rox.KIS	Fnatic.eu	rox.KIS	1	73	27	1.5 1.4 1.4 11.3 11.1 10.2 	1
+1835	iG	LGD.cn	LGD.cn	iG	2	51	49	4 3.8 3.4 4.6 4.2 3.9 	3
+1836	DK	TongFu	DK	TongFu	1	72	28	1.4 1.6 1.8 8.6 9.9 11.5 	5
+1837	Titan	MiTH	Titan	MiTH	1	71	29	1.6 1.5 1.7 9.2 10.4 10.1 	3
+1838	Titan	Mski	Mski	Titan	2	62	38	2.5 2.3 2.4 6.5 6.7 6.3 	0
+1839	Sigma.int	Fnatic.eu	Sigma.int	Fnatic.eu	1	32	68	8.8 8.5 7.9 2 1.8 1.8 	1
+1840	PR	Fnatic.eu	Fnatic.eu	PR	2	74	26	1.3 1.4 1.5 10.5 11.3 12.2 	1
+1841	SSD	QPandas	SSD	QPandas	1	67	33	1.8 2 2.2 7.1 8 8.6 	1
+1842	DK	VG	DK	VG	1	72	28	1.3 1.6 1.8 8.6 9.5 11.9 	5
+1843	iG	LGD.cn	LGD.cn	iG	2	36	64	7.8 6.6 5.9 7.7 2.6 2.4 2 1.9 	5
+1844	VG	LGD.cn	LGD.cn	VG	2	58	42	2.7 3.1 3.4 2.1 4.7 5 5.8 7.2 	5
+1845	DK	iG	DK	iG	1	69	31	1.6 1.9 2.2 1.2 7.2 8.3 9.9 12 	7
+1846	DK	Titan	DK	Titan	1	82	18	0.7 0.9 1.1 0.6 14.7 17.6 21.7 24 	2
+1847	DK	TongFu	TongFu	DK	2	21	79	18.5 14.7 11.7 20.4 1.3 1.1 0.8 0.7 	2
+1848	TongFu	Titan	Titan	TongFu	2	33	67	9.4 7.4 6.7 9.3 2.4 2.1 1.7 1.6 	2
+1849	PBS	MCD	MCD	PBS	2	34	66	9.1 7.1 6.1 12.7 2.6 2.2 1.7 1.2 	3
+1850	rox.KIS	mouz	rox.KIS	mouz	1	77	23	0.9 1.3 1.6 0.8 9.8 12.2 16.4 19 	1
+1851	Alliance	Relax	Alliance	Relax	1	83	17	0.7 0.7 0.9 0.6 16.5 20.6 20.7 23 	1
+1852	SSD	Relax	Relax	SSD	2	30	70	9.3 10.1 9.1 9.4 1.7 1.6 1.7 1.6 	1
+1853	Alliance	SSD	SSD	Alliance	2	19	81	16.1 18.6 17.1 15.4 0.9 0.8 1 0.9 	1
+1854	SSD	rox.KIS	rox.KIS	SSD	2	65	35	2.3 1.9 2 2.8 7.8 8.2 6.9 5.3 	1
+1857	iG	Titan	Titan	iG	2	19	81	20.9 17.1 14.2 25.6 1.1 0.9 0.7 0.6 	2
+1858	Empire	PR	Empire	PR	1	65	35	1.8 2.3 2.7 1.4 5.8 6.8 8.8 10.3 	3
+1860	Fnatic.eu	FSid3	FSid3	Fnatic.eu	2	17	83	24.2 19.1 16.5 31.9 0.9 0.8 0.6 0.4 	1
+1861	Sigma.int	Next.kz	Next.kz	Sigma.int	2	23	77	16.2 12.9 10.5 20.6 1.5 1.2 1 0.7 	1
+1862	Next.kz	SSD	SSD	Next.kz	2	73	27	1.4 1.5 1.6 1.3 9.8 10.6 10.9 11.2 	1
+1863	Fnatic.eu	TR	Fnatic.eu	TR	1	77	23	1.1 1.2 1.3 1 12 13.1 14 14.9 	1
+1864	Revenge	4FC	4FC	Revenge	2	38	62	7 6.4 5.6 6.4 2.8 2.5 2.3 2.3 	3
+1865	TongFu	Titan	Titan	TongFu	2	20	80	18.8 15 12.6 22.5 1.2 1 0.8 0.6 	3
+1866	Sigma.int	Empire	Sigma.int	Empire	1	68	32	1.7 1.9 2.3 1.6 6.8 8.1 9.5 9.4 	3
+1867	Fnatic.eu	Next.kz	Fnatic.eu	Next.kz	1	82	18	0.8 0.9 1 0.7 15.9 18.1 19.4 19.4 	3
+1868	Na'Vi	FSid3	Na'Vi	FSid3	1	85	15	0.6 0.7 0.8 0.5 19.2 22.6 27 26.7 	1
+1869	FSid3	OsG	FSid3	OsG	1	36	64	6.5 7.8 7.5 6.3 2.1 2 2.4 2.3 	1
+1870	FSid3	TR	TR	FSid3	2	72	28	1.6 1.4 1.4 1.5 11.3 11.5 9.7 9.6 	1
+1871	Relax	OsG	OsG	Relax	2	32	68	9 8.7 7.3 9.1 2.2 1.8 1.7 1.6 	1
+1872	rox.KIS	Liquid	Liquid	rox.KIS	2	54	46	3.4 3.3 3.4 3.2 4.7 4.8 4.6 4.7 	3
+1873	PBS	Revenge	PBS	Revenge	1	43	57	4.5 6.3 6.6 3.5 2.4 2.5 3.5 4.2 	3
+1874	Revenge	THD	Revenge	THD	1	74	26	1.2 1.4 1.6 1 9.6 10.9 13 14.2 	3
+1875	iG	TongFu	TongFu	iG	2	31	69	9.6 9 8.1 9.3 1.9 1.7 1.6 1.6 	3
+1876	GB	SMM	SMM	GB	2	33	67	8.9 8.2 7.2 2.2 1.9 1.8 	3
+1877	FD	Idol	FD	Idol	1	71	29	1.5 1.6 1.7 1.3 9.1 10.1 10.4 11.5 	3
+1878	Invasion	XctN	Invasion	XctN	1	24	76	14.1 11.6 10.4 13.9 1.5 1.4 1.1 1.1 	3
+1879	Orange	VLG	VLG	Orange	2	19	81	18.9 17 14.9 23.2 1 0.9 0.8 0.6 	3
+1880	VG	Alliance	Alliance	VG	2	63	37	2.4 2.1 2.2 2.4 7.1 7.4 6.6 6.2 	3
+1881	LGD.cn	Fnatic.eu	LGD.cn	Fnatic.eu	1	58	42	2.3 3.3 3.8 1.9 4.2 4.7 6.9 7.8 	3
+1882	Swage	TC!	Swage	TC!	1	54	46	3.1 3.7 3.9 2.7 4.1 4.2 5.1 5.4 	3
+1883	iG	DK	iG	DK	1	33	67	8.4 8.4 7.5 9.7 2.1 1.9 1.9 1.5 	3
+1885	Mski	Duskbin	Duskbin	Mski	2	23	77	12.8 14.7 12.9 13.9 1.2 1.1 1.2 1.1 	1
+1886	Invasion	nAra	Invasion	nAra	1	75	25	1.3 1.3 1.4 1 11.3 12.2 12.2 14.3 	3
+1887	Lowyat	Duskbin	Lowyat	Duskbin	1	72	28	1.6 1.3 1.4 1.4 11.1 11.6 9.9 10.5 	3
+1888	SMM	NieDalo	NieDalo	SMM	2	44	56	5 5.4 5.1 3.1 2.9 3.2 	3
+1889	Fnatic.eu	Alliance	Alliance	Fnatic.eu	2	79	21	0.9 1.2 1.3 0.7 11.8 13.1 17.2 21.6 	3
+1890	LGD.cn	VG	VG	LGD.cn	2	60	40	2.4 2.7 2.9 2 5.5 5.9 6.5 7.5 	3
+1891	Lowyat	Invasion	Invasion	Lowyat	2	53	47	3.5 3.4 3.5 3 4.5 4.6 4.6 4.9 	3
+1892	nAra	Duskbin	nAra	Duskbin	1	34	66	8.5 7.8 6.8 8.4 2.3 2 1.8 1.8 	3
+1893	Mski	Traitor	Mski	Traitor	1	78	22	0.9 1.2 1.4 0.7 11.5 13.5 16.9 19.5 	1
+1894	Spirit	Orange	Spirit	Orange	1	25	75	11.3 12.5 11.5 16.3 1.4 1.2 1.4 0.9 	1
+1895	Fnatic.eu	VG	Fnatic.eu	VG	1	41	59	7.5 4.6 3.9 8.7 4 3.4 2.1 1.7 	3
+1896	XctN	Lowyat	Lowyat	XctN	2	58	42	2.9 2.7 2.9 2.7 5.5 5.9 5.4 5.4 	1
+1897	Idol	MiTH	MiTH	Idol	2	60	40	2.7 2.6 2.8 2.7 5.7 6 5.9 5.5 	1
+1898	Titan	Mastery	Titan	Mastery	1	76	24	0.9 1.3 1.7 0.8 9.3 11.6 16.9 17.6 	3
+1899	LGD.cn	Fnatic.eu	LGD.cn	Fnatic.eu	1	64	36	2 2.5 2.6 2 6.1 6.2 7.9 7.4 	5
+1900	PBS	TOP5	TOP5	PBS	2	37	63	7.2 6.6 6 8.7 2.6 2.4 2.2 1.7 	3
+1902	Idol	XctN	XctN	Idol	2	53	47	3.4 3.4 3.8 3.2 4.1 4.6 4.7 4.7 	1
+1903	Titan	Orange	Titan	Orange	1	69	31	1.4 2 2.4 1.3 6.7 8 10.8 11.1 	3
+1904	Mastery	VLG	Mastery	VLG	1	37	63	7.2 6.5 6.3 7.5 2.5 2.4 2.2 2 	3
+1905	Swage	Revenge	Revenge	Swage	2	64	36	2.1 2.3 2.6 1.6 6 6.7 7.6 8.9 	3
+1906	5inQ	DDR	DDR	5inQ	2	27	73	14.2 9.2 7.8 16.2 2 1.7 1.1 0.9 	3
+1907	EOT	ABird	EOT	ABird	1	58	42	2.6 2.9 3.3 2.3 4.8 5.4 6.1 6.6 	3
+1908	Sigma.int	Fnatic.eu	Fnatic.eu	Sigma.int	2	57	43	3.2 2.9 2.8 3.7 5.6 5.4 4.9 4 	3
+1909	Mski	Idol	Mski	Idol	1	57	43	2.7 3.1 3.6 2.7 4.4 5 5.8 5.5 	1
+1910	FD	Invasion	FD	Invasion	1	69	31	1.6 1.9 2.2 1.5 7.2 8.5 9.9 9.8 	3
+1911	Titan	Lowyat	Titan	Lowyat	1	78	22	1 1.1 1.3 1 12.2 14.1 15.7 15.3 	3
+1912	Orange	nAra	nAra	Orange	2	34	66	7.7 8 7.8 6.7 2 2 2.1 2.2 	3
+1913	rox.KIS	Relax	rox.KIS	Relax	1	74	26	1.3 1.4 1.6 1.3 9.9 11.4 12 11.4 	1
+1914	rox.KIS	TR	TR	rox.KIS	2	32	68	8.8 8.8 7.9 10.8 2 1.8 1.8 1.4 	1
+1916	rox.KIS	PBS	PBS	rox.KIS	2	26	74	11.7 11.5 10.6 10.2 1.5 1.4 1.3 1.4 	3
+1917	Orange	Invasion	Invasion	Orange	2	31	69	7.8 9.8 9.5 9.4 1.7 1.6 2 1.6 	3
+1918	Orange	Lowyat	Lowyat	Orange	2	33	67	7.7 8.4 8.1 8.8 1.9 1.9 2.1 1.7 	3
+1920	Mski	FD	FD	Mski	2	65	35	1.9 2.4 2.6 1.9 6 6.5 8.3 7.9 	5
+1921	VP	Next.kz	Next.kz	VP	2	38	62	6.3 6.5 6.8 5.8 2.3 2.4 2.5 2.6 	1
+1922	VP	PR	PR	VP	2	54	46	3.2 3.3 3.6 3.1 4.4 4.8 4.9 4.8 	1
+1923	VP	mouz	mouz	VP	2	29	71	10.3 9.4 8.6 9.7 1.8 1.7 1.5 1.5 	1
+1924	Sigma.int	rox.KIS	Sigma.int	rox.KIS	1	65	35	1.9 2.3 2.7 1.7 5.9 6.9 8.2 8.8 	5
+1925	PR	mouz	mouz	PR	2	29	71	9.3 10 11 8.8 1.4 1.6 1.7 1.7 	1
+1926	PR	Next.kz	Next.kz	PR	2	38	62	6.1 7.4 7.3 4.5 2.2 2.1 2.6 3.3 	1
+1927	Titan	Orange	Titan	Orange	1	73	27	1.2 1.6 1.8 1.2 8.7 10 12.7 12.7 	5
+1928	Zephyr	All.In.	All.In.	Zephyr	2	26	74	14.9 10.5 8.9 17.4 1.8 1.5 1 0.8 	3
+1929	MVP	EOT.Drill	EOT.Drill	MVP	2	27	73	12.3 10.7 8.9 11.4 1.8 1.5 1.3 1.3 	3
+1930	Alliance	Speed	Alliance	Speed	1	64	36	2.3 2.1 2.1 2.4 7.4 7.7 6.9 6.1 	5
+1931	Swage	PBS	PBS	Swage	2	65	35	2 2.1 2.4 1.5 6.6 7.3 8 9.5 	5
+1932	Empire	rox.KIS	rox.KIS	Empire	2	50	50	3.9 4.1 4.2 4.1 3.8 3.9 4 3.6 	1
+1933	Alliance	Fnatic.eu	Fnatic.eu	Alliance	2	36	64	7.1 7.1 6.5 6.9 2.4 2.2 2.2 2.1 	3
+1934	Sigma.int	Na'Vi	Na'Vi	Sigma.int	2	73	27	1.4 1.4 1.5 1.7 10.6 11.4 11 8.7 	3
+1935	EOT.Ham.	5inQ	5inQ	EOT.Ham.	2	74	26	1 1.6 1.9 0.8 8.1 10 15.5 17.4 	5
+1936	Alliance	Sigma.int	Alliance	Sigma.int	1	69	31	1.7 1.8 2 1.7 7.9 8.6 9.4 8.7 	3
+1937	Na'Vi	Fnatic.eu	Fnatic.eu	Na'Vi	2	33	67	8.5 8 7.1 8.6 2.2 2 1.8 1.7 	3
+1938	DK	iG	iG	DK	2	40	60	6.4 5.9 5.5 6.2 2.9 2.7 2.5 2.4 	5
+1939	Na'Vi	Sigma.int	Na'Vi	Sigma.int	1	70	30	1.5 1.7 1.9 1.4 8.3 9.3 10.5 10.4 	3
+1940	Na'Vi	Alliance	Alliance	Na'Vi	2	54	46	3.1 3.6 3.7 2.5 4.3 4.3 5.2 6 	5
+1941	Zephyr	MVP	Zephyr	MVP	1	66	34	1.6 2.1 2.6 1.2 6.1 7.5 9.8 11.8 	5
+1942	VP	rox.KIS	rox.KIS	VP	2	44	56	4.7 5.3 5.4 4.1 2.9 2.9 3.4 3.6 	3
+1943	PR	TR	PR	TR	1	66	34	2.1 1.9 1.9 2.2 8.1 8.3 7.6 6.7 	3
+1944	VP	PR	VP	PR	1	68	32	1.8 1.9 2.1 1.5 7.6 8.1 8.9 9.5 	3
+1945	rox.KIS	TR	rox.KIS	TR	1	78	22	0.9 1.1 1.3 0.8 11.6 14.2 17 19.2 	3
+1946	PR	rox.KIS	rox.KIS	PR	2	63	37	2.4 2.2 2.4 2.7 6.6 7.1 6.6 5.5 	3
+1947	Relax	Next.kz	Next.kz	Relax	2	63	37	2.2 2.3 2.6 2.4 6.1 6.9 7 6.2 	3
+1948	Empire	FSid3	FSid3	Empire	2	23	77	15.4 13.9 10.8 15 1.4 1.1 1 1 	3
+1949	EOT.Ham.	Zephyr	Zephyr	EOT.Ham.	2	71	29	1.4 1.7 2 1.3 8 9.3 10.9 11.5 	5
+1951	Empire	Relax	Empire	Relax	1	77	23	1 1.2 1.5 0.8 10.7 12.8 15.3 17.9 	3
+1953	Fnatic.eu	sQreen	Fnatic.eu	sQreen	1	78	22	1.1 1 1.2 1 12.7 14.9 14.1 15.3 	1
+1954	Empire	Fureur	Fureur	Empire	2	20	80	18.1 15.9 12.9 20.6 1.2 1 0.9 0.7 	1
+1955	Life	Courage	Life	Courage	1	60	40	2.1 2.8 3.5 1.7 4.5 5.6 7.3 8.4 	1
+1956	rox.KIS	hehe	hehe	rox.KIS	2	28	72	10.1 11.2 10.1 9.9 1.5 1.4 1.6 1.5 	1
+1960	Empire	PR	PR	Empire	2	32	68	9.2 8.6 7.3 8.9 2.2 1.8 1.7 1.6 	1
+1961	Fnatic.eu	ZR	Fnatic.eu	ZR	1	83	17	0.7 0.8 0.9 0.6 16.7 20.3 21.9 22.2 	1
+1962	Fnatic.eu	Empire	Fnatic.eu	Empire	1	63	37	2.3 2.3 2.4 2.4 6.6 7 6.8 6.2 	1
+1963	Life	rox.KIS	Life	rox.KIS	1	31	69	8.5 9.4 9.6 6.9 1.6 1.7 1.8 2.1 	1
+1964	Fnatic.eu	Life	Fnatic.eu	Life	1	78	22	1 1.1 1.4 0.8 11.4 14.2 16.2 17.2 	3
+1965	Relax	FSid3	Relax	FSid3	1	69	31	1.7 1.7 2 1.6 8 9 9.3 9.4 	3
+1966	Speed	Empire	Empire	Speed	2	44	56	5.7 4.8 4.3 4.6 3.7 3.3 2.8 3.2 	2
+1967	Liquid	SADBOYS	SADBOYS	Liquid	2	25	75	11.2 13.6 12.4 6 1.3 1.1 1.4 2.5 	2
+1968	Denial	druckw	druckw	Denial	2	39	61	6.9 6.1 5.5 6.2 2.9 2.6 2.3 2.4 	1
+1969	hehe	rOtK	rOtK	hehe	2	45	55	5.4 4.7 4.3 6.4 3.7 3.4 2.9 2.3 	1
+1970	hehe	Denial	hehe	Denial	1	65	35	2.2 2.1 2.1 1.9 7.3 7.6 7.2 7.9 	3
+1971	Relax	VP	VP	Relax	2	77	23	1.1 1.2 1.4 0.7 10.8 12.8 14.7 20.3 	3
+1972	PR	Empire	PR	Empire	1	28	72	11.5 10 8.5 15.5 1.9 1.6 1.4 0.9 	3
+1973	Sigma.int	rox.KIS	Sigma.int	rox.KIS	1	76	24	1 1.2 1.6 0.8 10 12.6 15.3 18 	2
+1974	bvd.dotA	eN.Legs	bvd.dotA	eN.Legs	1	45	55	4.6 5.2 4.9 3.3 3.2 3 3.4 4.6 	3
+1975	Fnatic.eu	hehe	Fnatic.eu	hehe	1	85	15	0.5 0.7 0.8 0.4 19.5 23.5 27.6 32 	2
+1976	Relax	PR	Relax	PR	1	42	58	6.1 5.2 4.8 7 3.3 3 2.6 2.1 	3
+1977	Empire	VP	VP	Empire	2	55	45	3.2 3.2 3.5 3.1 4.5 4.9 4.9 4.7 	3
+1978	eHug	TOP5	eHug	TOP5	1	60	40	2.2 2.9 3.4 1.5 4.6 5.4 7.2 9.6 	2
+1979	Empire	PR	PR	Empire	2	40	60	7 5.7 5 8.9 3.1 2.8 2.3 1.7 	3
+1980	Empire	Relax	Relax	Empire	2	49	51	4.6 3.7 3.5 5.7 4.5 4.2 3.4 2.6 	3
+1981	Liquid	THD	THD	Liquid	2	23	77	16.3 13.1 10.2 19.6 1.5 1.2 0.9 0.7 	2
+1982	Speed	eHug	Speed	eHug	1	80	20	0.9 1 1.2 0.9 12.7 15.8 17.7 16 	1
+1983	SADBOYS	rox.KIS	rox.KIS	SADBOYS	2	66	34	2.2 1.8 1.8 3.1 8.6 8.6 7.1 4.8 	1
+1984	Empire	hehe	Empire	hehe	1	81	19	0.8 0.9 1 0.8 14.8 17.4 18.6 18 	1
+1985	SADBOYS	Speed	SADBOYS	Speed	1	27	73	11.7 9.8 8.7 10.3 1.8 1.6 1.3 1.4 	3
+1986	eHug	rox.KIS	rox.KIS	eHug	2	60	40	2.6 2.6 2.7 3.2 5.9 6.1 6.1 4.6 	1
+1987	Empire	Sigma.int	Empire	Sigma.int	1	37	63	7.8 6.3 5.5 8 2.9 2.5 2 1.8 	1
+1988	Liquid	Fnatic.eu	Liquid	Fnatic.eu	1	36	64	7.1 7.5 6.6 6.6 2.4 2.1 2.2 2.2 	1
+1991	PR	DUZA	DUZA	PR	2	34	66	8 7.6 7.2 9 2.2 2.1 2 1.6 	2
+1992	Speed	VC	VC	Speed	2	22	78	18.1 14.1 11 22.5 1.4 1.1 0.9 0.6 	1
+1993	Liquid	Empire	Empire	Liquid	2	45	55	5.1 4.6 4.2 5.3 3.7 3.4 3.1 2.8 	3
+1994	Fnatic.eu	Sigma.int	Sigma.int	Fnatic.eu	2	51	49	3.5 3.9 4.1 3 3.9 4 4.5 4.9 	1
+1995	SADBOYS	eHug	eHug	SADBOYS	2	31	69	10.5 7.9 6.4 13.2 2.5 2 1.5 1.1 	2
+1996	TR	Next.kz	Next.kz	TR	2	66	34	2 2.1 2.3 1.7 6.9 7.5 8 8.6 	2
+2000	UG	TOP5	UG	TOP5	1	44	56	5.3 5.1 4.9 5.4 3.2 3.1 3 2.8 	2
+2001	Speed	eHug	eHug	Speed	2	23	77	17 11.8 10.4 21.5 1.5 1.3 0.9 0.7 	3
+2002	Swage	Revenge	Swage	Revenge	1	61	39	2.1 2.9 3.1 1.6 5.1 5.4 7.3 9.1 	2
+2003	Empire	Fnatic.eu	Empire	Fnatic.eu	1	36	64	8.2 6.2 5.4 8.5 2.9 2.5 1.9 1.7 	3
+2004	Empire	Speed	Empire	Speed	1	57	43	3.1 2.9 2.9 3.4 5.4 5.5 5.1 4.4 	3
+2005	5inQ	MVP	5inQ	MVP	1	64	36	1.9 2.6 2.9 1.5 5.4 6.1 8.4 10 	5
+2006	Empire	Speed	Empire	Speed	1	47	53	4.9 4.1 4 6 4 3.8 3.2 2.5 	3
+2008	SADBOYS	Liquid	Liquid	SADBOYS	2	64	36	2.1 2.2 2.2 2 7.1 7.1 7.3 7.6 	3
+2009	Fnatic.eu	rox.KIS	Fnatic.eu	rox.KIS	1	72	28	1.4 1.5 1.7 1.3 9.1 10.1 10.9 11.3 	1
+2010	Na'Vi	VP	Na'Vi	VP	1	71	29	1.7 1.5 1.6 1.6 9.5 10.5 9.5 9 	1
+2011	PR	VP	VP	PR	2	56	44	2.8 3.3 3.5 2.1 4.5 4.7 5.6 7.1 	1
+2013	Empire	Liquid	Liquid	Empire	2	37	63	6.7 7 6.8 6.4 2.3 2.3 2.3 2.3 	3
+2014	Speed	eHug	Speed	eHug	1	78	22	1 1.2 1.3 0.9 11.7 13.5 15 15.7 	1
+2015	Speed	PssT	PssT	Speed	2	19	81	19.5 16.5 12.9 22 1.2 0.9 0.8 0.7 	1
+2016	Revenge	PssT	Revenge	PssT	1	68	32	1.8 1.9 2 2.1 7.8 8.4 8.7 7 	1
+2018	Fnatic.eu	Na'Vi	Na'Vi	Fnatic.eu	2	69	31	1.8 1.6 1.8 1.8 8.8 9.5 8.9 8 	1
+2019	Na'Vi	PR	PR	Na'Vi	2	27	73	11.1 10.8 10.1 12.3 1.6 1.4 1.4 1.2 	1
+2020	PR	Next.kz	Next.kz	PR	2	32	68	8.6 8.4 7.8 9.2 2 1.9 1.8 1.6 	1
+2022	Liquid	Denial	Liquid	Denial	1	82	18	0.8 0.9 1 0.6 14.9 17.2 20.4 22.6 	1
+2023	SADBOYS	Denial	Denial	SADBOYS	2	18	82	23.1 17.1 13.9 28.7 1.1 0.9 0.7 0.5 	1
+2024	SADBOYS	Revenge	SADBOYS	Revenge	1	77	23	1 1.4 1.5 0.7 10.5 11.6 16.1 19.3 	1
+2025	D4D	Rest	D4D	Rest	1	58	42	2.6 3.1 3.2 2.3 4.9 5.1 6 6.5 	1
+2026	Execration	Pacific.2	Pacific.2	Execration	2	36	64	8 6.8 6.1 8.4 2.6 2.3 2 1.7 	1
+2028	Next.kz	rox.KIS	rox.KIS	Next.kz	2	66	34	1.9 2.1 2.2 1.6 7 7.6 8.4 9.2 	1
+2029	Empire	rox.KIS	Empire	rox.KIS	1	79	21	0.9 1.1 1.3 0.7 11.8 13.8 16.7 21.5 	1
+2030	Empire	Sigma.int	Sigma.int	Empire	2	47	53	4.5 4.6 4.5 3.8 3.5 3.4 3.5 3.9 	1
+2031	Sigma.int	Fnatic.eu	Fnatic.eu	Sigma.int	2	62	38	2.5 2.4 2.4 2.3 6.6 6.5 6.4 6.3 	1
+2032	Liquid	eHug	eHug	Liquid	2	20	80	17.7 16.2 14.4 19.4 1.1 1 0.9 0.7 	1
+2033	eHug	Swage	Swage	eHug	2	62	38	2.4 2.3 2.4 2.6 6.6 6.7 6.5 5.8 	1
+2034	Denial	Swage	Denial	Swage	1	28	72	10.5 10.3 9.9 10.4 1.6 1.5 1.5 1.4 	1
+2035	SADBOYS	PssT	SADBOYS	PssT	1	82	18	0.7 1 1.1 0.6 14.4 16.1 20.6 23.3 	1
+2036	Zephyr	5inQ	5inQ	Zephyr	2	45	55	5.2 4.8 4.5 5.7 3.5 3.3 3 2.6 	5
+2038	SADBOYS	Empire	SADBOYS	Empire	1	51	49	3.6 4.1 4.2 3.3 3.7 3.9 4.3 4.5 	5
+2039	Speed	Fnatic.eu	Fnatic.eu	Speed	2	62	38	2.5 2.5 2.4 2.7 6.5 6.4 6.4 5.4 	5
+2043	Liquid	PR	Liquid	PR	1	65	35	1.8 2.5 2.6 1.3 6.1 6.3 8.5 11 	3
+2044	Arrow	InZ	Arrow	InZ	1	65	35	1.8 2.3 2.8 1.4 5.7 6.8 8.8 10.7 	1
+2046	Empire	Sigma.int	Sigma.int	Empire	2	47	53	4.5 4.5 4.4 4 3.6 3.5 3.5 3.7 	2
+2047	Empire	VP	Empire	VP	1	70	30	1.5 1.7 2 1.3 7.8 9.1 10.2 11.5 	2
+2048	Arrow	Ledion	Arrow	Ledion	1	71	29	1.4 1.7 2.1 1 7.4 9 11 14.3 	5
+2049	GL	InTrust	GL	InTrust	1	67	33	1.7 2.1 2.3 1.6 6.9 7.6 9.2 9 	1
+2051	Nullis	BB	BB	Nullis	2	34	66	7.9 7.5 6.9 8.2 2.3 2.1 2 1.8 	1
+2052	Nullis	Denial	Nullis	Denial	1	32	68	9.3 7.8 7.1 8.9 2.2 2 1.7 1.7 	3
+2053	SADBOYS	THD	SADBOYS	THD	1	84	16	0.6 0.8 1.1 0.4 14.3 18.3 25.6 38.1 	2
+2054	Empire	rox.KIS	rox.KIS	Empire	2	24	76	15.1 11.6 9.9 20.6 1.6 1.3 1 0.7 	3
+2055	Na'Vi	VP	Na'Vi	VP	1	80	20	0.9 1 1.2 0.7 13.4 15.9 17.7 20 	3
+2056	bvd.dotA	LiB	LiB	bvd.dotA	2	30	70	10.3 9.3 7.6 15 2.1 1.7 1.5 1 	3
+2057	Aura	Rest	Rest	Aura	2	37	63	7.2 6.7 5.9 8 2.6 2.4 2.2 1.8 	1
+2058	Cloud9	hehe	Cloud9	hehe	1	83	17	0.6 0.9 1.3 0.4 12.3 17 23.8 35.2 	2
+2059	Empire	Next.kz	Next.kz	Empire	2	19	81	18 15.9 14.3 22.9 1.1 1 0.9 0.6 	1
+2060	Fnatic.eu	Empire	Empire	Fnatic.eu	2	52	48	3.5 3.8 3.9 3.3 4 4.2 4.6 4.4 	1
+2061	rox.KIS	Sigma.int	Sigma.int	rox.KIS	2	79	21	1 1.1 1.2 0.9 13.1 14.7 15.6 16.9 	1
+2062	PR	Sigma.int	PR	Sigma.int	1	38	62	6.5 6.5 6.2 5.9 2.5 2.4 2.4 2.5 	1
+2064	Cloud9	Revenge	Revenge	Cloud9	2	23	77	15.3 12.6 10.5 19.3 1.5 1.2 1 0.7 	1
+2066	Alliance	Sigma.int	Sigma.int	Alliance	2	24	76	12.7 13.5 11.8 15.6 1.3 1.2 1.2 0.9 	3
+2067	Na'Vi	Next.kz	Next.kz	Na'Vi	2	19	81	18.2 17.7 16 19.7 1 0.9 0.8 0.7 	1
+2068	Fnatic.eu	Next.kz	Fnatic.eu	Next.kz	1	79	21	1 1 1.1 0.9 14.5 16.1 15.5 16.4 	1
+2069	VP	Fnatic.eu	VP	Fnatic.eu	1	39	61	6.1 6.3 5.8 6 2.7 2.5 2.6 2.5 	1
+2070	rox.KIS	VP	rox.KIS	VP	1	34	66	8.7 7.1 6.5 9.7 2.4 2.2 1.8 1.5 	1
+2071	Cloud9	Liquid	Cloud9	Liquid	1	60	40	2.3 3.1 3.4 2.1 4.6 5 6.8 7.2 	1
+2072	About	PssT	About	PssT	1	35	65	7.3 7.4 7.1 7.7 2.2 2.1 2.2 1.9 	3
+2073	4FC	Ascend	4FC	Ascend	1	66	34	2.1 1.8 2.1 1.5 7.5 8.9 7.4 9.6 	3
+2074	vhoul	TR	vhoul	TR	1	31	69	8.6 10.4 9.7 6.9 1.6 1.5 1.8 2.2 	3
+2075	Liquid	Cloud9	Liquid	Cloud9	1	34	66	8.6 7.2 6 9.1 2.6 2.2 1.8 1.6 	3
+2076	Courage	MYM	Courage	MYM	1	22	78	16.9 12.8 10.8 22.1 1.4 1.2 0.9 0.6 	3
+2078	Empire	VP	Empire	VP	1	62	38	2.3 2.5 2.6 2 6 6.3 6.7 7.2 	1
+2079	Empire	PR	PR	Empire	2	31	69	10 8.5 7.5 10.9 2.1 1.9 1.6 1.3 	1
+2080	rox.KIS	Na'Vi	rox.KIS	Na'Vi	1	20	80	15.2 16.3 15.9 13.3 1 1 1 1.1 	1
+2082	rox.KIS	Insane	Insane	rox.KIS	2	22	78	15.4 13.4 11.6 17.3 1.3 1.2 1 0.8 	3
+2083	PR	ZR	ZR	PR	2	20	80	17 16.2 14.3 16.9 1.1 1 0.9 0.9 	3
+2084	hehe	Cleave	Cleave	hehe	2	54	46	3.4 3.3 3.5 4.4 4.5 4.8 4.6 3.4 	3
+2085	Next.kz	sQreen	Next.kz	sQreen	1	53	47	3.9 3.1 3 4.7 5.2 5 4.1 3.2 	3
+2086	PssT	Denial	PssT	Denial	1	35	65	7.8 7.3 5.8 8.6 2.7 2.1 2 1.7 	1
+2087	Liquid	PssT	Liquid	PssT	1	77	23	1.1 1.3 1.4 0.9 10.9 12.2 14.6 15.7 	1
+2088	SADBOYS	Liquid	SADBOYS	Liquid	1	58	42	2.6 3.1 3.7 2.4 4.2 5.1 6.1 6.2 	1
+2089	SADBOYS	eHug	eHug	SADBOYS	2	21	79	17.6 13.6 10.4 22.9 1.5 1.1 0.9 0.6 	1
+2091	Zephyr	EOT.Ham.	EOT.Ham.	Zephyr	2	42	58	5.7 5.4 5.1 6.1 3.1 2.9 2.8 2.4 	5
+2092	Empire	Fnatic.eu	Fnatic.eu	Empire	2	52	48	3.7 3.6 3.6 3.8 4.3 4.4 4.3 3.9 	3
+2093	rox.KIS	Next.kz	rox.KIS	Next.kz	1	69	31	1.6 1.8 1.9 1.2 8.1 8.7 9.6 11.8 	2
+2094	Insane	sQreen	sQreen	Insane	2	65	35	2 2.3 2.5 1.9 6.2 7 7.8 7.8 	1
+2095	Titan	Execration	Titan	Execration	1	75	25	1.1 1.4 1.7 0.6 9.2 10.9 14.2 22.6 	2
+2096	neXt!	TR	neXt!	TR	1	42	58	5.3 5.8 5.4 4.4 2.9 2.7 3 3.4 	1
+2097	rox.KIS	Next.kz	rox.KIS	Next.kz	1	75	25	1.1 1.4 1.6 0.8 9.9 11.5 13.8 17.7 	3
+2098	Zephyr	BirdGang	BirdGang	Zephyr	2	23	77	14.5 14.2 11.5 13.9 1.4 1.1 1.1 1 	3
+2099	rox.KIS	Relax	Relax	rox.KIS	2	33	67	7.9 8.1 8.1 7.5 1.9 1.9 2 2 	3
+2100	PR	hehe	PR	hehe	1	75	25	1.2 1.4 1.5 1.2 10.2 11.3 12.8 12.3 	3
+2101	ZR	Cleave	ZR	Cleave	1	57	43	2.8 3.1 3.6 2.1 4.4 5.1 5.6 7.2 	1
+2102	MYM	Ascend	Ascend	MYM	2	30	70	9.6 9 8.4 10.5 1.9 1.7 1.6 1.4 	1
+2103	JnRun	DDD	DDD		2	54		3.3 3.3 3.2 4.1 4.9 4.8 4.7 3.6 	1
+2104	Arrow	Orange	Arrow	Orange	1	33	67	7.8 9 8.9 7.9 1.8 1.7 2 1.9 	3
+2105	Mongolz	POTHG	Mongolz	POTHG	1	55	45	2.9 3.5 3.6 2.5 4.3 4.5 5.3 5.9 	3
+2106	Panthers	BCP	Panthers	BCP	1	59	41	2.9 2.5 2.7 3.1 5.8 6.3 5.4 4.7 	3
+2112	DUZA	TR	TR	DUZA	2	39	61	6.2 6 6.1 6.2 2.6 2.6 2.5 2.4 	1
+2113	TCN	eu4ia	TCN	eu4ia	1	72	28	1.4 1.6 2 1.1 8 9.7 11.3 13.3 	5
+2114	VP	PR	PR	VP	2	42	58	5.8 5.2 4.9 6.9 3.2 3 2.7 2.1 	3
+2115	Mongolz	Panthers	Panthers	Mongolz	2	62	38	2.5 2.3 2.5 2.6 6.4 6.8 6.4 5.6 	3
+2117	Titan	Mski	Titan	Mski	1	67	33	1.7 2.1 2.5 1.5 6.3 7.4 9 9.8 	2
+2119	Empire	Puck	Empire	Puck	1	84	16	0.6 0.7 0.9 0.5 17.2 20.5 25 30.2 	1
+2121	Relax	vhoul	Relax	vhoul	1	77	23	1.1 1.1 1.3 1.1 12.4 13.6 13.6 13.1 	3
+2122	4FC	Courage	4FC	Courage	1	55	45	3.3 3.3 3.2 2.9 4.9 4.8 4.8 5.1 	3
+2123	rox.KIS	S&C	rox.KIS	S&C	1	81	19	0.8 0.9 1.1 0.7 14 16.6 18.7 19.7 	1
+2124	neXt!	Next.kz	Next.kz	neXt!	2	63	37	2.4 2.3 2.2 2.4 7.2 6.9 6.4 6.3 	1
+2126	ZR	Courage	ZR	Courage	1	63	37	2.3 2.2 2.3 2.1 7 7.1 6.8 7.1 	1
+2128	Alliance	Fnatic.eu	Alliance	Fnatic.eu	1	70	30	1.8 1.6 1.7 1.6 9.2 9.6 8.9 9.1 	3
+2129	vhoul	Insane	vhoul	Insane	1	63	37	2.2 2.5 2.7 1.8 5.8 6.2 7.2 8.3 	1
+2131	Titan	Spirit	Spirit	Titan	2	18	82	22.7 16.7 14.3 28 1.1 0.9 0.7 0.5 	2
+2132	Fnatic.eu	PR	Fnatic.eu	PR	1	70	30	1.6 1.7 1.7 1.6 9 9.4 9.6 9.3 	1
+2133	Next.kz	VP	Next.kz	VP	1	20	80	16.2 16.3 14.8 20.1 1.1 1 1 0.7 	1
+2135	rox.KIS	PR	PR	rox.KIS	2	35	65	8 7.2 6.3 8 2.5 2.2 2 1.9 	1
+2136	Swage	PssT	Swage	PssT	1	69	31	1.8 1.7 1.9 1.8 8.1 9 8.8 8.1 	1
+2137	Revenge	Denial	Revenge	Denial	1	70	30	1.6 1.7 1.8 1.2 8.6 9.1 10 11.8 	1
+2138	Liquid	Revenge	Liquid	Revenge	1	80	20	0.9 1 1.1 0.7 14.4 15.5 17.4 19.6 	1
+2139	eHug	PssT	eHug	PssT	1	70	30	1.6 1.7 1.8 1.5 8.6 9.4 9.9 10.1 	1
+2140	PssT	THD	THD	PssT	2	65	35	2.1 2 2.2 1.9 7.3 8 7.4 7.9 	1
+2141	WWD	Isurus	Isurus	WWD	2	28	72	10.5 10.2 8.8 15.4 1.8 1.5 1.5 0.9 	1
+2142	MVP.P	5inQ	5inQ	MVP.P	2	45	55	4.5 5.6 5.6 3.6 2.8 2.8 3.5 4.1 	3
+2143	MiTH	RRQ	MiTH	RRQ	1	71	29	1.6 1.5 1.5 1.3 10.5 10.4 9.6 11.3 	2
+2146	Fnatic.eu	VP	Fnatic.eu	VP	1	68	32	1.7 1.9 2.1 1.7 7.6 8.3 9 8.9 	2
+2147	Na'Vi	Liquid	Na'Vi	Liquid	1	76	24	1.3 1.1 1.2 1.3 12.9 14.2 12.3 11.4 	3
+2148	PR	rox.KIS	rox.KIS	PR	2	73	27	1.3 1.6 1.9 0.9 8.2 9.8 12 16 	3
+2149	Sigma.int	Next.kz	Sigma.int	Next.kz	1	70	30	1.7 1.6 1.7 1.9 9.2 10.1 9.2 7.9 	1
+2150	VP	Sigma.int	VP	Sigma.int	1	46	54	4.7 4.8 4.5 5.1 3.5 3.3 3.3 2.9 	1
+2151	Insane	Cleave	Cleave	Insane	2	55	45	3.3 3.1 3 4.5 5.3 5.1 4.8 3.3 	1
+2152	Relax	rox.KIS	Relax	rox.KIS	1	29	71	9.8 10.2 9.7 9.7 1.6 1.5 1.6 1.5 	1
+2154	ZR	vhoul	ZR	vhoul	1	42	58	5.6 5.7 5.5 4.9 2.9 2.8 2.8 3 	1
+2155	MYM	hehe	MYM	hehe	1	67	33	2.1 1.7 1.6 1.9 9.7 9.2 7.5 7.9 	1
+2156	Cloud9	Swage	Cloud9	Swage	1	81	19	0.8 1 1.2 0.7 12.5 16 19.9 20.3 	1
+2158	Denial	eHug	Denial	eHug	1	28	72	10.9 9.8 9.3 12 1.7 1.6 1.4 1.2 	1
+2159	SADBOYS	Swage	Swage	SADBOYS	2	18	82	21.6 18 13.8 24.3 1.1 0.9 0.7 0.6 	1
+2160	Dog	Dignotoss	Dignotoss	Dog	2	29	71	10.9 8.8 7.9 16.2 2 1.8 1.4 0.9 	3
+2161	Osiris	UG	Osiris	UG	1	38	62	6.1 7.8 7 3.9 2.2 2 2.6 3.8 	3
+2162	Orange	RRQ	RRQ	Orange	2	21	79	16.4 14.2 12.7 23.9 1.2 1.1 0.9 0.6 	2
+2164	Puck	Cleave	Cleave	Puck	2	62	38	2.5 2.2 2.3 2.5 6.8 7 6.3 6 	1
+2165	TR	rox.KIS	TR	rox.KIS	1	22	78	15.1 14.1 12.6 19.5 1.2 1.1 1 0.7 	1
+2166	DUZA	PR	DUZA	PR	1	37	63	6.6 7.4 7 6.5 2.2 2.1 2.4 2.3 	1
+2167	Scythe	MiTH	Scythe	MiTH	1	63	37	2.1 2.8 3.2 1.7 5 5.7 7.6 8.6 	2
+2168	Dignotoss	PssT	PssT	Dignotoss	2	45	55	5.4 4.4 4.1 6.5 3.8 3.6 2.9 2.3 	1
+2169	WWD	UG	WWD	UG	1	67	33	1.7 2.3 2.7 1.3 5.9 6.9 9.5 11.5 	1
+2170	ZR	rox.KIS	rox.KIS	ZR	2	70	30	1.7 1.6 1.8 1.6 8.9 9.7 9.1 9.1 	1
+2171	Relax	4FC	4FC	Relax	2	31	69	8.7 8.7 8.6 8.3 1.8 1.8 1.8 1.8 	3
+2172	Na'Vi	rox.KIS	Na'Vi	rox.KIS	1	79	21	1 1.1 1.3 0.8 12.1 14.2 16.2 18.4 	3
+2175	Liquid	WWD	WWD	Liquid	2	20	80	17.6 15.2 12.1 21.7 1.3 1 0.9 0.7 	2
+2176	neXt!	MYM	MYM	neXt!	2	61	39	2.4 2.7 2.9 2 5.5 5.8 6.4 7.5 	1
+2177	Dog	Osiris	Osiris	Dog	2	30	70	10.9 8.5 6.6 17.1 2.4 1.8 1.4 0.9 	3
+2178	VP	GB	VP	GB	1	75	25	1.3 1.3 1.4 1.2 11.2 12 12.1 12 	1
+2179	PR	Cleave	PR	Cleave	1	63	37	2.3 2.4 2.6 1.8 6 6.6 6.9 8.1 	1
+2180	Puck	PR	Puck	PR	1	36	64	7.5 6.9 6.1 8.4 2.6 2.3 2.1 1.8 	1
+2181	MiT	Relax	Relax	MiT	2	75	25	1.2 1.3 1.4 1 11.2 12.3 12.6 15.2 	1
+2182	MM	Alphas	MM	Alphas	1	62	38	2.1 2.7 2.9 1.6 5.4 5.9 7.4 9 	3
+2183	4N	Rest	Rest		2	55		3.2 3.2 3.4 3.4 4.7 4.9 4.9 4.3 	3
+2184	Swage	About	Swage	About	1	47	53	4.7 4.6 3.7 5.1 4.3 3.4 3.3 2.9 	5
+2185	Scythe	Spirit	Scythe	Spirit	1	79	21	0.8 1.3 1.7 0.5 9.1 12 19.2 30.5 	3
+2186	RRQ	Execration	RRQ	Execration	1	39	61	6.9 5.7 5 7.8 3.2 2.8 2.3 1.9 	3
+2187	Titan	Oblique	Oblique	Titan	2	16	84	25.6 20.3 16.1 34.4 1 0.8 0.6 0.4 	3
+2188	Everlast	Zephyr	Zephyr	Everlast	2	77	23	1 1.2 1.5 0.9 10.7 12.5 15.6 15.5 	3
+2189	Dignotoss	WWD	Dignotoss	WWD	1	43	57	5.6 4.8 4.6 6 3.5 3.3 2.8 2.5 	3
+2190	VP	YF	YF	VP	2	23	77	13.1 13.9 13 12 1.2 1.1 1.2 1.2 	1
+2191	Orange	MiTH	Orange	MiTH	1	63	37	2.4 2.1 2.1 2.1 7.5 7.6 6.5 6.9 	3
+2192	PR	VP	VP	PR	2	62	38	2.3 2.5 3 2.1 5.2 6.2 6.9 7 	1
+2193	Na'Vi	Cloud9	Cloud9	Na'Vi	2	32	68	8.1 9.1 9.1 6.3 1.7 1.7 1.9 2.3 	3
+2194	Zephyr	MVP.P	Zephyr	MVP.P	1	61	39	2.5 2.7 2.8 2.3 5.6 5.9 6.4 6.4 	3
+2196	Dog	PR	PR	Dog	2	51	49	4.2 3.3 3 5.4 5.3 4.8 3.7 2.8 	3
+2197	Empire	Next.kz	Next.kz	Empire	2	19	81	18.9 16.1 12.2 27.4 1.3 1 0.8 0.5 	2
+2200	Alliance	Liquid	Alliance	Liquid	1	74	26	1.4 1.3 1.2 1.5 12.5 12.4 11 9.6 	3
+2201	eN.Legs	LiB	LiB	eN.Legs	2	36	64	7.3 7.1 7.1 7.6 2.2 2.2 2.2 2 	3
+2202	neXt!	4FC	4FC	neXt!	2	38	62	6.5 6.2 6.9 5.4 2.3 2.5 2.4 2.7 	1
+2203	BIP	DGC	BIP	DGC	1	63	37	2.1 2.6 3 1.7 5.3 6.1 7.4 8.6 	3
+2204	Osiris	Dignotoss	Dignotoss	Osiris	2	70	30	1.7 1.6 1.7 1.6 9 9.6 9.3 9 	3
+2206	Mski	FD	FD	Mski	2	50	50	3.5 4.5 5.1 3 3.1 3.5 4.5 5 	3
+2207	PR	Relax	Relax	PR	2	53	47	3.5 3.5 3.7 3.2 4.3 4.6 4.5 4.6 	3
+2209	DT.NGC	Hearts	DT.NGC	Hearts	1	46	54	4.4 5.3 5.1 4.3 3.1 3 3.6 3.4 	2
+2210	Titan	RRQ	RRQ	Titan	2	18	82	21.5 16.6 13.7 30.6 1.1 0.9 0.7 0.5 	2
+2213	Arrow	Burster	Burster	Arrow	2	18	82	20.7 16.4 12.5 30.1 1.3 0.9 0.7 0.5 	3
+2214	Orange	Garuda8	Orange	Garuda8	1	84	16	0.7 0.8 1 0.5 16.2 19.2 23.1 26.5 	3
+2215	ADN	MiTH	ADN	MiTH	1	30	70	9 9.1 9.7 6.8 1.6 1.7 1.7 2.2 	3
+2216	Alliance	Fnatic.eu	Alliance	Fnatic.eu	1	72	28	1.5 1.5 1.7 1.7 9.3 10.4 10.2 8.8 	3
+2218	VP	Liquid	Liquid	VP	2	69	31	1.7 1.9 2 1.5 7.7 8.2 9.5 9.8 	3
+2219	rox.KIS	PR	PR	rox.KIS	2	57	43	2.9 3 3.1 2.7 5.1 5.2 5.4 5.4 	3
+2223	Sigma.int	rox.KIS	rox.KIS	Sigma.int	2	49	51	4.2 4.2 4 3.8 3.9 3.7 3.8 3.9 	3
+2225	Empire	Na'Vi	Na'Vi	Empire	2	61	39	2.8 2.1 2 3.5 7.7 7.4 5.7 4.2 	1
+2226	Empire	Na'Vi	Empire	Na'Vi	1	30	70	8.6 9.9 9.9 6.4 1.6 1.6 1.8 2.3 	2
+2228	Titan	RRQ	Titan	RRQ	1	86	14	0.6 0.7 0.8 0.4 19.8 22.6 26.8 34.4 	3
+2229	Scythe	ADN	Scythe	ADN	1	75	25	1.1 1.5 1.7 0.8 9.1 10.3 14.1 19 	3
+2230	Orange	Mski	Orange	Mski	1	63	37	2.4 2.2 2.1 2.2 7.6 7.3 6.6 6.6 	3
+2231	Arrow	Everlast	Arrow	Everlast	1	68	32	1.7 2 2.4 1.7 6.6 7.8 9 8.5 	3
+2232	Relax	ZR	ZR	Relax	2	46	54	4.2 5.2 5.6 3.4 2.8 3 3.7 4.4 	3
+2233	CIS	Hearts	CIS	Hearts	1	60	40	2.6 2.7 3 2.7 5.2 5.8 6.1 5.5 	2
+2234	5inQ	BirdGang	BirdGang	5inQ	2	38	62	6 7.3 7.1 5.5 2.2 2.1 2.6 2.7 	3
+2237	Execration	Oblique	Oblique	Execration	2	29	71	10.1 9.7 9 12.8 1.7 1.6 1.6 1.1 	1
+2238	FD	Garuda8	FD	Garuda8	1	71	29	1.6 1.5 1.7 1.5 9.3 10.5 10 10.1 	1
+2239	Orange	Titan	Titan	Orange	2	72	28	1.3 1.7 2 0.8 7.8 9.1 12.1 18 	3
+2240	Spirit	MiTH	Spirit	MiTH	1	33	67	8 7.8 7.8 9.1 2 2 2 1.6 	1
+2241	hehe	Sigma.int	hehe	Sigma.int	1	18	82	21.1 17.3 15 26.6 1 0.9 0.7 0.5 	2
+2242	PR	Na'Vi	PR	Na'Vi	1	26	74	12.3 10.2 9.4 13.5 1.7 1.5 1.3 1.1 	2
+2244	EG	eHug	EG	eHug	1	73	27	1.2 1.6 2 0.9 7.9 10 12.7 16.9 	2
+2245	MYM	Next.kz	Next.kz	MYM	2	43	57	5.5 5.3 4.7 5.9 3.3 3 2.8 2.5 	2
+2246	Execration	Spirit	Execration	Spirit	1	52	48	3.5 3.9 3.9 2.9 4.1 4.1 4.6 5.1 	2
+2247	Cloud9	PR	Cloud9	PR	1	59	41	2.3 3.2 3.7 2 4.2 4.9 6.7 7.4 	3
+2248	DT.NGC	No.8	No.8	DT.NGC	2	33	67	9.1 7.7 6.6 9.7 2.4 2 1.7 1.5 	3
+2249	Titan	NE	NE	Titan	2	23	77	13.8 13.1 11.4 17.1 1.4 1.2 1.1 0.8 	3
+2250	Execration	Everlast	Everlast	Execration	2	55	45	3.2 3.1 3.5 2.8 4.5 5 4.9 5.3 	1
+2251	Zephyr	Burster	Burster	Zephyr	2	26	74	12.2 11.3 9.5 16.9 1.7 1.4 1.3 0.9 	1
+2252	FD	ADN	FD	ADN	1	64	36	2.1 2.3 2.4 1.9 6.5 6.8 7.5 7.8 	1
+2254	Fnatic.eu	Liquid	Liquid	Fnatic.eu	2	43	57	5.4 5.2 5 4.5 3.2 3 2.9 3.3 	3
+2255	rox.KIS	Relax	Relax	rox.KIS	2	39	61	6.3 6.4 6.6 5.9 2.4 2.4 2.5 2.5 	3
+2258	Arrow	Scythe	Scythe	Arrow	2	65	35	1.9 2.3 2.8 1.7 5.7 6.8 8.3 8.5 	3
+2259	VG	NewBee	VG	NewBee	1	63	37	2.2 2.7 2.8 1.8 5.6 5.9 7.2 8 	3
+2260	FL	Hearts	FL	Hearts	1	74	26	1.2 1.5 1.7 1 9.2 10.3 12.7 14.2 	3
+2261	CIS	NewBee	NewBee	CIS	2	80	20	0.8 1.1 1.5 0.6 10.2 13.8 19.2 23.4 	3
+2262	Mski	Spirit	Mski	Spirit	1	66	34	2 2 2.2 1.7 7.1 7.7 7.8 8.6 	1
+2263	Cloud9	Liquid	Liquid	Cloud9	2	38	62	7.2 6.1 5.4 7.8 2.9 2.6 2.2 1.9 	5
+2269	Na'Vi	PR	Na'Vi	PR	1	69	31	1.7 1.8 1.9 1.7 8.1 8.9 9.4 8.9 	3
+2270	RRQ	Mski	Mski	RRQ	2	65	35	2.1 2.2 2.3 2 7 7.3 7.4 7.6 	1
+2271	Titan	FD	Titan	FD	1	68	32	1.9 1.8 1.9 1.8 8.2 8.5 8.2 8 	1
+2272	Arrow	Orange	Orange	Arrow	2	45	55	5.3 4.3 4 6.5 4 3.6 3 2.3 	3
+2273	VG	DT.NGC	DT.NGC	VG	2	18	82	21.1 17 13.4 24.6 1.2 0.9 0.7 0.6 	3
+2274	LGD.cn	Titan	LGD.cn	Titan	1	69	31	1.5 1.9 2.3 1.3 6.9 8.1 10.2 11.2 	3
+2275	Orange	GameTV	GameTV	Orange	2	15	85	23.1 21.6 22.9 30 0.7 0.7 0.7 0.5 	3
+2277	FD	Spirit	FD	Spirit	1	75	25	1.2 1.3 1.5 0.9 10.2 11.7 12.7 17 	3
+2278	MiTH	Revival	Revival	MiTH	2	22	78	14.7 13.8 11.4 19.5 1.4 1.1 1.1 0.7 	3
+2279	DUZA	Insane	DUZA	Insane	1	72	28	1.4 1.5 1.6 1.3 9.9 10.3 10.8 11.1 	5
+2280	DK	CIS	CIS	DK	2	16	84	24.4 20.6 17 29.4 0.9 0.7 0.6 0.5 	3
+2281	Titan	Scythe	Scythe	Titan	2	37	63	6.2 7.5 7.9 5.4 2 2.1 2.6 2.7 	1
+2282	iG	CNB	iG	CNB	1	85	15	0.6 0.7 0.9 0.5 17.7 22.2 25.6 29.9 	3
+2283	Fnatic.eu	rox.KIS	Fnatic.eu	rox.KIS	1	69	31	1.8 1.7 1.9 1.9 8.4 9 8.8 7.6 	3
+2284	Zephyr	5inQ	Zephyr	5inQ	1	74	26	1.4 1.3 1.4 1.3 10.8 12 11.4 11.6 	3
+2285	Na'Vi	Liquid	Liquid	Na'Vi	2	22	78	13.8 14.4 13 14.2 1.2 1.1 1.1 1 	3
+2286	Cloud9	EG	Cloud9	EG	1	58	42	3 2.7 2.6 3.5 6 5.9 5.3 4.2 	1
+2287	VG	LGD.cn	VG	LGD.cn	1	45	55	4.4 5.6 5.6 3.7 2.8 2.8 3.5 4 	3
+2288	EG	Cloud9	EG	Cloud9	1	30	70	9.1 9.5 9.7 7.8 1.6 1.7 1.7 1.9 	2
+2289	DT.NGC	Titan	DT.NGC	Titan	1	31	69	7.6 10.5 11.5 5.9 1.4 1.5 2.1 2.5 	1
+2290	Orange	Titan	Titan	Orange	2	69	31	1.7 1.9 2 1.4 7.8 8.4 9.2 10.8 	3
+2291	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	61	39	2.6 2.4 2.4 3.1 6.7 6.6 6.1 4.8 	1
+2292	Na'Vi	VP	VP	Na'Vi	2	27	73	10.7 11.3 10.8 10 1.5 1.4 1.5 1.5 	1
+2293	Alliance	Sigma.int	Alliance	Sigma.int	1	78	22	1 1.1 1.3 0.9 12.3 14 15.6 16 	1
+2295	Arrow	nAra	nAra	Arrow	2	22	78	15.9 13.4 11.8 17.8 1.3 1.2 1 0.8 	1
+2296	Revenge	Denial	Denial	Revenge	2	30	70	9 9.7 8.8 9 1.8 1.6 1.7 1.6 	2
+2298	DK	iG	iG	DK	2	33	67	8.3 8.1 7.2 8.7 2.2 1.9 1.9 1.7 	3
+2299	Orange	Arrow	Arrow	Orange	2	69	31	1.7 1.8 2.2 1.4 7.1 8.7 9.4 10.2 	5
+2300	rox.KIS	VP	VP	rox.KIS	2	46	54	4.8 4.5 4.2 5.3 3.8 3.5 3.3 2.8 	1
+2301	Fnatic.eu	Na'Vi	Fnatic.eu	Na'Vi	1	28	72	9.5 10.8 11.1 8.8 1.4 1.4 1.7 1.7 	3
+2302	Alliance	MYM	Alliance	MYM	1	81	19	0.9 0.9 1 0.8 15.4 17.7 16.7 17.4 	1
+2303	Alliance	Dog	Dog	Alliance	2	21	79	14.4 15.8 14.9 11.1 1 1 1.1 1.3 	1
+2304	BirdGang	MVP	BirdGang	MVP	1	40	60	5.7 6.4 6.6 3.8 2.4 2.4 2.8 3.9 	1
+2305	5inQ	Newbie	5inQ	Newbie	1	70	30	1.6 1.9 2 1.2 7.8 8.3 9.9 12 	1
+2306	MVP.P	Out	Out	MVP.P	2	22	78	16.3 11.6 11.1 20.8 1.4 1.3 0.9 0.7 	1
+2307	Fnatic.eu	Next.kz	Fnatic.eu	Next.kz	1	84	16	0.7 0.8 0.8 0.5 18.6 20.4 22.6 29 	2
+2308	MVP.P	BirdGang	BirdGang	MVP.P	2	28	72	11.3 9.3 8.2 14 1.9 1.7 1.4 1 	3
+2309	DT.NGC	iG	DT.NGC	iG	1	18	82	20.7 16.8 14.5 22.6 1.1 0.9 0.7 0.6 	1
+2310	LGD.cn	CIS	LGD.cn	CIS	1	69	31	1.8 1.7 1.9 1.8 8.4 9.5 8.9 8 	1
+2312	Na'Vi	Fnatic.eu	Na'Vi	Fnatic.eu	1	64	36	2.1 2.2 2.4 2.2 6.5 7.2 7.5 6.9 	1
+2313	Alliance	Cleave	Cleave	Alliance	2	15	85	23.4 22.1 19.4 27.2 0.8 0.7 0.7 0.5 	1
+2314	Na'Vi	Courage	Courage	Na'Vi	2	16	84	21.7 21.9 20.2 21.3 0.8 0.7 0.7 0.7 	1
+2315	Alliance	Insane	Alliance	Insane	1	87	13	0.6 0.6 0.7 0.5 22.6 25.2 27.5 26.8 	1
+2316	Fnatic.eu	MYM	MYM	Fnatic.eu	2	26	74	11 11.4 11.1 9.8 1.4 1.4 1.4 1.5 	1
+2317	Cloud9	VP	Cloud9	VP	1	74	26	1.2 1.5 1.7 0.9 9.1 10.6 12.6 15.9 	3
+2321	Liquid	UG	Liquid	UG	1	85	15	0.6 0.8 0.9 0.5 17.7 20.5 24.9 28 	2
+2322	Arrow	MiTH	MiTH	Arrow	2	29	71	9.5 10.2 8.7 9.8 1.8 1.5 1.6 1.5 	2
+2323	Cloud9	Fnatic.eu	Fnatic.eu	Cloud9	2	54	46	3.6 3.2 3 4 5.2 5 4.3 3.7 	1
+2324	DK	VG	VG	DK	2	32	68	8.5 9.1 8.8 7.6 1.8 1.7 1.9 1.9 	3
+2325	MVP	5inQ	MVP	5inQ	1	33	67	8.8 8 6.9 8.8 2.3 2 1.8 1.7 	1
+2326	PR	Fnatic.eu	Fnatic.eu	PR	2	62	38	2.4 2.4 2.4 2.4 6.4 6.4 6.6 6.3 	1
+2327	Empire	Fnatic.eu	Empire	Fnatic.eu	1	63	37	2.1 2.7 2.9 1.7 5.4 5.9 7.6 8.7 	1
+2328	rox.KIS	VP	VP	rox.KIS	2	39	61	6.8 6.1 5.3 7.3 3 2.6 2.3 2 	1
+2329	BirdGang	getouts	BirdGang	getouts	1	74	26	1.2 1.6 1.9 0.9 8.3 10 12.8 16.1 	1
+2330	MkSp	Newbie	Newbie	MkSp	2	42	58	6.1 4.6 4.4 7.1 3.6 3.4 2.6 2.1 	1
+2332	Alliance	Sigma.int	Alliance	Sigma.int	1	83	17	0.7 0.8 0.9 0.6 17.1 18.3 21.2 24.7 	3
+2333	Empire	TR	Empire	TR	1	81	19	0.8 1 1.1 0.6 13.8 16.1 18.9 23.5 	1
+2334	Na'Vi	VP	VP	Na'Vi	2	21	79	15.2 14.4 13.5 15.7 1.2 1.1 1 0.9 	1
+2335	MYM	Insane	Insane	MYM	2	31	69	9.1 8.8 8.4 8.9 1.9 1.8 1.7 1.6 	1
+2336	PR	Relax	Relax	PR	2	28	72	10.6 10.2 8.6 11.6 1.8 1.5 1.5 1.3 	1
+2337	Fnatic.eu	Na'Vi	Na'Vi	Fnatic.eu	2	76	24	1.2 1.3 1.4 1.5 11.1 12.2 13 10.1 	2
+2338	VG	DT.NGC	DT.NGC	VG	2	24	76	13.8 11.3 10.2 16.6 1.5 1.4 1.1 0.9 	3
+2339	VG	iG	VG	iG	1	54	46	3.1 3.6 3.9 2.5 4.1 4.4 5.1 5.9 	3
+2340	EG	eHug	EG	eHug	1	84	16	0.6 0.8 1 0.5 16.1 19.6 23.6 30.4 	3
+2341	Cloud9	Liquid	Cloud9	Liquid	1	70	30	1.5 1.7 2.2 1.3 7.3 9.1 10.7 11.3 	3
+2342	Relax	rox.KIS	rox.KIS	Relax	2	75	25	1.2 1.3 1.5 1 10.4 12.1 12.5 15.2 	1
+2343	rox.KIS	Courage	Courage	rox.KIS	2	22	78	13.8 15.3 13.5 13.1 1.1 1 1.1 1.1 	1
+2344	Courage	Sigma.int	Sigma.int	Courage	2	71	29	1.6 1.5 1.6 1.7 9.6 10.3 9.6 8.8 	1
+2345	rox.KIS	Cleave	rox.KIS	Cleave	1	76	24	1.1 1.3 1.5 1 10.7 12.1 13.6 15.1 	1
+2346	Titan	Gizmo	Gizmo	Titan	2	20	80	18.1 16 13.5 20.3 1.1 1 0.9 0.7 	1
+2347	Empire	PR	PR	Empire	2	24	76	14.2 10.8 10 17.2 1.6 1.5 1.1 0.8 	2

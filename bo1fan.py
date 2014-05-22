@@ -32,8 +32,9 @@ def team_ana(str_list):
             buf+=1
             #if(var[4]==strt[0] or var[3]==strt[0]):
             continue
-        if(var[9]==1):
-            print var[1]
+        if(var[9]!="1\n"):
+            buf+=1
+            continue
         odds=var[8].split()
         if(len(odds)<7):
             lr=float(odds[0])
