@@ -18,6 +18,9 @@ def team_ana():
         #t.strip() for t in data_string.splitlines():
         #var=t
         var=t.split('\t')
+        if var[9]!="1\n":
+            buf+=1
+            continue
         #print var[0],var[1],var[2],var[3],var[4],var[5],var[6],var[7],var[8],var[9]
         odds=var[8].split()
         if(len(odds)<7):
@@ -54,9 +57,9 @@ def team_ana():
             #nc+=int(var[11-idx])
             #print var[0],,bv,bc,nk,nv,nc
         buf+=1
-        team_f=open("allfavor"+".txt",'a')
+        team_f=open("bo1favor"+".txt",'a')
         team_f.write(var[0]+" "+var[1]+" "+str(bk)+" "+str(bv)+" "+str(nk)+" "+str(nv)+'\n')
-    team_draw=np.genfromtxt("./allfavor"+".txt",delimiter=' ',names=['foo','bar','bk','bv','nk','nv'])
+    team_draw=np.genfromtxt("./bo1favor"+".txt",delimiter=' ',names=['foo','bar','bk','bv','nk','nv'])
 #    print(team_draw['bbku'])
 # Create the plot
     plt.plot(team_draw['bk'],label='bk',color='r')
@@ -68,7 +71,7 @@ def team_ana():
                       fancybox=True, shadow=True, ncol=6
             )
 # Save the figure in a separate file
-    plt.savefig("allavor"+".png")
+    plt.savefig("bo1favor"+".png")
 # Draw the plot to the screen
 #    plt.show()
     plt.clf()
