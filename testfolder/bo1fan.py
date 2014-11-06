@@ -9,12 +9,11 @@ bo1win=0
 def team_ana(str_list):
     strt=str_list.split('\n')
     print strt[0]
-    br=0.0
-    bu=0.0
-    bc=0.0
-    nr=0.0
-    nu=0.0
-    nc=0.0
+    bk=0.0
+    bv=0.0
+    nk=0.0
+    nv=0.0
+
     idx=0
     buf=0
     with open("data-good-new") as f:
@@ -37,65 +36,37 @@ def team_ana(str_list):
             continue
         odds=var[8].split()
         if(len(odds)<7):
-            lr=float(odds[0])
-            lu=float(odds[1])
-            lc=float(odds[2])
-            rr=float(odds[5])
-            ru=float(odds[4])
-            rc=float(odds[3])
-        else:
-            lr=float(odds[1])
-            lu=float(odds[2])
-            lc=float(odds[3])
-            rr=float(odds[6])
-            ru=float(odds[5])
-            rc=float(odds[4])
-
-
-        if (var[1]==strt[0] and var[5]=="1"):
-            #br+=int(var[8+idx])
-            #bu+=int(var[9+idx])
-            #bc+=int(intvar[10+idx])
-            br+=lr
-            bu+=lu
-            bc+=lc
-            nr-=4
-            nu-=4
-            nc-=4
-        elif(var[1]==strt[0] and var[5]=="2"):
-            #br+=int(var[13-idx])
-            #bu+=int(var[12-idx])
-            #bc+=int(var[11-idx])
-            br+=rr
-            bu+=ru
-            bc+=rc
-            nr-=4
-            nu-=4
-            nc-=4
-        elif(var[2]==strt[0] and var[5]=="1"):
-            br-=4
-            bu-=4
-            bc-=4
-            nr+=lr
-            nu+=lu
-            nc+=lc
-            #nr+=int(var[8+idx])
-            #nu+=int(var[9+idx])
+            lk=float(odds[0])
+            lv=float(odds[1])
+            rk=float(odds[3])
+            rv=float(odds[2])
+        if (int(var[6])>50 and var[5]=="1"):
+            bk+=4*lk
+            bv+=4*lv
+            nk-=4
+            nv-=4
+        elif (int(var[6])<50 and var[5]=="2"):
+            bk+=4*rk
+            bv+=4*rv
+            nk-=4
+            nv-=4
+        elif (int(var[6])<50 and var[5]=="1"):
+            bk-=4
+            bv-=4
+            nk+=4*lk
+            nv+=4*lv
+            #nk+=int(var[8+idx])
+            #nv+=int(var[9+idx])
             #nc+=int(var[10+idx])
 
-        elif(var[2]==strt[0] and var[5]=="2"):
-            br-=4
-            bu-=4
-            bc-=4
-            nr+=rr
-            nu+=ru
-            nc+=rc
-            #nr+=int(var[13-idx])
-            #nu+=int(var[12-idx])
-            #nc+=int(var[11-idx])
-            #print var[0],br,bu,bc,nr,nu,nc
+        elif (int(var[6])>50 and var[5]=="2"):
+            bk-=4
+            bv-=4
+            nk+=4*rk
+            nv+=4*rv
+
         team_f=open("bo1_"+strt[0],'a')
-        team_f.write(str(buf)+" "+var[0]+" "+str(br)+" "+str(bu)+" "+str(bc)+" "+str(nr)+" "+str(nu)+" "+str(nc)+'\n')
+        team_f.write(var[0]+" "+var[1]+" "+str(bk)+" "+str(bv)+" "+str(nk)+" "+str(nv)+'\n')
         buf+=1
         bo1win+=1
 
@@ -109,21 +80,17 @@ while (team_idx<len(team_list)):
     team_ana(team_list[team_idx])
     team_name=team_list[team_idx].split('\n')
     if bo1win>0:
-        team_draw=np.genfromtxt('./bo1_'+team_name[0],delimiter=' ',names=['foo','bar','br','bu','bc','nr','nu','nc'])
+        team_draw=np.genfromtxt('./bo1_'+team_name[0],delimiter=' ',names=['foo','bar','bk','bv','nk','nv'])
 
-#    print(team_draw['bu'])
 # Create the plot
-        plt.plot(team_draw['br'],label='br',color='r')
-        plt.plot(team_draw['bu'],label='bu',color='g')
-        plt.plot(team_draw['bc'],label='bc',color='b')
-        plt.plot(team_draw['nr'],label='nr',color='r',linestyle="dashed")
-        plt.plot(team_draw['nu'],label='nu',color='g',linestyle="dashed")
-        plt.plot(team_draw['nc'],label='nc',color='b',linestyle="dashed")
+        plt.plot(team_draw['bk'],label='bk',color='r')
+        plt.plot(team_draw['bv'],label='bv',color='g')
+        plt.plot(team_draw['nk'],label='nk',color='r',linestyle="dashed")
+        plt.plot(team_draw['nv'],label='nv',color='g',linestyle="dashed")
         plt.legend(
-            loc='upper center', bbox_to_anchor=(0.5, -0.03),
+                loc='upper center', bbox_to_anchor=(0.5, -0.03),
                       fancybox=True, shadow=True, ncol=6
-            )
-
+                )
 
 # Save the figure in a separate file
         plt.savefig('bo1_'+team_name[0]+'.png')

@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import re
 
+bo1win=0
 def team_ana():
     bk=0.0
     bv=0.0
