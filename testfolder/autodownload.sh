@@ -45,7 +45,7 @@ do
 
 
   # best of
-  cat match.htm | grep "Best" | awk '{print $8}' | awk -F '<' '{print $1}' > bo
+  cat match.htm | grep "Best" | awk '{print $8}' | head -1 | awk -F '<' '{print $1}' > bo
 
   echo $i > idx
 if [ `ls -l winning-team | awk '{print $5}'` -eq 0 ]

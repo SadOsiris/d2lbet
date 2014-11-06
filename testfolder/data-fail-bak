@@ -54,10 +54,208 @@
 3746	ping	ping	MVP.P	Pokerface	0	73	27	0.4 0.3 2.6 2.2 	1
 3753	ping	ping	PR	Tinker	0	33	67	2.1 2 0.5 0.4 	
 3757	ping	ping	Na'Vi	M5	0	74	26	0.3 0.3 2.9 2.8 	3
-									
 3759	ping	ping	Na'Vi.us	UG	0	80	20	0.2 0.2 3.9 3.8 	
 3761	ping	ping	MSIEvoGT	Immunity	0	60	40	0.6 0.6 1.5 1.4 	1
 3762	ping	ping	Fnatic	Coast	0	74	26	0.2 0.3 2.7 4.3 	
 3767	ping	ping	PR	NVMI	0	60	40	0.6 0.6 1.5 1.4 	
 3768	ping	ping	MYM	NVMI	0	40	60	1.5 1.4 0.6 0.6 	
 3769	ping	ping	Fnatic	NVMI	0	66	34	0.5 0.5 1.9 1.9 	
+3772	ping	ping	UG	CNB	0	78	22	0.3 0.2 3.6 2.8 	
+3788	ping	ping	M5	NVMI	0	59	41	0.7 0.7 1.4 1.3 	
+3789	ping	ping	HR	PR	0	55	45	0.7 0.8 1.2 1.2 	
+3790	ping	ping	Fnatic	Coast	0	83	17	0.2 0.2 5 4.6 	
+3800	ping	ping	Alliance	NVMI	0	62	38	0.6 0.6 1.6 1.5 	1
+3804	ping	ping	MYM	Na'Vi.us	0	31	69	1.9 2.2 0.4 0.5 	
+3813	ping	ping	KompasG	Alliance	0	14	86	4.1 6 0.1 0.2 	1
+3816	ping	ping	Empire	Fnatic	0	75	25	0.4 0.3 3 2.3 	
+3817	ping	ping	PR	coL	0	69	31	0.4 0.4 2.2 2 	
+3818	ping	ping	Coast	Na'Vi.us	0	14	86	4.3 6 0.1 0.2 	
+3819	ping	ping	Alliance	Empire	0	53	47	0.8 0.9 1.1 1.1 	
+3820	ping	ping	Tinker	VP	0	68	32	0.4 0.4 2.1 2.2 	
+3824	ping	ping	Fnatic	NVMI	0	54	46	0.8 0.8 1.2 1.1 	
+3825	ping	ping	coL	MYM	0	45	55	1.2 1.2 0.8 0.7 	
+3826	ping	ping	M5	HR	0	62	38	0.6 0.6 1.6 1.6 	
+3838	ping	ping	M5	coL	0	75	25	0.3 0.3 3 2.8 	
+3839	ping	ping	Na'Vi.us	HR	0	59	41	0.7 0.7 1.4 1.3 	
+3840	ping	ping	PR	Empire	0	24	76	3.1 3.1 0.3 0.3 	
+3861	ping	ping	VP	Empire	0	34	66	4.8 1.9 0.5 0.2 	
+3863	ping	ping	PR	MYM	0	64	36	0.5 0.5 1.7 1.9 	
+3870	ping	ping	Fnatic	coL	0	83	17	0.2 0.2 4.9 4.6 	
+3871	ping	ping	Na'Vi	Fnatic	0	79	21	0.3 0.2 3.7 2.8 	
+3879	ping	ping	Mski	Awake	0	67	33	0.5 0.5 2 1.9 	1
+3882	ping	ping	Cloud9	Tinker	0	51	49	1 0.9 1 0.9 	1
+3892	ping	ping	UG	NoToday	0	57	43	0.7 0.7 1.3 1.3 	
+3912	ping	ping	Na'Vi	M5	0	79	21	0.2 0.2 3.6 3.6 	1
+3913	ping	ping	Na'Vi	M5	0	100	0	0 522 	1
+3919	ping	ping	coL	Coast	0	70	30	0.4 0.4 2.3 2.1 	
+3920	ping	ping	Denial	Na'Vi.us	0	26	74	1.9 2.8 0.3 0.5 	
+3935	ping	ping	PR	Fnatic	0	31	69	2 2.2 0.4 0.4 	
+3937	ping	ping	coL	Coast	0	75	25	0.3 0.3 2.9 2.5 	
+3938	ping	ping	HR	coL	0	61	39	0.6 0.6 1.5 1.4 	
+3950	ping	ping	Cloud9	VP	0	69	31	0.5 0.4 2.2 1.9 	
+3960	ping	ping	HR	PR	0	35	65	1.7 1.8 0.5 0.5 	
+3965	ping	ping	Cloud9	PR	0	86	14	0.1 0.1 6.1 5.3 	
+3970	ping	ping	Na'Vi	Tinker	0	42	58	1.3 1.3 0.7 0.7 	
+3974	ping	ping	Denial	M5	0	28	72	2.4 2.6 0.4 0.4 	
+3975	ping	ping	MYM	Coast	0	61	39	0.6 0.6 1.5 1.5 	
+3976	ping	ping	Coast	HR	0	23	77	3.1 3.3 0.3 0.3 	
+3977	ping	ping	Na'Vi	M5	0	89	11	0.2 0.1 8.1 5.1 	
+3978	ping	ping	TBDa	TBDb	0	0	0		
+3986	ping	ping	Execration	Arrow	0	55	45	0.8 0.8 1.2 1.1 	1
+3991	ping	ping	MYM	HR	0	29	71	2.3 2.4 0.4 0.4 	
+3992	ping	ping	Na'Vi	PR	0	89	11	0.1 0.1 8.1 5.8 	
+3993	ping	ping	PR	VP	0	26	74	2.7 2.7 0.3 0.3 	
+4023	ping	ping	NVMI	Na'Vi	0	52	48	0.8 0.9 1.1 1.1 	
+4026	ping	ping	DreamD	paiN	0	67	33	0.4 0.5 2 2.1 	
+4032	ping	ping	VG	LGD.C	0	82	18	0.2 0.2 4.4 4.2 	1
+4033	ping	ping	Arrow	Execration	0	44	56	1.1 1.3 0.7 0.8 	1
+4035	ping	ping	Titan	Johnny	0	74	26	0.3 0.3 2.8 2.8 	1
+4039	ping	ping	Empire	Cloud9	0	47	53	1.1 1.1 0.8 0.8 	1
+4040	ping	ping	Empire	PR	0	67	33	0.4 0.5 2 2 	1
+4041	ping	ping	VP	Na'Vi	0	46	54	1 1.1 0.8 0.9 	1
+4042	ping	ping	Cloud9	HR	0	68	32	0.4 0.4 2.1 2.3 	1
+4057	ping	ping	iG	VG	0	11	89	4.2 7.8 0.1 0.2 	1
+4058	ping	ping	Na'Vi.us	UG	0	82	18	0.2 0.2 4.6 3.8 	
+4067	ping	ping	MYM	Denial	0	48	52	1.2 1 0.9 0.8 	
+4068	ping	ping	MYM	Fnatic	0	14	86	5.4 5.9 0.1 0.1 	
+4094	ping	ping	Empire	VP.Polar	0	51	49	0.8 0.9 1 1.1 	5
+4095	ping	ping	Tinker	Fnatic	0	76	24	0.3 0.3 3.1 2.9 	
+4096	ping	ping	Fnatic	Cloud9	0	31	69	2.3 2.2 0.4 0.4 	
+4116	ping	ping	KPG	VP.Polar	0	50	50	1 1 0 	1
+4122	ping	ping	SNA	paiN	0	80	20	0.2 0.2 4.1 3.6 	Screen
+									Screen">Market
+									Anchor
+4129	ping	ping	FD	Idol	0	46	54	1.1 1.1 0.8 0.8 	1
+4133	ping	ping	Fnatic	HR	0	64	36	0.5 0.5 1.8 1.7 	1
+4137	ping	ping	paiN	NoToday	0	36	64	1.7 1.7 0.5 0.5 	
+4145	ping	ping	HR	xGame	0	47	53	1 1.1 0.9 0.9 	1
+4147	ping	ping	HR	Cleave	0	69	31	0.4 0.4 2.2 2.2 	1
+4149	ping	ping	Na'Vi	Secret	0	35	65	1.8 1.8 0.5 0.5 	1
+4155	ping	ping	Na'Vi	HR	0	78	22	0.2 0.2 3.6 3.5 	3
+4158	ping	ping	Titan	MiTH	0	81	19	0.2 0.2 4.3 4.4 	1
+4161	ping	ping	Cloud9	Alliance	0	69	31	0.5 0.4 2.2 1.9 	
+4168	ping	ping	Alliance	VP	0	64	36	0.5 0.5 1.7 1.7 	3
+4175	ping	ping	Lajons	xGame	0	39	61	1.4 1.5 0.6 0.6 	1
+									Screen
+									Screen">Market
+									Anchor
+4181	ping	ping	Cloud9	Tinker	0	41	59	1.2 1.4 0.7 0.8 	3
+4184	ping	ping	EG	Na'Vi.us	0	91	9	0.2 0.1 9.9 3.9 	3
+4185	ping	ping	Cloud9	Tinker	0	36	64	1.3 1.8 0.5 0.7 	3
+4188	ping	ping	MVP.P	Execration	0	69	31	0.5 0.4 2.2 1.6 	3
+4191	ping	ping	Johnny	Titan	0	20	80	3.4 4 0.2 0.2 	1
+4200	ping	ping	VG	LGD	0	80	20	0.2 0.2 3.9 3.4 	3
+4201	ping	ping	Newbee	iG	0	40	60	1.3 1.4 0.6 0.7 	3
+4202	ping	ping	Fnatic	VP	0	47	53	1 1.1 0.9 0.9 	
+4204	ping	ping	Denial	MYM	0	42	58	1.1 1.4 0.7 0.8 	
+4208	ping	ping	coL	VP.Polar	0	32	68	1.9 2 0.5 0.5 	1
+4214	ping	ping	Fnatic	PR	0	73	27	0.4 0.3 2.7 2.3 	
+4227	ping	ping	MVP.P	Execration	0	46	54	1.2 1.2 0.8 0.8 	1
+4235	ping	ping	SNA	Empire	0	35	65	1.6 1.8 0.5 0.5 	
+4245	ping	ping	Empire	HR	0	70	30	0.4 0.4 2.3 2.4 	1
+4250	ping	ping	coL	PR	0	37	63	1.6 1.7 0.6 0.6 	
+4258	ping	ping	Execration	Johnny	0	63	37	0.6 0.6 1.7 1.5 	1
+4269	ping	ping	Alliance	TBD	0	40	60	1.3 1.5 0.6 0.7 	
+4278	ping	ping	HR	AlbumS	0	34	66	1.7 1.9 0.5 0.5 	1
+4284	ping	ping	EG	M5	0	88	12	0.1 0.1 7.4 5.8 	
+4298	ping	ping	Empire	Fnatic	0	58	42	0.7 0.7 1.4 1.3 	
+4303	ping	ping	VP	VP.Polar	0	44	56	1.1 1.2 0.8 0.8 	3
+4304	ping	ping	PR	TBD	0	24	76	3.6 3.2 0.3 0.2 	3
+4309	ping	ping	Alliance	Fnatic	0	71	29	0.4 0.4 2.4 2.2 	
+4310	ping	ping	Alliance	VP	0	68	32	0.5 0.4 2.1 1.9 	
+4311	ping	ping	Alliance	VP.Polar	0	63	37	0.6 0.6 1.7 1.5 	1
+4312	ping	ping	Na'Vi	Secret	0	31	69	2 2.2 0.4 0.4 	1
+4319	ping	ping	M5	xGame	0	39	61	1.1 1.5 0.6 0.8 	3
+4320	ping	ping	Na'Vi	Fnatic	0	73	27	0.4 0.3 2.7 2.4 	1
+4326	ping	ping	Invasion	Pokerface	0	70	30	0.5 0.4 2.3 1.9 	1
+4327	ping	ping	Pokerface	Johnny	0	36	64	1.9 1.8 0.5 0.5 	1
+4341	ping	ping	Zephyr	MiTH	0	25	75	2.7 3 0.3 0.3 	1
+4345	ping	ping	PR	sQreen	0	65	35	0.4 0.5 1.9 2 	3
+4352	ping	ping	Execration	MSIEvoGT	0	71	29	0.6 0.4 2.4 1.5 	1
+4355	ping	ping	MSIEvoGT	Execration	0	30	70	2.2 2.3 0.4 0.4 	1
+4356	ping	ping	MSIEvoGT	FD	0	41	59	1.3 1.4 0.7 0.7 	1
+4357	ping	ping	nxl	FD	0	23	77	3.5 3.4 0.3 0.2 	1
+4369	ping	ping	PR	KompasG	0	35	65	1.9 1.9 0.5 0.5 	1
+4371	ping	ping	Malaysia	Arrow	0	74	26	0.3 0.3 2.8 2.5 	1
+4376	ping	ping	Arrow	Invasion	0	64	36	0.6 0.5 1.8 1.6 	3
+4379	ping	ping	Empire	Fnatic	0	65	35	0.5 0.5 1.8 1.6 	
+4380	ping	ping	Newbee	DK	0	85	15	0.2 0.2 5.5 3.8 	
+4389	ping	ping	VP.Polar	Fnatic	0	58	42	0.8 0.7 1.4 1.2 	1
+4391	ping	ping	MVP.P	Mski	0	61	39	0.6 0.6 1.5 1.5 	1
+4392	ping	ping	MVP.P	nxl	0	73	27	0.3 0.3 2.6 2.6 	1
+4396	ping	ping	VP.Polar	Lajons	0	69	31	0.4 0.4 2.2 2.2 	1
+4397	ping	ping	bvd.blue	eN.eVo	0	65	35	0.5 0.5 1.9 1.8 	
+4399	ping	ping	iG	HGT	0	81	19	0.3 0.2 4.3 3.2 	
+4407	ping	ping	Na'Vi	VP	0	71	29	0.4 0.4 2.4 2.3 	
+4410	ping	ping	xGame	coL	0	42	58	1.3 1.4 0.7 0.7 	1
+4412	ping	ping	FD	Malaysia	0	0	0		3
+4414	ping	ping	Cloud9	VP.Polar	0	78	22	0.3 0.3 3.5 3.1 	
+4417	ping	ping	mYinsanity	NoToday	0	31	69	2 2.2 0.4 0.4 	3
+4421	ping	ping	LGD	Newbee	0	17	83	3.5 4.9 0.2 0.2 	
+4448	ping	ping	Na'Vi	Cloud9	0	35	65	1.7 1.8 0.5 0.5 	3
+4452	ping	ping	HGT	Newbee	0	12	88	5.9 7.6 0.1 0.1 	3
+4456	ping	ping	iG	Newbee	0	34	66	1.8 1.9 0.5 0.5 	
+4461	ping	ping	PR	Secret	0	18	82	4.1 4.4 0.2 0.2 	1
+4462	ping	ping	Empire	Tinker	0	40	60	1.4 1.4 0.6 0.6 	1
+4463	ping	ping	Denial	Empire	0	13	87	5.7 6.8 0.1 0.1 	
+4464	ping	ping	Denial	VP.Polar	0	18	82	3.7 4.5 0.2 0.2 	
+4468	ping	ping	PR	Na'Vi	0	20	80	3.7 4 0.2 0.2 	3
+4484	ping	ping	Secret	VP.Polar	0	81	19	0.3 0.2 4.2 3.2 	1
+4487	ping	ping	EG	Fnatic	0	90	10	0.1 0.1 9.3 6.9 	
+4495	ping	ping	Arrow	Invasion	0	51	49	1 0.9 1 0.9 	1
+4498	ping	ping	Na'Vi	Cloud9	0	46	54	1.1 1.1 0.8 0.8 	1
+4499	ping	ping	Cloud9	BBears	0	77	23	0.3 0.3 3.3 3 	1
+4500	ping	ping	Na'Vi	BBears	0	77	23	0.3 0.3 3.2 2.5 	1
+4501	ping	ping	Tinker	Fnatic	0	84	16	0.2 0.2 5.4 4.7 	
+4503	ping	ping	EG	Fnatic	0	89	11	0.1 0.1 7.8 5.9 	
+4518	ping	ping	Idol	Invasion	0	31	69	2.2 2.2 0.4 0.4 	1
+4519	ping	ping	Johnny	Execration	0	30	70	2.5 2.3 0.4 0.3 	1
+4523	ping	ping	Na'Vi	PR	0	68	32	0.4 0.4 2.1 1.9 	1
+4524	ping	ping	Na'Vi	M5	0	80	20	0.2 0.2 3.9 3.8 	1
+4528	ping	ping	Tinker	4Anchors	0	87	13	0.1 0.1 6.7 5.5 	
+4529	ping	ping	Cloud9	SNA	0	81	19	0.2 0.2 4.3 3.8 	
+4537	ping	ping	DK	VG	0	10	90	6.5 9.4 0.1 0.1 	
+4538	ping	ping	LGD	VG	0	41	59	1.4 1.4 0.7 0.6 	
+4545	ping	ping	Na'Vi	Tinker	0	49	51	0.9 1 0.9 1 	1
+4550	ping	ping			0				
+4565	ping	ping	VG	Newbee	0	59	41	0.6 0.7 1.4 1.4 	
+4566	ping	ping	Rave	Malaysia	0	20	80	4.6 4 0.2 0.2 	1
+4567	ping	ping	MVP.P	nxl	0	77	23	0.1 0.3 3.4 5.6 	1
+									Screen
+									Screen">Market
+									Anchor
+4568	ping	ping	FD	CSW	0	49	51	1.2 1 0.9 0.7 	1
+4569	ping	ping	FD	Johnny	0	44	56	0.6 1.3 0.7 1.4 	1
+4570	ping	ping	Zephyr	MVP.P	0	23	77	9.9 3.4 0.3 0.1 	1
+4572	ping	ping	MVP.P	LGD	0	14	86	6.6 6 0.1 0.1 	3
+4573	ping	ping	Rave	iG	0	14	86	11.6 5.9 0.1 0.1 	3
+4635	ping	ping	mYinsanity	KompasG	0	33	67	2.2 2 0.5 0.4 	1
+4636	ping	ping	Johnny	MSIEvoGT	0	61	39	0 0.6 1.5 	1
+4639	ping	ping	Malaysia	FD	0	82	18	0.2 0.2 4.6 4.8 	1
+4645	ping	ping	Secret	VP.Polar	0	82	18	0.2 0.2 4.6 3.5 	1
+4649	ping	ping	M5	Cloud9	0	20	80	4.1 3.9 0.2 0.2 	1
+4653	ping	ping	VP	4Anchors	0	66	34	0.4 0.5 2 1.9 	
+4666	ping	ping	Johnny	MiTH	0	61	39	0.6 1.5 0 	1
+4668	ping	ping	Invasion	CSW	0	59	41	0.6 0.7 1.4 1.4 	1
+4670	ping	ping	Alliance	Tinker	0	60	40	0.6 0.6 1.5 1.4 	3
+4696	ping	ping	Secret	EG	0	48	52	1 1 0.9 0.9 	
+4699	ping	ping	StayFree	Root	0	37	63	1.3 1.6 0.6 0.7 	1
+4717	ping	ping	EG	Fnatic	0	91	9	0.1 0.1 10.7 7.5 	
+4719	ping	ping	Na'Vi	Tinker	0	57	43	0.7 0.7 1.3 1.3 	5
+4729	ping	ping	SNA	Cloud9	0	16	84	4.6 5.1 0.2 0.2 	3
+4730	ping	ping	EG	coL	0	90	10	0.1 0.1 9.1 7.5 	3
+4734	ping	ping	Gerg	StayFree	0	72	28	0.4 0.4 2.5 2.2 	1
+4737	ping	ping	coL	Cloud9	0	14	86	6.3 0.1 0 	3
+4741	ping	ping	FD	Execration	0	51	49	1 0.9 1 0.9 	1
+4745	ping	ping	Johnny	MiTH	0	44	56	1.4 1.2 0.8 0.6 	1
+4746	ping	ping	CSW	Execration	0	43	57	1.2 1.3 0.7 0.7 	1
+4748	ping	ping	EG	Alliance	0	79	21	0.3 0.2 3.8 3.2 	
+4749	ping	ping	VP.Polar	Secret	0	19	81	4.3 4.3 0.2 0.2 	3
+4755	ping	ping	Secret	EG	0	50	50	0.9 1 1 1 	3
+4768	ping	ping	VG	Newbee	0	53	47	0.8 0.9 1.1 1.1 	3
+4770	ping	ping	HR	Na'Vi.us	0	53	47	0.9 0.9 1.1 1 	
+4773	ping	ping	CDEC	iG	0	34	66	1.9 1.9 0.5 0.5 	3
+4787	ping	ping	Na'Vi.us	Cloud9	0	19	81	4.3 4.2 0.2 0.2 	3
+4788	ping	ping	EG	Cloud9	0	68	32	0.4 0.4 2.1 2.3 	3
+4789	ping	ping	M5	Fnatic	0	39	61	1.5 1.6 0.6 0.6 	
+4790	ping	ping	Secret	HR	0	78	22	0.2 0.2 3.6 4.8 	

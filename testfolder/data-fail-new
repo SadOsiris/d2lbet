@@ -123,8 +123,6 @@
 4096	ping	ping	Fnatic	Cloud9	0	31	69	2.3 2.2 0.4 0.4 	
 4116	ping	ping	KPG	VP.Polar	0	50	50	1 1 0 	1
 4122	ping	ping	SNA	paiN	0	80	20	0.2 0.2 4.1 3.6 	Screen
-									Screen">Market
-									Anchor
 4129	ping	ping	FD	Idol	0	46	54	1.1 1.1 0.8 0.8 	1
 4133	ping	ping	Fnatic	HR	0	64	36	0.5 0.5 1.8 1.7 	1
 4137	ping	ping	paiN	NoToday	0	36	64	1.7 1.7 0.5 0.5 	
@@ -136,9 +134,6 @@
 4161	ping	ping	Cloud9	Alliance	0	69	31	0.5 0.4 2.2 1.9 	
 4168	ping	ping	Alliance	VP	0	64	36	0.5 0.5 1.7 1.7 	3
 4175	ping	ping	Lajons	xGame	0	39	61	1.4 1.5 0.6 0.6 	1
-									Screen
-									Screen">Market
-									Anchor
 4181	ping	ping	Cloud9	Tinker	0	41	59	1.2 1.4 0.7 0.8 	3
 4184	ping	ping	EG	Na'Vi.us	0	91	9	0.2 0.1 9.9 3.9 	3
 4185	ping	ping	Cloud9	Tinker	0	36	64	1.3 1.8 0.5 0.7 	3
@@ -221,9 +216,6 @@
 4565	ping	ping	VG	Newbee	0	59	41	0.6 0.7 1.4 1.4 	
 4566	ping	ping	Rave	Malaysia	0	20	80	4.6 4 0.2 0.2 	1
 4567	ping	ping	MVP.P	nxl	0	77	23	0.1 0.3 3.4 5.6 	1
-									Screen
-									Screen">Market
-									Anchor
 4568	ping	ping	FD	CSW	0	49	51	1.2 1 0.9 0.7 	1
 4569	ping	ping	FD	Johnny	0	44	56	0.6 1.3 0.7 1.4 	1
 4570	ping	ping	Zephyr	MVP.P	0	23	77	9.9 3.4 0.3 0.1 	1
@@ -242,3 +234,20 @@
 4699	ping	ping	StayFree	Root	0	37	63	1.3 1.6 0.6 0.7 	1
 4717	ping	ping	EG	Fnatic	0	91	9	0.1 0.1 10.7 7.5 	
 4719	ping	ping	Na'Vi	Tinker	0	57	43	0.7 0.7 1.3 1.3 	5
+4729	ping	ping	SNA	Cloud9	0	16	84	4.6 5.1 0.2 0.2 	3
+4730	ping	ping	EG	coL	0	90	10	0.1 0.1 9.1 7.5 	3
+4734	ping	ping	Gerg	StayFree	0	72	28	0.4 0.4 2.5 2.2 	1
+4737	ping	ping	coL	Cloud9	0	14	86	6.3 0.1 0 	3
+4741	ping	ping	FD	Execration	0	51	49	1 0.9 1 0.9 	1
+4745	ping	ping	Johnny	MiTH	0	44	56	1.4 1.2 0.8 0.6 	1
+4746	ping	ping	CSW	Execration	0	43	57	1.2 1.3 0.7 0.7 	1
+4748	ping	ping	EG	Alliance	0	79	21	0.3 0.2 3.8 3.2 	
+4749	ping	ping	VP.Polar	Secret	0	19	81	4.3 4.3 0.2 0.2 	3
+4755	ping	ping	Secret	EG	0	50	50	0.9 1 1 1 	3
+4768	ping	ping	VG	Newbee	0	53	47	0.8 0.9 1.1 1.1 	3
+4770	ping	ping	HR	Na'Vi.us	0	53	47	0.9 0.9 1.1 1 	
+4773	ping	ping	CDEC	iG	0	34	66	1.9 1.9 0.5 0.5 	3
+4787	ping	ping	Na'Vi.us	Cloud9	0	19	81	4.3 4.2 0.2 0.2 	3
+4788	ping	ping	EG	Cloud9	0	68	32	0.4 0.4 2.1 2.3 	3
+4789	ping	ping	M5	Fnatic	0	39	61	1.5 1.6 0.6 0.6 	
+4790	ping	ping	Secret	HR	0	78	22	0.2 0.2 3.6 4.8 	

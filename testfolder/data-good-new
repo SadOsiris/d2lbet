@@ -620,7 +620,6 @@
 3775	PR	xGame	xGame	PR	2	22	78	3.2 3.6 0.2 0.3 	1
 3776	AlbumS	HR	AlbumS	HR	1	27	73	2.4 2.7 0.3 0.4 	1
 3777	Newbee	HGT	Newbee	HGT	1	88	12	0.1 0.1 7.2 6.3 	3
-									
 3778	VG	EG	EG	VG	2	60	40	0.6 0.6 1.4 1.4 	3
 3779	Cloud9	LGD	Cloud9	LGD	1	40	60	1.5 1.4 0.6 0.6 	3
 3780	Na'Vi	LGD.C	LGD.C	Na'Vi	2	39	61	1.8 1.5 0.6 0.5 	3
@@ -629,9 +628,6 @@
 3783	Empire	xGame	Empire	xGame	1	85	15	0.2 0.1 5.7 5.1 	1
 3784	xGame	KompasG	xGame	KompasG	1	44	56	1.2 1.2 0.8 0.7 	1
 3785	Invasion	FD	Invasion	FD	1	49	51	1 1 0.9 0.9 	1
-									Screen
-									Screen">Market
-									Anchor
 3786	Empire	NVMI	NVMI	Empire	2	25	75	2.6 3 0.3 0.3 	3
 3787	M5	PR	PR	M5	2	43	57	1.4 1.3 0.7 0.6 	
 3791	VG	Newbee	Newbee	VG	2	63	37	0.6 0.6 1.7 1.5 	3
@@ -658,9 +654,6 @@
 3815	Secret	MYM	Secret	MYM	1	76	24	0.2 0.3 3.1 3.3 	3
 3821	FD	Arrow	Arrow	FD	2	51	49	0.9 0.9 1 1 	3
 3822	Na'Vi.us	DreamD	Na'Vi.us	DreamD	1	91	9	0.1 0.1 10.7 6.7 	5
-									Screen
-									Screen">Market
-									Anchor
 3823	NVMI	Empire	Empire	NVMI	2	82	18	0.2 0.2 4.5 3.8 	
 3827	SotP	SNA	SNA	SotP	2	79	21	0.3 0.2 3.7 2.8 	1
 3828	UG	DreamD	DreamD	UG	2	38	62	1.7 1.6 0.6 0.5 	1
@@ -670,7 +663,6 @@
 3832	iG	LGD.C	iG	LGD.C	1	65	35	0.5 0.5 1.8 1.8 	1
 3833	VG	LAI	VG	LAI	1	80	20	0.2 0.2 4 3.6 	1
 3834	Newbee	TongFu.W	Newbee	TongFu.W	1	75	25	0.3 0.3 3 2.8 	1
-									
 3835	Empire	VP	VP	Empire	2	35	65	1.6 1.8 0.5 0.5 	
 3836	Fnatic	xGame	Fnatic	xGame	1	86	14	0.2 0.1 6.1 4.9 	3
 3837	Empire	coL	Empire	coL	1	80	20	0.2 0.2 4 3.7 	
@@ -680,14 +672,8 @@
 3844	CNB	DreamD	CNB	DreamD	1	42	58	1.3 1.3 0.7 0.7 	1
 3845	EG	UG	UG	EG	2	12	88	5.4 7.6 0.1 0.1 	1
 3846	UG	CNB	UG	CNB	1	76	24	0.3 0.3 3.2 2.6 	1
-									Screen
-									Screen">Market
-									Anchor
 3847	NoToday	SNA	SNA	NoToday	2	73	27	0.4 0.3 2.7 2.4 	1
 3848	TC!	Na'Vi.us	TC!	Na'Vi.us	1	14	86	5.2 6.1 0.1 0.2 	1
-									Screen
-									Screen">Market
-									Anchor
 3849	Alliance	M5	M5	Alliance	2	34	66	1.9 1.9 0.5 0.5 	3
 3850	FD	Invasion	FD	Invasion	1	61	39	0.6 0.6 1.5 1.5 	3
 3851	LAI	TongFu.W	LAI	TongFu.W	1	43	57	1.4 1.3 0.7 0.6 	1
@@ -724,7 +710,6 @@
 3888	NVMI	Empire	Empire	NVMI	2	63	37	0.6 0.6 1.6 1.5 	1
 3889	VP	HR	HR	VP	2	37	63	1.5 1.6 0.6 0.6 	1
 3890	VP	NVMI	VP	NVMI	1	39	61	1.5 1.5 0.6 0.6 	1
-									
 3891	VP	Na'Vi	Na'Vi	VP	2	67	33	0.5 0.5 2 1.9 	1
 3893	THD	NoES	THD	NoES	1	63	37	0.5 0.5 1.7 1.6 	1
 3894	TC!	THD	TC!	THD	1	63	37	0.6 0.6 1.7 1.4 	1
@@ -779,16 +764,12 @@
 3951	Empire	PR	Empire	PR	1	89	11	0.1 0.1 8 5.3 	
 3952	Empire	M5	M5	Empire	2	18	82	3.7 4.6 0.2 0.2 	
 3953	HR	Denial	Denial	HR	2	57	43	0.8 0.7 1.3 1.1 	Screen
-									Screen">Market
-									Anchor
 3954	SNA	EG	EG	SNA	2	87	13	0.1 0.1 6.9 5.5 	1
 3955	EG	CNB	CNB	EG	2	6	94	8.2 14.4 0 0.1 	1
 3956	LGD	TongFu.W	LGD	TongFu.W	1	83	17	0.2 0.2 4.9 3.8 	3
 3957	AlbumS	mYinsanity	AlbumS	mYinsanity	1	68	32	0.4 0.4 2.1 2.3 	5
 3958	Titan	FD	Titan	FD	1	82	18	0.2 0.2 4.5 3.6 	5
 3959	Empire	MYM	MYM	Empire	2	10	90	6.2 8.6 0.1 0.1 	Screen
-									Screen">Market
-									Anchor
 3961	HR	M5	M5	HR	2	62	38	0.5 0.6 1.6 1.7 	
 3962	EG	Na'Vi.us	EG	Na'Vi.us	1	78	22	0.3 0.3 3.5 2.8 	1
 3963	Na'Vi.eu	Fnatic.eu	Fnatic.eu	Na'Vi.eu	2	34	66	1.8 1.9 0.5 0.5 	3
@@ -933,7 +914,6 @@
 4132	Cleave	AlbumS	Cleave	AlbumS	1	32	68	2.3 2.1 0.4 0.4 	1
 4134	Cloud9	Fnatic	Fnatic	Cloud9	2	31	69	2.1 2.2 0.4 0.4 	1
 4135	Secret	Cloud9	Cloud9	Secret	2	46	54	1.2 1.1 0.8 0.8 	1
-									
 4136	Na'Vi.us	NoToday	Na'Vi.us	NoToday	1	80	20	0.2 0.2 3.9 3.6 	3
 4138	DreamD	UG	DreamD	UG	1	32	68	1.9 2 0.5 0.5 	
 4139	SNA	TOP5	SNA	TOP5	1	84	16	0.2 0.2 5.1 4.4 	3
@@ -946,8 +926,6 @@
 4148	Secret	Fnatic	Secret	Fnatic	1	72	28	0.3 0.4 2.5 2.5 	1
 4150	xGame	PR	PR	xGame	2	51	49	0.7 0.9 1 1.2 	3
 4151	SNA	NoES	SNA	NoES	1	79	21	0.2 0.2 3.7 3.7 	Screen
-									Screen">Market
-									Anchor
 4152	coL	UG	coL	UG	1	62	38	0.6 0.6 1.6 1.6 	
 4153	EG	SNA	EG	SNA	1	91	9	0.1 0.1 9.6 7.1 	5
 4154	Na'Vi.us	SotP	SotP	Na'Vi.us	2	19	81	3.8 4.3 0.2 0.2 	3
@@ -1029,7 +1007,6 @@
 4249	SNA	paiN	SNA	paiN	1	78	22	0.3 0.2 3.6 3.1 	3
 4251	Tinker	4Anchors	4Anchors	Tinker	2	24	76	3.2 3.1 0.3 0.3 	1
 4252	Newbee	Alliance	Newbee	Alliance	1	55	45	0.8 0.8 1.2 1.1 	3
-									
 4253	Empire	4Anchors	Empire	4Anchors	1	62	38	0.6 0.6 1.6 1.5 	1
 4254	VP.Polar	PR	VP.Polar	PR	1	72	28	0.4 0.4 2.6 2.4 	1
 4255	VP	XtmXPC	VP	XtmXPC	1	78	22	0.2 0.3 3.4 3.8 	1
@@ -1110,9 +1087,6 @@
 4347	VP.Polar	PR	PR	VP.Polar	2	20	80	4 3.9 0.2 0.2 	3
 4348	Malaysia	MVP.P	Malaysia	MVP.P	1	78	22	0.3 0.3 3.5 3 	1
 4349	Malaysia	Idol	Malaysia	Idol	1	86	14	0.1 0.1 6.3 5.3 	1
-									Screen
-									Screen">Market
-									Anchor
 4350	Arrow	Mski	Arrow	Mski	1	79	21	0.2 0.2 3.8 3.3 	1
 4351	Mski	Johnny	Johnny	Mski	2	78	22	0.3 0.3 3.4 2.8 	1
 4353	M5	PR	M5	PR	1	42	58	1.4 1.3 0.7 0.6 	1
@@ -1123,7 +1097,6 @@
 4361	VG	Secret	VG	Secret	1	38	62	1.5 1.6 0.6 0.6 	3
 4362	EG	Cloud9	Cloud9	EG	2	32	68	2.1 2.1 0.4 0.4 	3
 4363	Newbee	LGD.C	Newbee	LGD.C	1	81	19	0.3 0.2 4.2 3.3 	1
-									
 4364	VG	EG	VG	EG	1	49	51	1 1 0.9 0.9 	3
 4365	DK	HGT	DK	HGT	1	44	56	1.2 1.2 0.8 0.8 	1
 4366	iG	LAI	iG	LAI	1	68	32	0.5 0.4 2.1 1.9 	1
@@ -1139,9 +1112,6 @@
 4381	LGD	HGT	LGD	HGT	1	71	29	0.4 0.4 2.5 2.3 	
 4382	Newbee	LAI	Newbee	LAI	1	78	22	0.3 0.3 3.5 3 	1
 4383	LGD	HGT	LGD	HGT	1	69	31	0.4 0.4 2.2 2 	1
-									Screen
-									Screen">Market
-									Anchor
 4384	LGD	DK	LGD	DK	1	61	39	0.6 0.6 1.6 1.4 	1
 4385	HGT	LAI	HGT	LAI	1	39	61	1.6 1.6 0.6 0.5 	1
 4386	KompasG	BBears	KompasG	BBears	1	61	39	0.5 0.6 1.6 1.6 	1
@@ -1206,9 +1176,6 @@
 4460	PR	Lajons	PR	Lajons	1	61	39	0.6 0.6 1.5 1.5 	1
 4465	Secret	Cloud9	Secret	Cloud9	1	64	36	0.5 0.5 1.7 1.7 	1
 4466	Cloud9	Fnatic	Cloud9	Fnatic	1	78	22	0.3 0.3 3.5 3.2 	1
-									Screen
-									Screen">Market
-									Anchor
 4467	Execration	Invasion	Invasion	Execration	2	40	60	1.4 1.5 0.6 0.6 	3
 4469	Alliance	Empire	Alliance	Empire	1	51	49	0.9 0.9 1 1 	3
 4470	Invasion	Aces	Invasion	Aces	1	58	42	0.6 0.7 1.3 1.4 	
@@ -1288,7 +1255,6 @@
 4562	Empire	Fnatic	Fnatic	Empire	2	34	66	1.8 1.9 0.5 0.5 	1
 4563	Na'Vi	Alliance	Na'Vi	Alliance	1	61	39	0.6 0.6 1.5 1.5 	1
 4564	PR	Empire	PR	Empire	1	42	58	1.3 1.3 0.7 0.7 	1
-									
 4571	Cleave	xGame	xGame	Cleave	2	60	40	0.7 0.6 1.5 1.3 	1
 4574	KompasG	xGame	xGame	KompasG	2	31	69	1.8 2.2 0.4 0.5 	1
 4575	EG	Tinker	EG	Tinker	1	70	30	0.4 0.4 2.3 2.1 	1
@@ -1306,9 +1272,6 @@
 4587	VP.Polar	HR	VP.Polar	HR	1	81	19	0.2 0.2 4.2 3.9 	3
 4588	Tinker	Alliance	Tinker	Alliance	1	62	38	0.6 0.6 1.6 1.6 	1
 4589	Execration	VP	Execration	VP	1	32	68	1.8 2.1 0.4 0.5 	1
-									Screen
-									Screen">Market
-									Anchor
 4590	Cloud9	EG	Cloud9	EG	1	23	77	3.2 3.4 0.3 0.3 	1
 4591	Secret	Na'Vi	Na'Vi	Secret	2	37	63	1.6 1.6 0.6 0.5 	1
 4592	AlbumS	coL	AlbumS	coL	1	47	53	1 1.1 0.8 0.9 	3
@@ -1338,8 +1301,6 @@
 4616	SNA	Gerg	Gerg	SNA	2	29	71	2.3 2.4 0.4 0.4 	
 4617	Na'Vi.us	Gerg	Na'Vi.us	Gerg	1	71	29	0.4 0.4 2.4 2.3 	
 4618	paiN	StayFree	StayFree	paiN	2	42	58	1.4 1.3 0.7 0.6 	Screen
-									Screen">Market
-									Anchor
 4619	coL	Inphinity+4	coL	Inphinity+4	1	73	27	0.4 0.3 2.7 2.4 	
 4620	Invasion	CSW	Invasion	CSW	1	64	36	0.5 0.5 1.8 1.7 	3
 4621	VP.Polar	Denial	VP.Polar	Denial	1	86	14	0.1 0.1 6.2 5.7 	3
@@ -1433,3 +1394,53 @@
 4722	NoToday	StayFree	StayFree	NoToday	2	26	74	2.6 2.9 0.3 0.3 	1
 4723	Gerg	Inphinity+4	Inphinity+4	Gerg	2	52	48	0.9 0.9 1 1 	1
 4724	SWAG	Root	SWAG	Root	1	53	47	0.8 0.9 1.1 1.1 	1
+4725	Execration	MiTH	MiTH	Execration	2	40	60	1.4 1.5 0.6 0.6 	1
+4726	FD	MVP.P	FD	MVP.P	1	40	60	1.4 1.5 0.6 0.6 	1
+4727	Invasion	Execration	Invasion	Execration	1	51	49	1 0.9 1 0.9 	1
+4728	MiTH	Johnny	Johnny	MiTH	2	43	57	1.3 1.3 0.7 0.7 	1
+4731	HR	SpaceS	SpaceS	HR	2	30	70	2.4 2.3 0.4 0.4 	1
+4732	Cloud9	EG	Cloud9	EG	1	30	70	2.3 2.3 0.4 0.4 	3
+4733	Leviathan	Gerg	Gerg	Leviathan	2	35	65	1.9 1.8 0.5 0.5 	1
+4735	coL	UG	UG	coL	2	21	79	3.4 3.8 0.2 0.2 	1
+4736	NoToday	SWAG	SWAG	NoToday	2	33	67	2 2 0.5 0.4 	1
+4738	CSW	MiTH	MiTH	CSW	2	42	58	1.3 1.4 0.7 0.7 	1
+4739	Invasion	MiTH	MiTH	Invasion	2	27	73	2.6 2.6 0.3 0.3 	1
+4740	FD	Zephyr	Zephyr	FD	2	22	78	3.3 3.4 0.3 0.2 	1
+4742	Idol	Zephyr	Zephyr	Idol	2	29	71	2.7 2.4 0.4 0.3 	1
+4743	Secret	PR	Secret	PR	1	89	11	0.1 0.1 7.9 6.6 	3
+4744	VP.Polar	Cloud9	Cloud9	VP.Polar	2	81	19	0.2 0.2 4.1 3.5 	3
+4747	Invasion	Idol	Invasion	Idol	1	81	19	0.2 0.2 4.4 4.2 	3
+4750	SNA	paiN	paiN	SNA	2	27	73	2.6 2.7 0.3 0.3 	1
+4751	Inphinity+4	UG	Inphinity+4	UG	1	66	34	0.6 0.5 1.9 1.6 	1
+4752	Gerg	UG	UG	Gerg	2	24	76	2.5 3.1 0.3 0.3 	1
+4753	DK	LGD	DK	LGD	1	21	79	3 3.8 0.2 0.3 	3
+4754	LV	TongFu.W	TongFu.W	LV	2	18	82	3.8 4.4 0.2 0.2 	3
+4756	Alliance	4Anchors	4Anchors	Alliance	2	31	69	2.3 2.2 0.4 0.4 	
+4757	Execration	CSW	Execration	CSW	1	57	43	0.7 0.7 1.3 1.3 	1
+4758	Invasion	Malaysia	Invasion	Malaysia	1	16	84	4.4 5.3 0.2 0.2 	3
+4759	Empire	VP.Polar	Empire	VP.Polar	1	50	50	1 1 1 0.9 	3
+4760	Execration	Johnny	Johnny	Execration	2	30	70	2.3 2.3 0.4 0.4 	1
+4761	Johnny	CSW	CSW	Johnny	2	72	28	0.3 0.4 2.5 2.7 	1
+4762	Idol	MVP.P	Idol	MVP.P	1	32	68	2.1 2.1 0.4 0.4 	1
+4763	FD	CSW	FD	CSW	1	53	47	0.8 0.9 1.1 1.1 	1
+4764	FD	Idol	Idol	FD	2	34	66	1.7 1.9 0.5 0.5 	1
+4765	Cloud9	PR	PR	Cloud9	2	28	72	2.6 2.5 0.4 0.3 	3
+4766	Secret	VP.Polar	Secret	VP.Polar	1	80	20	0.2 0.2 4.1 4.2 	3
+4767	LGD	CDEC	CDEC	LGD	2	41	59	1.3 1.4 0.7 0.7 	3
+4769	Rave	FD	Rave	FD	1	35	65	1.6 1.8 0.5 0.5 	1
+4771	coL	paiN	paiN	coL	2	25	75	2.8 3 0.3 0.3 	1
+4772	Inphinity+4	SWAG	SWAG	Inphinity+4	2	66	34	0.5 0.5 1.9 1.6 	1
+4774	LGD	LV	LV	LGD	2	35	65	1.7 1.8 0.5 0.5 	3
+4775	SNA	Root	Root	SNA	2	20	80	4 4 0.2 0.2 	1
+4776	Leviathan	paiN	paiN	Leviathan	2	25	75	2.3 3 0.3 0.4 	1
+4777	VG	LGD	LGD	VG	2	33	67	1.9 2 0.5 0.4 	3
+4778	Newbee	CDEC	CDEC	Newbee	2	19	81	3.9 4.2 0.2 0.2 	3
+4779	MiTH	Rave	MiTH	Rave	1	31	69	2 2.2 0.4 0.4 	1
+4780	Rave	Johnny	Rave	Johnny	1	60	40	0.6 0.6 1.5 1.4 	1
+4781	Rave	Idol	Rave	Idol	1	68	32	0.5 0.4 2.1 1.7 	1
+4782	Idol	Execration	Idol	Execration	1	24	76	2.7 3.1 0.3 0.3 	1
+4783	CSW	Invasion	Invasion	CSW	2	70	30	0.4 0.4 2.3 2.4 	1
+4784	MVP.P	Johnny	MVP.P	Johnny	1	59	41	0.6 0.7 1.4 1.4 	1
+4785	CSW	Idol	CSW	Idol	1	68	32	0.5 0.5 2 1.7 	1
+4786	DTJR	Ichigo	Ichigo	DTJR	2	63	37	0.6 0.5 1.7 1.6 	3
+4791	hehe	Denial	Denial	hehe	2	65	35	0.5 0.5 1.9 1.8 	1
