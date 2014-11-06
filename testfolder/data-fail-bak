@@ -5,3 +5,59 @@
 3189	ping	ping	Invasion	Scythe	0	33	67	1.7 2 0.5 0.5 	2
 3197	ping	ping	MiTH	Scythe	0	27	73	2.1 2.6 0.3 0.4 	2
 3206	ping	ping	ZL	Invasion	0	10	90	6.4 8.5 0.1 0.1 	2
+3245	ping	ping	Alliance	Fnatic.eu	0	58	42	0.7 0.7 1.3 1.3 	5
+3246	ping	ping	Mski	Scythe	0	20	80	3.2 3.9 0.2 0.3 	
+3247	ping	ping	Titan	MVP.P	0	80	20	0.2 0.2 4 3.4 	
+3248	ping	ping	MiTH	Scythe	0	30	70	2 2.3 0.4 0.4 	3
+3249	ping	ping	Arrow	Titan	0	25	75	2.4 2.9 0.3 0.4 	
+3250	ping	ping	Scythe	MiTH	0	68	32	0.5 0.4 2.1 1.7 	
+3251	ping	ping	MVP.P	Scythe	0	51	49	0.9 0.9 1 1 	
+3255	ping	ping	Na'Vi.us	UG	0	82	18	0.2 0.2 4.5 3.3 	
+3280	ping	ping	CIS	MVP.P	0	61	39	0.6 0.6 1.5 1.4 	3
+3281	ping	ping	Titan	Invasion	0	90	10	0.1 0.1 9.2 6.8 	
+3289	ping	ping	Invasion	Scythe	0	40	60	1.4 1.4 0.6 0.7 	
+3298	ping	ping	DK	Newbee	0	54	46	0.8 0.8 1.1 1.1 	3
+3300	ping	ping	Invasion	MiTH	0	73	27	0.4 0.3 2.7 2.1 	
+3311	ping	ping			0				
+3328	ping	ping	Mski	Scythe	0	26	74	2.3 2.9 0.3 0.4 	3
+3379	ping	ping	Scythe	MVP.P	0	42	58	1.3 1.3 0.7 0.7 	1
+3529	ping	ping	Scythe	Arrow	0	42	58	1.3 1.4 0.7 0.7 	3
+3534	ping	ping	OsG	DT168	0	55	45	1 0.8 1.2 0.9 	
+3538	ping	ping	KPG	eu4ia	0	83	17	0.2 0.2 4.9 3.9 	
+3539	ping	ping	DT168	OsG	0	44	56	1 1.3 0.7 0.8 	
+3540	ping	ping	Rave	Arrow	0	23	77	2.8 3.4 0.3 0.3 	
+3544	ping	ping	PR	xGame	0	60	40	0.6 0.6 1.5 1.4 	
+3547	ping	ping	Titan	Awake	0	91	9	0.1 0.1 10 5.6 	
+3549	ping	ping	Titan	MSIEvoGT	0	91	9	0.1 0.1 10 5.5 	
+3555	ping	ping	FD	TBD	0	26	74	2.7 2.8 0.3 0.3 	1
+3562	ping	ping	Rave	Titan	0	28	72	2.3 2.6 0.4 0.4 	1
+3563	ping	ping	MiTH	Arrow	0	48	52	0.9 1 0.9 1 	1
+3571	ping	ping	SNA	Isurus	0	79	21	0.3 0.2 3.7 2.9 	
+3587	ping	ping	KompasG	Tinker	0	43	57	1.3 0.7 	1
+3610	ping	ping	Immunity	Orange	0	31	69	1.9 2.2 0.4 0.4 	1
+3611	ping	ping	Johnny	Rave	0	52	48	0.8 0.9 1.1 1.1 	1
+3619	ping	ping	Cleave	DT168	0	38	62	1.7 1.6 0.6 0.5 	1
+3621	ping	ping	CNB	SNA	0	26	74	2.4 2.9 0.3 0.4 	3
+3648	ping	ping	EG	Cloud9	0	69	31	0.4 0.4 2.2 2.1 	3
+3653	ping	ping	VP	Tinker	0	56	44	0.8 0.7 1.3 1.2 	
+3660	ping	ping	Idol	MiTH	0	35	65	1.7 1.8 0.5 0.5 	1
+3661	ping	ping	Titan	FD	0	47	53	1 1.1 0.9 0.9 	1
+3665	ping	ping	Alliance	Cloud9	0	47	53	1 1.1 0.9 0.9 	1
+3666	ping	ping	VP	Cloud9	0	47	53	1 1.1 0.8 0.9 	1
+3679	ping	ping	Secret	xGame	0	71	29	0.4 0.4 2.4 2.3 	1
+3682	ping	ping	TongFu.W	CIS	0	67	33	0.6 0.5 2 1.4 	
+3689	ping	ping	Cloud9	Secret	0	50	50	1 1 1 0.9 	1
+3692	ping	ping	Coast	Na'Vi	0	10	90	6.1 9 0.1 0.1 	
+3722	ping	ping	VP	Na'Vi	0	20	80	3.2 4.1 0.2 0.3 	
+3723	ping	ping	Na'Vi.us	Empire	0	30	70	2.2 2.3 0.4 0.4 	
+3731	ping	ping	Na'Vi	Alliance	0	62	38	0.6 0.6 1.6 1.6 	
+3746	ping	ping	MVP.P	Pokerface	0	73	27	0.4 0.3 2.6 2.2 	1
+3753	ping	ping	PR	Tinker	0	33	67	2.1 2 0.5 0.4 	
+3757	ping	ping	Na'Vi	M5	0	74	26	0.3 0.3 2.9 2.8 	3
+									
+3759	ping	ping	Na'Vi.us	UG	0	80	20	0.2 0.2 3.9 3.8 	
+3761	ping	ping	MSIEvoGT	Immunity	0	60	40	0.6 0.6 1.5 1.4 	1
+3762	ping	ping	Fnatic	Coast	0	74	26	0.2 0.3 2.7 4.3 	
+3767	ping	ping	PR	NVMI	0	60	40	0.6 0.6 1.5 1.4 	
+3768	ping	ping	MYM	NVMI	0	40	60	1.5 1.4 0.6 0.6 	
+3769	ping	ping	Fnatic	NVMI	0	66	34	0.5 0.5 1.9 1.9 	
