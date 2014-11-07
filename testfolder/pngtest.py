@@ -1,9 +1,7 @@
 import random
 import numpy as np
 
-trial_counts=50000
-list_bv=[]
-list_bk=[]
+trial_counts=10000
 n=0.0
 bk=0.0
 bv=0.0
@@ -142,21 +140,27 @@ with open("complete_teamlist") as f:
 team_idx=0
 fileOUT=open("team_test",'w')
 while (team_idx<len(team_list)):
+    list_bv=[]
+    list_bk=[]
     team_ana(team_list[team_idx])
 
     team_name=team_list[team_idx].split('\n')
+
     while (n<trial_counts):
         trial(team_name[0])
     bv_avg=np.average(list_bv)
     bk_avg=np.average(list_bk)
     bv_std=np.std(list_bv)
     bk_std=np.std(list_bk)
-    print team_name[0],(bk-bk_avg)/bk_std,(bv-bv_avg)/bv_std
-    fileOUT.write( team_name[0]+' '+str((bk-bk_avg)/bk_std)+' '+str((bv-bv_avg)/bv_std)+'\n')
+    print team_name[0],(bk-bk_avg)/bk_std,(bv-bv_avg)/bv_std,(nk-bk_avg)/bk_std,(nv-bv_avg)/bv_std,bk_avg/bk_std,bv_avg/bv_std
+    fileOUT.write( team_name[0]+' '+str((bk-bk_avg)/bk_std)+' '+str((bv-bv_avg)/bv_std)+' '
+            +str((nk-bk_avg)/bk_std)+' '+str((nv-bv_avg)/bv_std)+' '+str(bk_avg/bk_std)+' '+str(bv_avg/bv_std)+'\n')
 
     bv=0
     bk=0
     nk=0
     nv=0
+    n=0
     team_idx+=1
+
 
