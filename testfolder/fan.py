@@ -81,6 +81,7 @@ with open("updatedlist") as f:
 team_idx=0
 print team_list
 while (team_idx<len(team_list)):
+    print(team_idx)
     team_ana(team_list[team_idx])
     team_name=team_list[team_idx].split('\n')
     team_draw=np.genfromtxt('./'+team_name[0],delimiter=' ',names=['foo','bar','bk','bv','nk','nv'])

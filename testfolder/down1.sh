@@ -16,7 +16,7 @@ for i in `seq $1 $1`  ;
 do
   echo $i
   #sleep 1 # Just to throttle a little bit, totally optional.  Remove this line if you want.
-  wget http://www.dota2lounge.com/match?m=$i -O match.htm
+  wget http://dota2lounge.com/match?m=$i -O match.htm
 
   # To get the winning team
   cat match.htm | grep team -A 1 | grep span | grep -v steam | awk '{print substr($0, 10)}' | tr " <" "_ " | awk '{print $1}' | grep win | awk -F'_' '{print $1}' > winning-team
