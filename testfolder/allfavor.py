@@ -5,9 +5,7 @@ import matplotlib.pyplot as plt
 import re
 
 def team_ana():
-    bk=0.0
     bv=0.0
-    nk=0.0
     nv=0.0
     buf=0
     with open("data-good-new") as f:
@@ -20,47 +18,32 @@ def team_ana():
         var=t.split('\t')
         #print var[0],var[1],var[2],var[3],var[4],var[5],var[6],var[7],var[8],var[9]
         odds=var[8].split()
-        if((len(odds)<6) and (len(odds)>=4)):
-#            lk=float(odds[0])
+        if (len(odds)==4):
             lv=float(odds[1])
-#            rk=float(odds[3])
             rv=float(odds[2])
-        elif((len(odds)<4) and (len(odds)>=2)):
+        elif(len(odds)==2):
             lv=float(odds[0])
             rv=float(odds[1])
+        else:
+            buf+=1
+            continue
         if (int(var[6])>50 and var[5]=="1"):
-#            bk+=4*lk
-            bv+=4*lv
-#            nk-=4
-            nv-=4
+            bv+=lv
+            nv-=1
         elif (int(var[6])<50 and var[5]=="2"):
-#            bk+=4*rk
-            bv+=4*rv
-#            nk-=4
-            nv-=4
+            bv+=rv
+            nv-=1
         elif (int(var[6])<50 and var[5]=="1"):
-#            bk-=4
-            bv-=4
-#            nk+=4*lk
-            nv+=4*lv
-            #nk+=int(var[8+idx])
-            #nv+=int(var[9+idx])
-            #nc+=int(var[10+idx])
+            bv-=1
+            nv+=lv
 
         elif (int(var[6])>50 and var[5]=="2"):
-#            bk-=4
-            bv-=4
-#            nk+=4*rk
-            nv+=4*rv
-            #nk+=int(var[13-idx])
-            #nv+=int(var[12-idx])
-            #nc+=int(var[11-idx])
-            #print var[0],,bv,bc,nk,nv,nc
+            bv-=1
+            nv+=rv
         buf+=1
         team_f=open("allfavor"+".txt",'a')
         team_f.write(var[0]+" "+var[1]+" "+str(bv)+" "+str(nv)+'\n')
     team_draw=np.genfromtxt("./allfavor"+".txt",delimiter=' ',names=['foo','bar','bv','nv'])
-#    print(team_draw['bbku'])
 # Create the plot
 #    plt.plot(team_draw['bk'],label='bk',color='r')
     plt.plot(team_draw['bv'],label='bv',color='r')
